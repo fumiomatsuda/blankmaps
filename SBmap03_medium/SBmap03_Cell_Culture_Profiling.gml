@@ -1,4 +1,4 @@
-# generated with VANTED V2.6.3 at Wed May 24 12:07:10 JST 2017
+# generated with VANTED V2.6.3 at Wed May 24 12:07:10 JST 2018
 graph [
   axis_color "#c0c0c0"
   chart_color_line_names "1: S288c/Genotype #1;2: pfk1d/Genotype #2;4: zwf1d/Genotype #2;3: zwf1d/Genotype #2;1: Species 1/Genotype #1;2: Species 2/Genotype #2;3: Species 2/Genotype #2;"
