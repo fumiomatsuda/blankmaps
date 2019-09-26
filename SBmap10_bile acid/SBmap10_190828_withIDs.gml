@@ -79,7 +79,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:81-25-4)(CID:221493)(kegg:C00695)(InChi:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(CHEBI:CHEBI:16359)(HMDB:HMDB0000619)(text:CA)(text:Cholic acid)(text:Cholate)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol)"
+      text "(CAS:81-25-4.)(CID:221493.)(kegg:C00695)(InChi:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(CHEBI:16359)(HMDB:HMDB0000619)(text:CA.)(text:Cholic acid.)(text:Cholate.)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00695"
@@ -127,7 +127,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:81-24-3)(CID:53297338)(kegg:C05122)(InChi:FZLMIZAHBFKTSH-IECFWMJSSA-N)(HMDB:HMDB0000036)(text:TCA)(text:Tauro-cholate)(text:Taurocholic acid)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol-N-[2-sulpho-ethyl]-amide)"
+      text "(CAS:81-24-3.)(CID:7544.)(kegg:C05122)(InChi:FZLMIZAHBFKTSH-IECFWMJSSA-N)(HMDB:HMDB0000036)(text:TCA.)(text:Tauro-cholate.)(text:Taurocholic acid.)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol-N-[2-sulpho-ethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05122"
@@ -175,7 +175,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:475-31-0)(kegg:C01921)(InChi:RFDAIACWWDREDC-FRVQLJSFSA-N)(CHEBI:CHEBI:17687)(HMDB:HMDB0000138)(text:GCA)(text:Glyco-cholate)(text:Glycocholic acid)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol-N-[carboxymethyl]-amide)"
+      text "(CAS:475-31-0.)(CID:10140.)(kegg:C01921)(InChi:RFDAIACWWDREDC-FRVQLJSFSA-N)(CHEBI:17687)(HMDB:HMDB0000138)(text:GCA.)(text:Glycocholic acid.)(text:Glyco-cholate.)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01921"
@@ -223,7 +223,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:115349-14-9)(kegg:C04483)(InChi:KXGVEGMKQFWNSR-LLQZFEROSA-N)(CHEBI:CHEBI:28834)(HMDB:HMDB0000626)(text:DCA)(text:Deoxycholate)(text:Deoxycholic acid)(text:5beta-cholanic acid-3alpha,12alpha-diol)"
+      text "(CAS:115349-14-9.)(kegg:C04483)(InChi:KXGVEGMKQFWNSR-LLQZFEROSA-N)(CHEBI:28834)(HMDB:HMDB0000626)(text:DCA.)(text:Deoxycholate.)(text:Deoxycholic acid.)(text:5beta-cholanic acid-3alpha,12alpha-diol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C04483"
@@ -271,7 +271,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:911-40-0)(HMDB:HMDB0000391)(text:7keto_DCA)(text:7-Keto-deoxycholate)(text:Keto-deoxycholate)(text:7-Keto-deoxycholic acid)(text:5beta-cholanic acid-3alpha,12alpha-diol-7-one)"
+      text "(CAS:911-40-0.)(HMDB:HMDB0000391)(text:7keto_DCA.)(text:7-Keto-deoxycholate.)(text:Keto-deoxycholate.)(text:7-Keto-deoxycholic acid.)(text:5beta-cholanic acid-3alpha,12alpha-diol-7-one.)"
       type "text"
     ]
   ]
@@ -318,7 +318,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:5130-29-0)(HMDB:HMDB0000328)(text:12keto_LCA)(text:12-Keto-lithocholate)(text:keto_LCA)(text:12-Keto-lithocholic acid)(text:3alpha-hydroxy-12-oxo-5beta-cholanoic acid)"
+      text "(CAS:5130-29-0.)(HMDB:HMDB0000328)(text:12keto_LCA.)(text:12-Keto-lithocholate.)(text:keto_LCA.)(text:12-Keto-lithocholic acid.)(text:3alpha-hydroxy-12-oxo-5beta-cholanoic acid.)"
       type "text"
     ]
   ]
@@ -365,7 +365,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:474-25-9)(kegg:C02528)(InChi:RUDATBOHQWOJDD-BSWAIDMHSA-N)(CHEBI:CHEBI:16755)(HMDB:HMDB0000518)(text:CDCA)(text:Chenodeoxycholate)(text:Chenodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7alpha-diol)"
+      text "(CAS:474-25-9.)(CID:10133.)(kegg:C02528)(InChi:RUDATBOHQWOJDD-BSWAIDMHSA-N)(CHEBI:16755)(HMDB:HMDB0000518)(text:CDCA.)(text:Chenodeoxycholate.)(text:Chenodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,7alpha-diol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02528"
@@ -413,7 +413,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:434-13-9)(kegg:C03990)(InChi:SMEROWZSTRWXGI-HVATVPOCSA-N)(CHEBI:CHEBI:16325)(HMDB:HMDB0000761)(text:LCA)(text:Lithocholate)(text:Lithocholic acid)(text:5beta-cholanic acid-3alpha-ol)"
+      text "(CAS:434-13-9.)(CID:6705.)(kegg:C03990)(InChi:SMEROWZSTRWXGI-HVATVPOCSA-N)(CHEBI:16325)(HMDB:HMDB0000761)(text:LCA.)(text:Lithocholate.)(text:Lithocholic acid.)(text:5beta-cholanic acid-3alpha-ol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03990"
@@ -461,7 +461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4651-67-6)(HMDB:HMDB0000467)(text:7keto_LCA)(text:7-Keto-lithocholate)(text:Keto-lithocholate)(text:7-Keto-lithocholic acid)(text:5beta-cholanic acid-3alpha-ol-7-one)"
+      text "(CAS:4651-67-6.)(HMDB:HMDB0000467)(text:7keto_LCA.)(text:7-Keto-lithocholate.)(text:Keto-lithocholate.)(text:7-Keto-lithocholic acid.)(text:5beta-cholanic acid-3alpha-ol-7-one.)"
       type "text"
     ]
   ]
@@ -508,7 +508,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:128-13-2)(kegg:C07880)(InChi:RUDATBOHQWOJDD-UZVSRGJWSA-N)(CHEBI:CHEBI:9907)(HMDB:HMDB0000946)(text:UDCA)(text:Ursodeoxycholate)(text:Ursodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7beta-diol)"
+      text "(CAS:128-13-2.)(CID:31401.)(kegg:C07880)(InChi:RUDATBOHQWOJDD-UZVSRGJWSA-N)(CHEBI:9907)(HMDB:HMDB0000946)(text:UDCA.)(text:Ursodeoxycholic acid.)(text:Ursodeoxycholate.)(text:5beta-cholanic acid-3alpha,7beta-diol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C07880"
@@ -556,7 +556,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1197-17-7)(InChi:GYDJEQRTZSCIOI-UHFFFAOYSA-N)(HMDB:HMDB0000506)(text:aMCA)(text:alpha-Muricholate)(text:a-Muricholic acid)(text:5beta-cholanic acid-3alpha,6beta,7alpha-triol)"
+      text "(CAS:1197-17-7.)(InChi:GYDJEQRTZSCIOI-UHFFFAOYSA-N)(HMDB:HMDB0000506)(text:aMCA.)(text:alpha-Muricholate.)(text:a-Muricholic acid.)(text:5beta-cholanic acid-3alpha,6beta,7alpha-triol.)"
       type "text"
     ]
   ]
@@ -603,7 +603,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2276-94-0)(HMDB:HMDB0000381)(text:allo_LCA)(text:allo-Lithocholate)(text:Allo-lithocholic acid)(text:Allo 5beta-cholanic acid-3alpha-ol)"
+      text "(CAS:2276-94-0.)(HMDB:HMDB0000381)(text:allo_LCA.)(text:allo-Lithocholate.)(text:Allo-lithocholic acid.)(text:Allo 5beta-cholanic acid-3alpha-ol.)"
       type "text"
     ]
   ]
@@ -650,7 +650,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:15357-34-3)(HMDB:HMDB0000514)(text:allo_CDCA)(text:allo-Chenodeoxycholate)(text:Allo-chenodeoxycholic acid)(text:Allo 5beta-cholanic acid-3alpha,7alpha-diol)"
+      text "(CAS:15357-34-3.)(HMDB:HMDB0000514)(text:allo_CDCA.)(text:allo-Chenodeoxycholate.)(text:Allo-chenodeoxycholic acid.)(text:Allo 5beta-cholanic acid-3alpha,7alpha-diol.)"
       type "text"
     ]
   ]
@@ -697,7 +697,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:83-49-8)(kegg:C15517)(InChi:DGABKXLVXPYZII-SIBKNCMHSA-N)(CHEBI:CHEBI:52023)(HMDB:HMDB0000733)(text:HDCA)(text:Hyodeoxycholate)(text:Hyodeoxycholic acid)(text:5beta-cholanic acid-3alpha,6alpha-diol)"
+      text "(CAS:83-49-8.)(CID:5283820.)(kegg:C15517)(InChi:DGABKXLVXPYZII-SIBKNCMHSA-N)(CHEBI:52023)(HMDB:HMDB0000733)(text:HDCA.)(text:Hyodeoxycholate.)(text:Hyodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,6alpha-diol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C15517"
@@ -745,7 +745,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(kegg:C17727)(InChi:DKPMWHFRUGMUKF-NTPBNISXSA-N)(CHEBI:CHEBI:81299)(HMDB:HMDB0000364)(text:oMCA)(text:omega-Muricholate)(text:w-Muricholic acid)(text:5beta-cholanic acid-3alpha,6alpha,7beta-triol)"
+      text "(CID:5283851.)(kegg:C17727)(InChi:DKPMWHFRUGMUKF-NTPBNISXSA-N)(CHEBI:81299)(HMDB:HMDB0000364)(text:oMCA.)(text:omega-Muricholate.)(text:w-Muricholic acid.)(text:5beta-cholanic acid-3alpha,6alpha,7beta-triol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C17727"
@@ -793,7 +793,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2393-59-1)(kegg:C17726)(InChi:DKPMWHFRUGMUKF-CRKPLTDNSA-N)(CHEBI:CHEBI:81298)(HMDB:HMDB0000415)(text:bMCA)(text:beta-Muricholate)(text:b-Muricholic acid)(text:5beta-cholanic acid-3alpha,6beta,7beta-triol)"
+      text "(CAS:2393-59-1.)(CID:5283853.)(kegg:C17726)(InChi:DKPMWHFRUGMUKF-CRKPLTDNSA-N)(CHEBI:81298)(HMDB:HMDB0000415)(text:bMCA.)(text:beta-Muricholate.)(text:b-Muricholic acid.)(text:5beta-cholanic acid-3alpha,6beta,7beta-triol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C17726"
@@ -841,7 +841,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:360-65-6)(kegg:C05464)(InChi:WVULKSPCQVQLCU-BUXLTGKBSA-N)(CHEBI:CHEBI:27471)(text:GDCA)(text:Glyco-deoxycholate)(text:Glycodeoxycholic acid)(text:5beta-cholanic acid-3alpha,12alpha-diol-N-[carboxymethyl]-amide)"
+      text "(CAS:360-65-6.)(CID:7824.)(kegg:C05464)(InChi:WVULKSPCQVQLCU-BUXLTGKBSA-N)(CHEBI:27471)(text:GDCA.)(text:Glyco-deoxycholate.)(text:Glycodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,12alpha-diol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05464"
@@ -889,7 +889,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(kegg:C05463)(InChi:AWDRATDZQPNJFN-JCAYPLLTSA-N)(HMDB:HMDB0000896)(text:TDCA)(text:Tauro-deoxycholate)(text:Taurodeoxycholic acid)(text:5beta-cholanic acid-3alpha,12alpha-diol-N-[2-sulphoethyl]-amide)"
+      text "(kegg:C05463)(InChi:AWDRATDZQPNJFN-JCAYPLLTSA-N)(HMDB:HMDB0000896)(text:TDCA.)(text:Tauro-deoxycholate.)(text:Taurodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,12alpha-diol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05463"
@@ -937,7 +937,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:14605-22-2)(kegg:C16868)(InChi:BHTRKEVKTKCXOH-LBSADWJPSA-N)(CHEBI:CHEBI:80774)(HMDB:HMDB0000874)(text:TUDCA)(text:Tauro-ursodeoxycholate)(text:Tauroursodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7beta-diol-N-[2-sulphoethyl]-amide)"
+      text "(CAS:14605-22-2.)(CID:9848818.)(kegg:C16868)(InChi:BHTRKEVKTKCXOH-LBSADWJPSA-N)(CHEBI:80774)(HMDB:HMDB0000874)(text:TUDCA.)(text:Tauro-ursodeoxycholate.)(text:Tauroursodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,7beta-diol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C16868"
@@ -985,7 +985,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:64480-66-6)(InChi:GHCZAUBVMUEKKP-XROMFQGDSA-N)(HMDB:HMDB0000708)(text:GUDCA)(text:Glyco-ursodeoxycholate)(text:Glycoursodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7beta-diol-N-[carboxymethyl]-amide)"
+      text "(CAS:64480-66-6.)(InChi:GHCZAUBVMUEKKP-XROMFQGDSA-N)(HMDB:HMDB0000708)(text:GUDCA.)(text:Glyco-ursodeoxycholate.)(text:Glycoursodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,7beta-diol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
   ]
@@ -1032,7 +1032,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:25696-60-0)(HMDB:HMDB0000932)(text:TbMCA)(text:Tauro-beta-muricholate)(text:Tauro-b-muricholic acid)(text:5beta-cholanic acid-3alpha,6beta,7beta-triol-N-[2-sulphoethyl]-amide)"
+      text "(CAS:25696-60-0.)(HMDB:HMDB0000932)(text:TbMCA.)(text:Tauro-beta-muricholate.)(text:Tauro-b-muricholic acid.)(text:5beta-cholanic acid-3alpha,6beta,7beta-triol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
   ]
@@ -1079,7 +1079,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2260905-08-4)(text:TaMCA)(text:Tauro-alpha-muricholate)(text:Tauro-a-muricholic acid)(text:5beta-cholanic acid-3alpha, 6beta,7alpha-triol-N-[2-sulphoethyl]-amide)"
+      text "(CAS:2260905-08-4.)(text:TaMCA.)(text:Tauro-alpha-muricholate.)(text:Tauro-a-muricholic acid.)(text:5beta-cholanic acid-3alpha, 6beta,7alpha-triol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
   ]
@@ -1126,7 +1126,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:516-35-8)(kegg:C05465)(InChi:BHTRKEVKTKCXOH-BJLOMENOSA-N)(CHEBI:CHEBI:16525)(HMDB:HMDB0000951)(text:TCDCA)(text:Tauro-chenodeoxycholate)(text:Taurochenodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7alpha-diol-N-[2-sulpho-ethyl]-amide)"
+      text "(CAS:516-35-8.)(CID:7825.)(kegg:C05465)(InChi:BHTRKEVKTKCXOH-BJLOMENOSA-N)(CHEBI:16525)(HMDB:HMDB0000951)(text:TCDCA.)(text:Tauro-chenodeoxycholate.)(text:Taurochenodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,7alpha-diol-N-[2-sulpho-ethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05465"
@@ -1174,7 +1174,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:640-79-9)(kegg:C05466)(InChi:GHCZAUBVMUEKKP-GYPHWSFCSA-N)(CHEBI:CHEBI:36274)(HMDB:HMDB0000637)(text:GCDCA)(text:Glyco-chenodeoxycholate)(text:Glycochenodeoxycholic acid)(text:5beta-cholanic acid-3alpha,7alpha-diol-N-[carboxymethyl]-amide)"
+      text "(CAS:640-79-9.)(CID:7826.)(kegg:C05466)(InChi:GHCZAUBVMUEKKP-GYPHWSFCSA-N)(CHEBI:36274)(HMDB:HMDB0000637)(text:GCDCA.)(text:Glyco-chenodeoxycholate.)(text:Glycochenodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,7alpha-diol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05466"
@@ -1222,7 +1222,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2958-4-5)(text:THDCA)(text:Tauro-hyodeoxycholate)(text:Taurohyodeoxycholic acid)(text:5beta-cholanic acid-3alpha,6alpha-diol-N-[2-sulphoethyl]-amide)"
+      text "(CAS:2958-4-5.)(text:THDCA.)(text:Tauro-hyodeoxycholate.)(text:Taurohyodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,6alpha-diol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
   ]
@@ -1269,7 +1269,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13042-33-6)(text:GHDCA)(text:Glyco-hyodeoxycholate)(text:Glycohyodeoxycholic acid)(text:5beta-cholanic acid-3alpha,6alpha-diol-N-[carboxymethyl]-amide)"
+      text "(CAS:13042-33-6.)(text:GHDCA.)(text:Glyco-hyodeoxycholate.)(text:Glycohyodeoxycholic acid.)(text:5beta-cholanic acid-3alpha,6alpha-diol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
   ]
@@ -1316,7 +1316,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:516-90-5)(kegg:C02592)(InChi:QBYUNVOYXHFVKC-GBURMNQMSA-N)(CHEBI:CHEBI:36259)(HMDB:HMDB0000722)(text:TLCA)(text:Tauro-lithocholate)(text:Taurolithocholic acid)(text:5beta-cholanic acid-3alpha-ol-N-[2-sulphoethyl]-amide)"
+      text "(CAS:516-90-5.)(CID:439763.)(kegg:C02592)(InChi:QBYUNVOYXHFVKC-GBURMNQMSA-N)(CHEBI:36259)(HMDB:HMDB0000722)(text:TLCA.)(text:Tauro-lithocholate.)(text:Taurolithocholic acid.)(text:5beta-cholanic acid-3alpha-ol-N-[2-sulphoethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02592"
@@ -1364,7 +1364,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:474-74-8)(kegg:C15557)(InChi:XBSQTYHEGZTYJE-OETIFKLTSA-N)(CHEBI:CHEBI:37998)(HMDB:HMDB0000698)(text:GLCA)(text:Glyco-lithocholate)(text:Glycolithocholic acid)(text:5beta-cholanic acid-3alpha-ol-N-[carboxymethyl]-amide)"
+      text "(CAS:474-74-8.)(CID:115245.)(kegg:C15557)(InChi:XBSQTYHEGZTYJE-OETIFKLTSA-N)(CHEBI:37998)(HMDB:HMDB0000698)(text:GLCA.)(text:Glyco-lithocholate.)(text:Glycolithocholic acid.)(text:5beta-cholanic acid-3alpha-ol-N-[carboxymethyl]-amide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C15557"

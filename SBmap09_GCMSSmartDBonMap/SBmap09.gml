@@ -94,7 +94,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-99-7)(CID:5793)(KEGG:C00031)(Name:WQZGKKKJIJFFOK-GASJEMHNSA-N)(Name:Glucose)"
+      text "(CAS:50-99-7.)(CAS:2280-44-6.)(CID:5793.)(kegg:C00031)(InChi:WQZGKKKJIJFFOK-GASJEMHNSA-N)(CHEBI:4167)(text:Glucose.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00031"
@@ -157,7 +157,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(KEGG:C00075)(Name:PGAVKCOVUIYSFO-XVFCMESISA-N)(ChEBI:CHEBI:15713)(Name:UTP)(Name:Uridine triphosphate)(Name:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -220,7 +220,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(KEGG:C00020)(Name:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(ChEBI:CHEBI:16027)(Name:AMP)(Name:Adenosine monophosphate)(Name:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -283,7 +283,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:133-89-1)(CID:3331)(KEGG:C00029)(Name:HSCJRCZFDFQWRP-JZMIEXBBSA-N)(ChEBI:CHEBI:46229)(Name:UDP-glucose)(Name:Uridine 5'-diphosphate glucose)(Name:UDP-Glc)"
+      text "(CAS:133-89-1.)(CID:8629.)(kegg:C00029)(InChi:HSCJRCZFDFQWRP-JZMIEXBBSA-N)(CHEBI:46229)(text:UDP-glucose.)(text:Uridine 5d-diphosphate glucose.)(text:UDP-Glc.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00029"
@@ -346,7 +346,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50319-10-3)(CID:65533)(KEGG:C00103)(Name:HXXFSFRBOHSIMQ-VFUOTHLCSA-N)(ChEBI:CHEBI:29042)(Name:Glucose 1-phosphate)(Name:D-Glucose 1-phosphate)(Name:G1P)"
+      text "(CAS:52-90-4.)(CAS:4371-52-2.)(CAS:154605-72-8.)(CAS:1404190-35-7.)(CAS:62488-11-3.)(CID:65533.)(kegg:C00103)(InChi:HXXFSFRBOHSIMQ-VFUOTHLCSA-N)(CHEBI:29042)(text:Glucose 1-phosphate.)(text:D-Glucose 1-phosphate.)(text:G1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00103"
@@ -409,7 +409,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-73-5)(CID:5958)(KEGG:C00092)(Name:NBSCHQHZLSJFNQ-GASJEMHNSA-N)(Name:Glucose 6-phosphate)(Name:D-Glucose 6-phosphate)(Name:G6P)"
+      text "(CAS:57-50-1.)(CAS:100405-08-1.)(CAS:104242-10-6.)(CAS:131932-12-2.)(CAS:146054-35-5.)(CAS:146187-04-4.)(CAS:151756-02-4.)(CAS:220376-22-7.)(CAS:29253-78-9.)(CAS:29764-06-5.)(CAS:30027-72-6.)(CAS:47167-52-2.)(CAS:47185-09-1.)(CAS:47257-91-0.)(CAS:50857-68-6.)(CAS:51909-69-4.)(CAS:64533-66-0.)(CAS:65545-99-5.)(CAS:75398-84-4.)(CAS:76056-38-7.)(CAS:78654-77-0.)(CAS:80165-03-3.)(CAS:8027-47-2.)(CAS:8030-20-4.)(CAS:85456-51-5.)(CAS:86101-30-6.)(CAS:87430-66-8.)(CAS:92004-84-7.)(CAS:635681-90-2.)(CAS:786702-63-4.)(CAS:12040-73-2.)(CAS:1159795-78-4.)(CAS:1206156-82-2.)(CAS:880257-62-5.)(CAS:1192061-43-0.)(CAS:1481578-88-4.)(CAS:1566560-95-9.)(CAS:25702-74-3.)(CAS:92004-84-7.)(CID:5958.)(kegg:C00092)(InChi:NBSCHQHZLSJFNQ-GASJEMHNSA-N)(CHEBI:4170)(text:Glucose 6-phosphate.)(text:D-Glucose 6-phosphate.)(text:G6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00092"
@@ -472,7 +472,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:921-62-0)(CID:91493)(KEGG:C00345)(Name:BIRSGZKFKXLSJQ-SQOUGZDYSA-N)(Name:6-Phosphogluconic acid)(Name:6PG)"
+      text "(CAS:921-62-0.)(CID:91493.)(kegg:C00345)(InChi:BIRSGZKFKXLSJQ-SQOUGZDYSA-N)(CHEBI:48928)(text:6-Phosphogluconic acid.)(text:6PG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00345"
@@ -535,7 +535,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4151-19-3)(CID:439184)(KEGG:C00199)(Name:FNZLKVNUWIIPSJ-UHNVWZDZSA-N)(ChEBI:CHEBI:17363)(Name:Ribulose 5-phosphate)(Name:D-Ribulose 5-phosphate)(Name:Ru5P)"
+      text "(CAS:551-85-9.)(CID:439184.)(kegg:C00199)(InChi:FNZLKVNUWIIPSJ-UHNVWZDZSA-N)(CHEBI:17363)(text:Ribulose 5-phosphate.)(text:D-Ribulose 5-phosphate.)(text:Ru5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00199"
@@ -598,7 +598,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3615-55-2)(CID:77982)(KEGG:C00117)(Name:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(ChEBI:CHEBI:52742)(Name:Ribose 5-phosphate)(Name:D-Ribose 5-phosphate)(Name:R5P)"
+      text "(CAS:63-38-7.)(CID:439167.)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:52742)(text:Ribose 5-phosphate.)(text:D-Ribose 5-phosphate.)(text:R5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00117"
@@ -708,7 +708,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3458-28-4)(CID:18950)(KEGG:C00159)(Name:WQZGKKKJIJFFOK-QTVWNMPRSA-N)(Name:Mannose)(Name:D-Mannose)"
+      text "(CAS:3458-28-4.)(CAS:31103-86-3.)(CID:18950.)(kegg:C00159)(InChi:WQZGKKKJIJFFOK-QTVWNMPRSA-N)(CHEBI:4208)(text:Mannose.)(text:D-Mannose.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00159"
@@ -771,7 +771,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:3909)(KEGG:C00636)(Name:HXXFSFRBOHSIMQ-RWOPYEJCSA-N)(ChEBI:CHEBI:18205)(Name:Mannose 1-phosphate)(Name:D-Mannose 1-phosphate)(Name:M1P)"
+      text "(CAS:27251-84-9.)(CID:439279.)(kegg:C00636)(InChi:HXXFSFRBOHSIMQ-RWOPYEJCSA-N)(CHEBI:18205)(CHEBI:35374)(text:Mannose 1-phosphate.)(text:D-Mannose 1-phosphate.)(text:M1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00636"
@@ -834,7 +834,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:15978-08-02)(CID:65246)(KEGG:C01094)(Name:RHKKZBWRNHGJEZ-VRPWFDPXSA-N)(Name:Fructose 1-phosphate)(Name:D-Fructose 1-phosphate)(Name:F1P)"
+      text "(CAS:15978-08-2.)(CID:439394.)(kegg:C01094)(InChi:RHKKZBWRNHGJEZ-VRPWFDPXSA-N)(CHEBI:37515)(text:Fructose 1-phosphate.)(text:D-Fructose 1-phosphate.)(text:F1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01094"
@@ -897,7 +897,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:643-13-0)(CID:69507)(KEGG:C00085)(Name:BGWGXPAPYGQALX-VRPWFDPXSA-N)(ChEBI:CHEBI:61553)(Name:Fructose 6-phosphate)(Name:D-Fructose 6-phosphate)(Name:F6P)"
+      text "(CAS:0132-06-9.)(CID:69507.)(kegg:C00085)(InChi:GSXOAOHZAIYLCY-HSUXUTPPSA-N)(CHEBI:61553)(text:Fructose 6-phosphate.)(text:D-Fructose 6-phosphate.)(text:F6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00085"
@@ -1007,7 +1007,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:585-18-2)(CID:122357)(KEGG:C00279)(Name:NGHMDNPXVRFFGS-IUYQGCFVSA-N)(ChEBI:CHEBI:48153)(Name:Erythrose 4-phosphate)(Name:D-Erythrose 4-phosphate)(Name:E4P)"
+      text "(CAS:585-18-2.)(CID:122357.)(kegg:C00279)(InChi:NGHMDNPXVRFFGS-IUYQGCFVSA-N)(CHEBI:48153)(text:Erythrose 4-phosphate.)(text:D-Erythrose 4-phosphate.)(text:E4P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00279"
@@ -1070,7 +1070,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3615-55-2)(CID:77982)(KEGG:C00117)(Name:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(ChEBI:CHEBI:52742)(Name:Ribose 5-phosphate)(Name:D-Ribose 5-phosphate)(Name:R5P)"
+      text "(CAS:63-38-7.)(CID:439167.)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:52742)(text:Ribose 5-phosphate.)(text:D-Ribose 5-phosphate.)(text:R5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00117"
@@ -1133,7 +1133,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60802-29-1)(CID:3530)(KEGG:C00231)(Name:FNZLKVNUWIIPSJ-RFZPGFLSSA-L)(ChEBI:CHEBI:57737)(Name:Xu5P)(Name:Xylu5P)(Name:D-Xylulose 5-phosphate)(Name:Xylulose 5-phosphate)(Name:X5P)"
+      text "(CAS:4212-65-1.)(CID:439190.)(kegg:C00231)(InChi:FNZLKVNUWIIPSJ-RFZPGFLSSA-L)(CHEBI:16332)(text:Xu5P.)(text:Xylu5P.)(text:D-Xylulose 5-phosphate.)(text:Xylulose 5-phosphate.)(text:X5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00231"
@@ -1290,10 +1290,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3416-24-8)(CID:441477)(KEGG:C08349)(KEGG:C00329)(Name:MSWZFWKMSRAUBD-QZABAPFNSA-N)(ChEBI:CHEBI:16261)(Name:Glucosamine)(Name:D-Glucosamine)"
+      text "(CAS:14257-69-3.)(CID:441477.)(kegg:C08349)(InChi:MSWZFWKMSRAUBD-QZABAPFNSA-N)(CHEBI:28393)(text:Glucosamine.)(text:D-Glucosamine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00329"
+    url "https://www.genome.jp/dbget-bin/www_bget?C08349"
   ]
   node [
     id 33
@@ -1447,7 +1447,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:488-69-7)(CID:172313)(KEGG:C00354)(Name:RNBGYGVWRKECFJ-VRPWFDPXSA-N)(Name:Fructose 1,6-bisphosphate)(Name:D-Fructose 1,6-bisphosphate)(Name:FBP)"
+      text "(CAS:488-69-7.)(CID:172313.)(kegg:C00354)(InChi:RNBGYGVWRKECFJ-VRPWFDPXSA-N)(CHEBI:16905)(CHEBI:37736)(text:Fructose 1,6-bisphosphate.)(text:D-Fructose 1,6-bisphosphate.)(text:FBP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00354"
@@ -1604,7 +1604,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-35-7)(CID:165007)(KEGG:C05382)(Name:JDTUMPKOJBQPKX-GBNDHIKLSA-N)(ChEBI:CHEBI:15721)(Name:Sedoheptulose 7-phosphate)(Name:D-Sedoheputulose 7-phosphate)(Name:S7P)"
+      text "(CAS:2646-35-7.)(CID:7756.)(kegg:C05382)(InChi:JDTUMPKOJBQPKX-GBNDHIKLSA-N)(CHEBI:15721)(text:Sedoheptulose 7-phosphate.)(text:D-Sedoheputulose 7-phosphate.)(text:S7P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05382"
@@ -1761,7 +1761,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(KEGG:C00122)(Name:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(ChEBI:CHEBI:18012)(Name:Fumaric acid)(Name:Fum)(Name:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -1965,7 +1965,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1957/4/5)(CID:3411)(KEGG:C00111)(Name:GNGACRATGGDKBX-UHFFFAOYSA-N)(ChEBI:CHEBI:16108)(Name:Dihydroxyacetone phosphate)(Name:DHAP)"
+      text "(CAS:66-22-8.)(CAS:144104-68-7.)(CAS:42910-77-0.)(CAS:4433-21-0.)(CAS:4433-24-3.)(CAS:766-19-8.)(CAS:138285-60-6.)(CAS:153445-42-2.)(CAS:51953-19-6.)(CAS:24897-50-5.)(CID:3411.)(kegg:C00111)(InChi:GNGACRATGGDKBX-UHFFFAOYSA-N)(CHEBI:16108)(text:Dihydroxyacetone phosphate.)(text:DHAP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00111"
@@ -2028,7 +2028,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7664-38-2)(CID:1004)(KEGG:C00009)(Name:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(ChEBI:CHEBI:26078)(Name:Phosphoric acid)"
+      text "(CAS:7664-38-2.)(CID:1004.)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:26078)(text:Phosphoric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00009"
@@ -2091,7 +2091,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0142-10-9)(CID:729)(KEGG:C00118)(Name:LXJXRIRHZLFYRP-VKHMYHEASA-N)(ChEBI:CHEBI:29052)(Name:Glyceraldehyde 3-phosphate)(Name:GAP)(Name:DL-Glyceraldehyde 3-phosphate)"
+      text "(CAS:62-49-7.)(CAS:139741-81-4.)(CAS:2087491-45-8.)(CAS:5413-08-1.)(CID:729.)(kegg:C00118)(InChi:LXJXRIRHZLFYRP-VKHMYHEASA-N)(CHEBI:29052)(text:Glyceraldehyde 3-phosphate.)(text:GAP.)(text:DL-Glyceraldehyde 3-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00118"
@@ -2201,7 +2201,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(KEGG:C00065)(Name:MTCFGRXMJLQNBG-REOHCLBHSA-N)(ChEBI:CHEBI:17115)(Name:Serine)(Name:L-Serine)(Name:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -2264,7 +2264,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:38168-82-0)(CID:683)(KEGG:C00236)(Name:LJQLQCAXBUHEAZ-UWTATZPHSA-N)(ChEBI:CHEBI:16001)(Name:1,3-Bisphosphoglyceric acid)"
+      text "(CAS:38168-82-0.)(CID:439191.)(kegg:C00236)(InChi:LJQLQCAXBUHEAZ-UWTATZPHSA-N)(CHEBI:16001)(text:1,3-Bisphosphoglyceric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00236"
@@ -2327,7 +2327,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:135-16-0)(CID:3401)(KEGG:C00101)(Name:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(ChEBI:CHEBI:20506)(Name:CH2-THF)(Name:Tetrahydrofolic acid)"
+      text "(CAS:27576-49-4.)(CAS:3123-67-9.)(CAS:18441-12-8.)(CAS:7227-60-3.)(CAS:20236-92-4.)(CAS:90191-82-5.)(CAS:29698-71-3.)(CID:3401.)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:20506)(text:CH2-THF.)(text:Tetrahydrofolic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00101"
@@ -2390,7 +2390,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-85-5)(CID:171548)(KEGG:C00120)(Name:YBJHBAHKTGYVGT-ZKWXMUAHSA-N)(ChEBI:CHEBI:15956)(Name:Biotin)"
+      text "(CAS:3615-55-2.)(CID:171548.)(kegg:C00120)(InChi:YBJHBAHKTGYVGT-ZKWXMUAHSA-N)(CHEBI:15956)(text:Biotin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00120"
@@ -2453,7 +2453,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -2516,7 +2516,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -2579,7 +2579,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:123-31-9)(CID:785)(KEGG:C00530)(Name:QIGBRXMKCJKVMJ-UHFFFAOYSA-N)(ChEBI:CHEBI:17594)(Name:Hydroquinone)"
+      text "(CAS:123-31-9.)(CID:785.)(kegg:C00530)(InChi:QIGBRXMKCJKVMJ-UHFFFAOYSA-N)(CHEBI:17594)(text:Hydroquinone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00530"
@@ -2642,7 +2642,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:407-41-0)(CID:7059387)(KEGG:C01005)(Name:BZQFBWGGLXLEPQ-REOHCLBHSA-N)(ChEBI:CHEBI:15811)(Name:O-Phospho-Serine)(Name:Phosphoserine)(Name:O-Phospho-L-serine)(Name:O-Phospho-Ser)"
+      text "(CAS:407-41-0.)(CID:68841.)(kegg:C01005)(InChi:BZQFBWGGLXLEPQ-REOHCLBHSA-N)(CHEBI:15811)(text:O-Phospho-Serine.)(text:Phosphoserine.)(text:O-Phospho-L-serine.)(text:O-Phospho-Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01005"
@@ -2705,7 +2705,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-87-0)(CID:1052)(KEGG:C00534)(Name:NHZMQXZHNVQTQA-UHFFFAOYSA-N)(ChEBI:CHEBI:16410)(Name:Pyridoxamine)"
+      text "(CAS:85-87-0.)(CID:1052.)(kegg:C00534)(InChi:NHZMQXZHNVQTQA-UHFFFAOYSA-N)(CHEBI:16410)(text:Pyridoxamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00534"
@@ -2768,7 +2768,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3913-50-6)(CID:6103)(KEGG:C03232)(Name:LFLUCDOSQPJJBE-UHFFFAOYSA-N)(ChEBI:CHEBI:30933)(Name:3-Phosphohydroxypyruvate)"
+      text "(CAS:3913-50-6.)(CID:105.)(kegg:C03232)(InChi:LFLUCDOSQPJJBE-UHFFFAOYSA-N)(CHEBI:30933)(text:3-Phosphohydroxypyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03232"
@@ -2831,7 +2831,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:439278)(KEGG:C00631)(KEGG:C00597)(Name:GXIURPTVHJPJLF-UWTATZPHSA-N)(ChEBI:CHEBI:17835)(Name:3-Phosphoglyceric acid_2-Phosphoglyceric acid)"
+      text "(CAS:0820-11-1.)(CID:439278.)(kegg:C00631)(kegg:C00597)(InChi:GXIURPTVHJPJLF-UWTATZPHSA-N)(CHEBI:17835)(CHEBI:17050)(text:3-Phosphoglyceric acid_2-Phosphoglyceric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00597"
@@ -2894,7 +2894,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0820-11-1)(CID:724)(KEGG:C00197)(KEGG:C00597)(Name:OSJPPGNTCRNQQC-UWTATZPHSA-N)(ChEBI:CHEBI:17794)(Name:3-Phosphoglyceric acid)(Name:3-Phospho-D-glyceric acid)(Name:3-PGA)(Name:3PG)"
+      text "(CAS:0820-11-1.)(CID:724.)(kegg:C00197)(kegg:C00597)(InChi:OSJPPGNTCRNQQC-UWTATZPHSA-N)(CHEBI:17794)(text:3-Phosphoglyceric acid.)(text:3-Phospho-D-glyceric acid.)(text:3-PGA.)(text:3PG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00597"
@@ -2957,7 +2957,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-17-8)(CID:643976)(KEGG:C00061)(Name:FVTCRASFADXXNN-SCRDCRAPSA-N)(ChEBI:CHEBI:17621)(Name:FMN)(Name:Flavin mononucleotide)"
+      text "(CAS:146-17-8.)(CID:643976.)(kegg:C00061)(InChi:FVTCRASFADXXNN-SCRDCRAPSA-N)(CHEBI:17621)(text:FMN.)(text:Flavin mononucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00061"
@@ -3020,7 +3020,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-23-6)(CID:1054)(KEGG:C00314)(Name:LXNHXLLTXMVWPM-UHFFFAOYSA-N)(ChEBI:CHEBI:16709)(Name:Pyridoxine)"
+      text "(CAS:65-23-6.)(CID:1054.)(kegg:C00314)(InChi:LXNHXLLTXMVWPM-UHFFFAOYSA-N)(CHEBI:16709)(text:Pyridoxine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00314"
@@ -3083,7 +3083,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:79-83-4)(CID:6613)(KEGG:C00864)(Name:GHOKWGTUZJEAQD-ZETCQYMHSA-N)(Name:Pantothenic acid)(Name:Pantothenate)"
+      text "(CAS:79-83-4.)(CID:6613.)(kegg:C00864)(InChi:GHOKWGTUZJEAQD-UHFFFAOYSA-N)(CHEBI:7916)(text:Pantothenic acid.)(text:Pantothenate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00864"
@@ -3146,7 +3146,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(KEGG:C00044)(Name:XKMLYUALXHKNFT-UUOKFMHZSA-N)(ChEBI:CHEBI:15996)(Name:GTP)(Name:Guanosine triphosphate)(Name:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -3209,7 +3209,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1200-22-2)(CID:6112)(KEGG:C16241)(Name:AGBQKNBQESQNJD-SSDOTTSWSA-N)(ChEBI:CHEBI:30314)(Name:Lipoic acid)"
+      text "(CAS:1200-22-2.)(CID:6112.)(kegg:C16241)(InChi:AGBQKNBQESQNJD-SSDOTTSWSA-N)(CHEBI:30314)(text:Lipoic acid.)(text:[R]-Lipoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C16241"
@@ -3272,7 +3272,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2553-59-5)(CID:59)(KEGG:C00631)(Name:GXIURPTVHJPJLF-UHFFFAOYSA-N)(ChEBI:CHEBI:24344)(Name:2-Phosphoglyceric acid)(Name:2PG)(Name:2-Phospho-D-glyceric acid)(Name:2-PGA)"
+      text "(CAS:2553-59-5.)(CID:59.)(kegg:C00631)(InChi:GXIURPTVHJPJLF-UHFFFAOYSA-N)(CHEBI:17835)(text:2-Phosphoglyceric acid.)(text:2PG.)(text:2-Phospho-D-glyceric acid.)(text:2-PGA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00631"
@@ -3335,7 +3335,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(KEGG:C00035)(Name:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(ChEBI:CHEBI:17552)(Name:GDP)(Name:Guanosine diphosphate)(Name:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -3398,7 +3398,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-47-4)(CID:6176)(KEGG:C00063)(Name:PCDQPRRSZKQHHS-XVFCMESISA-N)(ChEBI:CHEBI:17677)(Name:CTP)(Name:Cytidine triphosphate)(Name:Cytidine 5'-triphosphate)"
+      text "(CAS:65-47-4.)(CAS:1259312-99-6.)(CAS:1613528-28-1.)(CID:6176.)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:17677)(text:CTP.)(text:Cytidine triphosphate.)(text:Cytidine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00063"
@@ -3461,7 +3461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:25191-14-4)(CID:6804)(KEGG:C00144)(Name:RQFCJASXJCIDSX-UUOKFMHZSA-N)(ChEBI:CHEBI:17345)(Name:GMP)(Name:Guanosine monophosphate)(Name:Guanosine 5'-monophosphate)"
+      text "(CAS:85-32-5.)(CID:135398631.)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:17345)(text:GMP.)(text:Guanosine monophosphate.)(text:Guanosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00144"
@@ -3524,7 +3524,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0365-08-02)(CID:64968)(KEGG:C00459)(Name:NHVNXKFIZYSCEB-XLPZGREQSA-N)(ChEBI:CHEBI:18077)(Name:TTP)(Name:Thymidine triphosphate)(Name:Deoxythymidine 5'-triphosphate)(Name:dTTP)"
+      text "(CAS:365-08-2.)(CID:64968.)(kegg:C00459)(InChi:NHVNXKFIZYSCEB-XLPZGREQSA-N)(CHEBI:18077)(text:dTTP.)(text:Deoxythymidine triphosphate.)(text:Deoxythymidine 5d-triphosphate.)(text:TTP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00459"
@@ -3587,7 +3587,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:34393-59-4)(CID:6132)(KEGG:C00112)(Name:ZWIADYZPOWUWEW-XVFCMESISA-N)(ChEBI:CHEBI:17239)(Name:CDP)(Name:Cytidine diphosphate)(Name:Cytidine 5'-diphosphate)"
+      text "(CAS:118-92-3.)(CAS:80206-34-4.)(CAS:1321-11-5.)(CID:6132.)(kegg:C00112)(InChi:ZWIADYZPOWUWEW-XVFCMESISA-N)(CHEBI:17239)(text:CDP.)(text:Cytidine diphosphate.)(text:Cytidine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00112"
@@ -3650,7 +3650,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(KEGG:C00075)(Name:PGAVKCOVUIYSFO-XVFCMESISA-N)(ChEBI:CHEBI:15713)(Name:UTP)(Name:Uridine triphosphate)(Name:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -3713,7 +3713,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0138-08-09)(CID:1005)(KEGG:C00074)(Name:DTBNBXWJWCWCIK-UHFFFAOYSA-N)(Name:Phosphoenolpyruvic acid)(Name:PEP)"
+      text "(CAS:1428525-25-0.)(CAS:1703051-92-6.)(CAS:6730-29-6.)(CAS:53262-66-1.)(CID:1005.)(kegg:C00074)(InChi:DTBNBXWJWCWCIK-UHFFFAOYSA-N)(CHEBI:44897)(text:Phosphoenolpyruvic acid.)(text:PEP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00074"
@@ -3776,7 +3776,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(KEGG:C00020)(Name:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(ChEBI:CHEBI:16027)(Name:AMP)(Name:Adenosine monophosphate)(Name:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -3839,7 +3839,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7665-99-8)(CID:24316)(KEGG:C00942)(Name:ZOOGRGPOEVQQDX-UUOKFMHZSA-N)(ChEBI:CHEBI:16356)(Name:cGMP)(Name:Guanosine 3',5'-cyclic monophosphate)"
+      text "(CAS:7665-99-8.)(CID:135398570.)(kegg:C00942)(InChi:ZOOGRGPOEVQQDX-UUOKFMHZSA-N)(CHEBI:16356)(text:cGMP.)(text:Guanosine 3d,5d-cyclic monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00942"
@@ -3890,22 +3890,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:491-97-4)(CID:164628)(KEGG:C00363)(Name:UJLXYODCHAELLY-XLPZGREQSA-N)(ChEBI:CHEBI:18075)(Name:TDP)(Name:Thymidine diphosphate)(Name:Deoxythymidine 5'-diphosphate)(Name:dTDP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00363"
   ]
   node [
     id 95
@@ -3965,7 +3949,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:26628-47-7)(CID:6131)(KEGG:C00055)(Name:IERHLVCPSMICTF-XVFCMESISA-N)(ChEBI:CHEBI:17361)(Name:CMP)(Name:Cytidine monophosphate)(Name:Cytidine-5'-monophosphate)"
+      text "(CAS:63-37-6.)(CAS:162756-87-8.)(CAS:55679-92-0.)(CAS:293738-08-6.)(CAS:690254-82-1.)(CAS:30811-80-4.)(CID:6131.)(kegg:C00055)(InChi:IERHLVCPSMICTF-XVFCMESISA-N)(CHEBI:17361)(text:CMP.)(text:Cytidine monophosphate.)(text:Cytidine-5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00055"
@@ -4016,22 +4000,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:491-97-4)(CID:164628)(KEGG:C00363)(Name:UJLXYODCHAELLY-XLPZGREQSA-N)(ChEBI:CHEBI:18075)(Name:TDP)(Name:Thymidine diphosphate)(Name:Deoxythymidine 5'-diphosphate)(Name:dTDP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00363"
   ]
   node [
     id 97
@@ -4091,7 +4059,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -4154,7 +4122,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -4217,7 +4185,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-92-4)(CID:6076)(KEGG:C00575)(Name:IVOMOUWHDPKRLL-KQYNXXCUSA-N)(ChEBI:CHEBI:17489)(Name:cAMP)(Name:Adenosine 3',5'-cyclic monophosphate)"
+      text "(CAS:60-92-4.)(CID:6076.)(kegg:C00575)(InChi:IVOMOUWHDPKRLL-KQYNXXCUSA-N)(CHEBI:17489)(text:cAMP.)(text:Adenosine 3d,5d-cyclic monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00575"
@@ -4268,22 +4236,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0365-07-01)(CID:9700)(KEGG:C00364)(Name:GYOZYWVXFNDGLU-XLPZGREQSA-N)(ChEBI:CHEBI:17013)(Name:TMP)(Name:Thymidine monophosphate)(Name:Deoxythymidine 5'-monophosphate)(Name:dTMP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00364"
   ]
   node [
     id 102
@@ -4343,9 +4295,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:#######)(CID:151152)(Name:JPIJQSOTBSSVTP-GBXIJSLDSA-N)(ChEBI:CHEBI:49059)(Name:cCMP)"
+      text "(CAS:3616-08-8.)(CID:4193.)(kegg:C00941)(InChi:WCPTXJJVVDAEMW-XVFCMESISA-N)(CHEBI:17065)(text:cCMP.)"
       type "text"
     ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00941"
   ]
   node [
     id 103
@@ -4405,7 +4358,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-97-9)(CID:6030)(KEGG:C00105)(Name:DJJCXFVJDGTHFX-XVFCMESISA-N)(ChEBI:CHEBI:16695)(Name:UMP)(Name:Uridine monophosphate)(Name:Uridine 5'-monophosphate)"
+      text "(CAS:135-16-0.)(CID:6030.)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:16695)(text:UMP.)(text:Uridine monophosphate.)(text:Uridine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00105"
@@ -4468,7 +4421,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:302-72-7)(CID:602)(KEGG:C00041)(Name:QNAYBMKLOCPYGJ-REOHCLBHSA-N)(ChEBI:CHEBI:16977)(Name:Alanine)(Name:Ala)"
+      text "(CAS:302-72-7.)(CAS:338-69-2.)(CAS:56-41-8.)(CID:602.)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-UHFFFAOYSA-N)(CHEBI:16977)(text:Alanine.)(text:Ala.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00041"
@@ -4531,7 +4484,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(KEGG:C00022)(Name:LCTONWCANYUPML-UHFFFAOYSA-N)(ChEBI:CHEBI:32816)(Name:Pyruvic acid)(Name:Pyruvate)(Name:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -4594,7 +4547,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:79-33-4)(CID:107689)(KEGG:C00186)(Name:JVTAAEKCZFNVCJ-REOHCLBHSA-N)(ChEBI:CHEBI:422)(Name:Lactic acid)(Name:Lac)"
+      text "(CAS:79-33-4.)(CID:107689.)(kegg:C00186)(InChi:JVTAAEKCZFNVCJ-REOHCLBHSA-N)(CHEBI:16651)(CHEBI:422)(text:Lactic acid.)(text:Lac.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00186"
@@ -4751,7 +4704,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(KEGG:C00010)(Name:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(ChEBI:CHEBI:15346)(Name:CoA)(Name:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -4814,7 +4767,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(KEGG:C00022)(Name:LCTONWCANYUPML-UHFFFAOYSA-N)(ChEBI:CHEBI:32816)(Name:Pyruvic acid)(Name:Pyruvate)(Name:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -4924,7 +4877,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(KEGG:C00024)(Name:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(ChEBI:CHEBI:15351)(Name:Acetyl coenzyme A)(Name:AcetylCOA)(Name:Acetyl-Coenzyme A)(Name:Ace-CoA)(Name:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -4987,7 +4940,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(KEGG:C00010)(Name:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(ChEBI:CHEBI:15346)(Name:CoA)(Name:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -5050,7 +5003,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(KEGG:C00020)(Name:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(ChEBI:CHEBI:16027)(Name:AMP)(Name:Adenosine monophosphate)(Name:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -5113,7 +5066,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -5176,7 +5129,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -5239,7 +5192,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -5302,7 +5255,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-47-3)(CID:6267)(KEGG:C00152)(Name:DCXYFEDJOCDNAF-REOHCLBHSA-N)(ChEBI:CHEBI:17196)(Name:Asparagine)(Name:Asn)"
+      text "(CAS:70-47-3.)(CID:6267.)(kegg:C00152)(InChi:DCXYFEDJOCDNAF-REOHCLBHSA-N)(CHEBI:17196)(text:Asparagine.)(text:Asn.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00152"
@@ -5365,7 +5318,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -5428,7 +5381,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -5491,7 +5444,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -5601,7 +5554,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:77-92-9)(CID:311)(KEGG:C00158)(Name:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(ChEBI:CHEBI:30769)(Name:Citric acid)(Name:Citrate)(Name:Cit)"
+      text "(CAS:77-92-9.)(CID:311.)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:16947)(CHEBI:30769)(text:Citric acid.)(text:Citrate.)(text:Cit.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00158"
@@ -5664,7 +5617,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:77-92-9)(CID:311)(KEGG:C00158)(Name:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(ChEBI:CHEBI:30769)(Name:Citric acid)(Name:Citrate)(Name:Cit)"
+      text "(CAS:77-92-9.)(CID:311.)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:16947)(CHEBI:30769)(text:Citric acid.)(text:Citrate.)(text:Cit.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00158"
@@ -5774,7 +5727,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-42-7)(CID:970)(KEGG:C00036)(Name:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(Name:Oxalacetic acid)(Name:Oxaloacetate)(Name:Oxaloacetic acid)(Name:OAA)"
+      text "(CAS:328-42-7.)(CID:970.)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(CHEBI:30744)(text:Oxalacetic acid.)(text:Oxaloacetate.)(text:OAA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00036"
@@ -5837,7 +5790,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(KEGG:C00149)(Name:BJEPYKJPYRNKOW-REOHCLBHSA-N)(ChEBI:CHEBI:30797)(Name:Malic acid)(Name:Mal)(Name:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -5900,7 +5853,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4023-65-8)(CAS:585-84-2)(CID:643757)(KEGG:C00417)(Name:GTZCVFVGUGFEME-IWQZZHSRSA-N)(ChEBI:CHEBI:32805)(Name:cis-aconitate)(Name:Aconitic acid)"
+      text "(CAS:585-84-2.)(CID:643757.)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:16383)(CHEBI:32805)(text:cis-aconitate.)(text:Aconitic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00417"
@@ -5963,7 +5916,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4023-65-8)(CAS:585-84-2)(CID:643757)(KEGG:C00417)(Name:GTZCVFVGUGFEME-IWQZZHSRSA-N)(ChEBI:CHEBI:32805)(Name:cis-aconitate)(Name:Aconitic acid)"
+      text "(CAS:585-84-2.)(CID:643757.)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:16383)(CHEBI:32805)(text:cis-aconitate.)(text:Aconitic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00417"
@@ -6026,7 +5979,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(KEGG:C00024)(Name:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(ChEBI:CHEBI:15351)(Name:Acetyl coenzyme A)(Name:AcetylCOA)(Name:Acetyl-Coenzyme A)(Name:Ace-CoA)(Name:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -6089,7 +6042,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(KEGG:C00149)(Name:BJEPYKJPYRNKOW-REOHCLBHSA-N)(ChEBI:CHEBI:30797)(Name:Malic acid)(Name:Mal)(Name:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -6152,7 +6105,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:541-50-4)(CID:3534)(KEGG:C00164)(Name:WDJHALXBUFZDSR-UHFFFAOYSA-N)(ChEBI:CHEBI:15344)(Name:Acetoacetic acid)"
+      text "(CAS:541-50-4.)(CID:96.)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:13705)(CHEBI:15344)(text:Acetoacetic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00164"
@@ -6215,7 +6168,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(KEGG:C00122)(Name:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(ChEBI:CHEBI:18012)(Name:Fumaric acid)(Name:Fum)(Name:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -6278,7 +6231,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:320-77-4)(CID:1198)(KEGG:C00311)(Name:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(ChEBI:CHEBI:30887)(Name:Isocitric acid)(Name:IsoCit)(Name:Isocitrate)"
+      text "(CAS:320-77-4.)(CID:1198.)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:16087)(CHEBI:30887)(text:Isocitric acid.)(text:IsoCit.)(text:Isocitrate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00311"
@@ -6341,7 +6294,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1553-55-5)(CID:3649)(KEGG:C00356)(Name:CABVTRNMFUVUDM-VRHQGPGLSA-N)(ChEBI:CHEBI:15467)(Name:HMG-CoA)(Name:3-Hydroxy-3-methylglutaryl-CoA)"
+      text "(CAS:1553-55-5.)(CID:445127.)(kegg:C00356)(InChi:CABVTRNMFUVUDM-VRHQGPGLSA-N)(CHEBI:15467)(text:HMG-CoA.)(text:3-Hydroxy-3-methylglutaryl-CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00356"
@@ -6404,7 +6357,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:503-49-1)(CID:1662)(KEGG:C03761)(Name:NPOAOTPXWNWTSH-UHFFFAOYSA-N)(ChEBI:CHEBI:16831)(Name:3-Hydroxy-3-methylglutaric acid)"
+      text "(CAS:503-49-1.)(CID:1662.)(kegg:C03761)(InChi:NPOAOTPXWNWTSH-UHFFFAOYSA-N)(CHEBI:16831)(text:3-Hydroxy-3-methylglutaric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03761"
@@ -6467,7 +6420,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:320-77-4)(CID:1198)(KEGG:C00311)(Name:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(ChEBI:CHEBI:30887)(Name:Isocitric acid)(Name:IsoCit)(Name:Isocitrate)"
+      text "(CAS:320-77-4.)(CID:1198.)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:16087)(CHEBI:30887)(text:Isocitric acid.)(text:IsoCit.)(text:Isocitrate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00311"
@@ -6518,6 +6471,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CAS:56275-39-9.)(CID:3680.)(kegg:C00390)(CHEBI:ChEBI:17976)(text:QH2.)(text:Ubiquinol.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00390"
   ]
   node [
     id 155
@@ -6565,6 +6534,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CAS:1339-63-5.)(CID:3689.)(kegg:C00399)(InChi:SQQWBSBBCSFQGC-UHFFFAOYSA-N)(CHEBI:ChEBI:16389)(text:Q.)(text:Ubiquinone.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00399"
   ]
   node [
     id 156
@@ -6624,7 +6609,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-15-6)(CID:1110)(KEGG:C00042)(Name:KDYFGRWQOYBRFD-UHFFFAOYSA-N)(ChEBI:CHEBI:15741)(Name:Succinic acid)(Name:Suc)(Name:Succinate)"
+      text "(CAS:110-15-6.)(CAS:623158-99-6.)(CAS:2087491-34-5.)(CID:1110.)(kegg:C00042)(InChi:KDYFGRWQOYBRFD-UHFFFAOYSA-N)(CHEBI:15741)(text:Succinic acid.)(text:Suc.)(text:Succinate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00042"
@@ -6687,7 +6672,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(KEGG:C00010)(Name:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(ChEBI:CHEBI:15346)(Name:CoA)(Name:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -6750,7 +6735,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:604-98-8)(CID:92133)(KEGG:C00091)(Name:VNOYUJKHFWYWIR-ITIYDSSPSA-N)(ChEBI:CHEBI:15380)(Name:Succinyl coenzyme A)(Name:Succinyl-CoA)(Name:Suc-CoA)(Name:SuccinylCoA)"
+      text "(CAS:57-13-6.)(CAS:30535-50-3.)(CAS:860639-56-1.)(CAS:118548-06-4.)(CAS:1202865-46-0.)(CAS:1228376-38-2.)(CAS:1637232-71-3.)(CAS:2060607-07-8.)(CAS:923953-70-2.)(CAS:4744-36-9.)(CAS:173994-65-5.)(CAS:174693-33-5.)(CAS:173144-80-4.)(CAS:175276-38-7.)(CAS:37955-36-5.)(CID:92133.)(kegg:C00091)(InChi:VNOYUJKHFWYWIR-ITIYDSSPSA-N)(CHEBI:15380)(text:Succinyl coenzyme A.)(text:Succinyl-CoA.)(text:Suc-CoA.)(text:SuccinylCoA.)(text:Succinyl CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00091"
@@ -6813,7 +6798,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(KEGG:C00010)(Name:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(ChEBI:CHEBI:15346)(Name:CoA)(Name:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -6876,7 +6861,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -6939,7 +6924,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:4374)(KEGG:C01143)(Name:SIGQQUBJQXSAMW-ZCFIWIBFSA-N)(ChEBI:CHEBI:15899)(Name:Mevalonate pyrophosphate)"
+      text "(CID:439418.)(kegg:C01143)(InChi:SIGQQUBJQXSAMW-ZCFIWIBFSA-N)(CHEBI:15899)(text:Mevalonate pyrophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01143"
@@ -7002,7 +6987,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(KEGG:C00044)(Name:XKMLYUALXHKNFT-UUOKFMHZSA-N)(ChEBI:CHEBI:15996)(Name:GTP)(Name:Guanosine triphosphate)(Name:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -7065,7 +7050,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(KEGG:C00035)(Name:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(ChEBI:CHEBI:17552)(Name:GDP)(Name:Guanosine diphosphate)(Name:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -7128,7 +7113,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -7191,7 +7176,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:358-71-4)(CID:3429)(KEGG:C00129)(Name:NUHSROFQTUXZQQ-UHFFFAOYSA-N)(ChEBI:CHEBI:16584)(Name:IPP)(Name:Isopentenyl diphosphate)(Name:)"
+      text "(CAS:61-90-5.)(CAS:7005-03-0.)(CAS:21675-61-6.)(CAS:25248-98-0.)(CAS:71000-80-1.)(CID:1195.)(kegg:C00129)(InChi:NUHSROFQTUXZQQ-UHFFFAOYSA-N)(CHEBI:16584)(text:IPP.)(text:Isopentenyl diphosphate.)(text:.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00129"
@@ -7254,7 +7239,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13095-48-2)(CID:439939)(KEGG:C03196)(Name:HWXBTNAVRSUOJR-VKHMYHEASA-N)(ChEBI:CHEBI:32797)(Name:2-Hydroxyglutaric acid)"
+      text "(CAS:13095-48-2.)(CID:439939.)(kegg:C03196)(InChi:HWXBTNAVRSUOJR-VKHMYHEASA-N)(CHEBI:32797)(text:2-Hydroxyglutaric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03196"
@@ -7317,7 +7302,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -7380,7 +7365,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7664-38-2)(CID:1004)(KEGG:C00009)(Name:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(ChEBI:CHEBI:26078)(Name:Phosphoric acid)"
+      text "(CAS:7664-38-2.)(CID:1004.)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:26078)(text:Phosphoric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00009"
@@ -7443,7 +7428,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-14-5)(CID:643975)(KEGG:C00016)(Name:VWWQXMAJTJZDQX-UYBVJOGSSA-N)(ChEBI:CHEBI:16238)(Name:FAD)(Name:Flavin adenine dinucleotide)"
+      text "(CAS:146-14-5.)(CID:643975.)(kegg:C00016)(InChi:VWWQXMAJTJZDQX-UYBVJOGSSA-N)(CHEBI:16238)(text:FAD.)(text:Flavin adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00016"
@@ -7506,7 +7491,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:66-72-8)(CID:1050)(KEGG:C00250)(Name:RADKZDMFGJYCBB-UHFFFAOYSA-N)(ChEBI:CHEBI:17310)(Name:Pyridoxal)"
+      text "(CAS:66-72-8.)(CID:1050.)(kegg:C00250)(InChi:RADKZDMFGJYCBB-UHFFFAOYSA-N)(CHEBI:17310)(text:Pyridoxal.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00250"
@@ -7569,7 +7554,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(KEGG:C00037)(Name:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(ChEBI:CHEBI:15428)(Name:Glycine)(Name:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -7632,7 +7617,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:150-97-0)(CID:3708)(KEGG:C00418)(Name:KJTLQQUUPVSXIM-ZCFIWIBFSA-N)(ChEBI:CHEBI:17710)(Name:Mevalonate)"
+      text "(CAS:17817-88-8.)(CID:439230.)(kegg:C00418)(InChi:KJTLQQUUPVSXIM-ZCFIWIBFSA-N)(CHEBI:17710)(CHEBI:36464)(text:Mevalonate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00418"
@@ -7695,7 +7680,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(KEGG:C00019)(Name:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(ChEBI:CHEBI:67040)(Name:SAM)(Name:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -7758,7 +7743,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:81-25-4)(CID:221493)(KEGG:C00695)(Name:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(ChEBI:CHEBI:16359)(HMDB:HMDB0000619)(Name:CA)(Name:Cholic acid)(Name:Cholate)(Name:5beta-cholanic acid-3alpha,7alpha,12alpha-triol)"
+      text "(CAS:81-25-4.)(CID:221493.)(kegg:C00695)(InChi:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(CHEBI:16359)(HMDB:HMDB0000619)(text:CA.)(text:Cholic acid.)(text:Cholate.)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00695"
@@ -7821,7 +7806,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:358-72-5)(KEGG:C00235)(Name:CBIDRCWHNCKSTO-UHFFFAOYSA-N)(ChEBI:CHEBI:16057)(Name:DMAPP)(Name:Dimethylallyl diphosphate)"
+      text "(CAS:358-72-5.)(CID:647.)(kegg:C00235)(InChi:CBIDRCWHNCKSTO-UHFFFAOYSA-N)(CHEBI:16057)(text:DMAPP.)(text:Dimethylallyl diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00235"
@@ -7931,7 +7916,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-88-5)(CID:5997)(KEGG:C00187)(Name:HVYWMOMLDIMFJA-DPAQBDIFSA-N)(ChEBI:CHEBI:16113)(Name:Cholesterol)"
+      text "(CAS:57-88-5.)(CID:5997.)(kegg:C00187)(InChi:HVYWMOMLDIMFJA-DPAQBDIFSA-N)(CHEBI:16113)(text:Cholesterol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00187"
@@ -7994,7 +7979,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(KEGG:C00037)(Name:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(ChEBI:CHEBI:15428)(Name:Glycine)(Name:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -8057,7 +8042,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:#######)(CID:668)(KEGG:C00334)(Name:BTCSSZJGUNDROE-UHFFFAOYSA-N)(ChEBI:CHEBI:16865)(Name:GABA)(Name:4-Aminobutyric acid)(Name:Gamma-Aminobutyric acid)"
+      text "(CAS:56-12-2.)(CID:119.)(kegg:C00334)(InChi:BTCSSZJGUNDROE-UHFFFAOYSA-N)(CHEBI:16865)(CHEBI:30566)(text:GABA.)(text:4-Aminobutyric acid.)(text:Gamma-Aminobutyric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00334"
@@ -8120,7 +8105,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(KEGG:C00020)(Name:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(ChEBI:CHEBI:16027)(Name:AMP)(Name:Adenosine monophosphate)(Name:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -8183,7 +8168,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-60-1)(CID:1045)(KEGG:C00134)(Name:KIDHWZJUCRJVML-UHFFFAOYSA-N)(ChEBI:CHEBI:17148)(Name:Putrescine)"
+      text "(CAS:358-71-4.)(CID:1045.)(kegg:C00134)(InChi:KIDHWZJUCRJVML-UHFFFAOYSA-N)(CHEBI:17148)(text:Putrescine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00134"
@@ -8246,7 +8231,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-35-4)(CID:5810)(KEGG:C01157)(Name:PMMYEEVYMWASQN-DMTCNVIQSA-N)(ChEBI:CHEBI:18095)(Name:4-Hydroxyproline)"
+      text "(CAS:51-35-4.)(CID:5810.)(kegg:C01157)(InChi:PMMYEEVYMWASQN-DMTCNVIQSA-N)(CHEBI:18095)(text:4-Hydroxyproline.)(text:Hydroxyproline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01157"
@@ -8309,7 +8294,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:22365-13-5)(CID:4368)(KEGG:C01137)(Name:ZUNBITIXDCPNSD-LSRJEVITSA-N)(ChEBI:CHEBI:15625)(Name:Deoxy-SAM)(Name:S-Adenosylmethioninamine)"
+      text "(CAS:22365-13-5.)(CID:439415.)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:15625)(text:Deoxy-SAM.)(text:S-Adenosylmethioninamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01137"
@@ -8466,7 +8451,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13254-53-0)(CID:6144)(KEGG:C03287)(Name:PJRXVIJAERNUIP-VKHMYHEASA-N)(ChEBI:CHEBI:17798)(Name:gamma-Glutamyl-5-phosphate)(Name:L-Glutamyl 5-phosphate)"
+      text "(CAS:13254-53-0.)(CID:193475.)(kegg:C03287)(InChi:PJRXVIJAERNUIP-VKHMYHEASA-N)(CHEBI:17798)(text:gamma-Glutamyl-5-phosphate.)(text:L-Glutamyl 5-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03287"
@@ -8529,7 +8514,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-26-8)(CID:6262)(KEGG:C00077)(Name:AHLPHDHHMVZTML-BYPYZUCNSA-N)(ChEBI:CHEBI:15729)(Name:Ornithine)(Name:Ornitine)(Name:L-Ornithine)(Name:Orn)"
+      text "(CAS:138-08-09.)(CAS:101015-20-7.)(CAS:53230-12-9.)(CAS:80206-33-3.)(CAS:1309961-12-3.)(CAS:923-14-8.)(CID:6262.)(kegg:C00077)(InChi:AHLPHDHHMVZTML-BYPYZUCNSA-N)(CHEBI:15729)(text:Ornithine.)(text:Ornitine.)(text:L-Ornithine.)(text:Orn.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00077"
@@ -8639,7 +8624,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:74-79-3)(CID:6322)(KEGG:C00062)(Name:ODKSFYDXXFIFQN-BYPYZUCNSA-N)(ChEBI:CHEBI:16467)(Name:Arginine)(Name:L-Arginine)(Name:Arg)"
+      text "(CAS:74-79-3.)(CAS:142-49-4.)(CAS:7004-12-8.)(CAS:667422-95-9.)(CAS:1332377-47-5.)(CAS:154605-63-7.)(CAS:154605-67-1.)(CAS:4455-52-1.)(CAS:25212-18-4.)(CID:6322.)(kegg:C00062)(InChi:ODKSFYDXXFIFQN-BYPYZUCNSA-N)(CHEBI:16467)(text:Arginine.)(text:L-Arginine.)(text:Arg.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00062"
@@ -8702,7 +8687,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-27-5)(CID:588)(KEGG:C00791)(Name:DDRJAANPRJIHGJ-UHFFFAOYSA-N)(ChEBI:CHEBI:16737)(Name:Creatinine)"
+      text "(CAS:60-27-5.)(CID:588.)(kegg:C00791)(InChi:DDRJAANPRJIHGJ-UHFFFAOYSA-N)(CHEBI:16737)(text:Creatinine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00791"
@@ -8765,7 +8750,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:147-85-3)(CID:145742)(KEGG:C00148)(Name:ONIBWKKTOPOVIA-BYPYZUCNSA-N)(ChEBI:CHEBI:17203)(Name:Proline)(Name:L-Proline)(Name:Pro)"
+      text "(CAS:147-85-3.)(CID:145742.)(kegg:C00148)(InChi:ONIBWKKTOPOVIA-BYPYZUCNSA-N)(CHEBI:17203)(text:Proline.)(text:L-Proline.)(text:Pro.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00148"
@@ -8828,7 +8813,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -8891,7 +8876,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-00-1)(CID:586)(KEGG:C00300)(Name:CVSVTCORWBXHQV-UHFFFAOYSA-N)(ChEBI:CHEBI:16919)(Name:Creatine)"
+      text "(CAS:57-00-1.)(CID:586.)(kegg:C00300)(InChi:CVSVTCORWBXHQV-UHFFFAOYSA-N)(CHEBI:16919)(text:Creatine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00300"
@@ -8954,7 +8939,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2387-71-5)(CID:16950)(KEGG:C03406)(Name:KDZOASGQNOPSCU-WDSKDSINSA-N)(Name:Argininosuccinic acid)(Name:L-Argininosuccinate)(Name:Argininosuccinate)"
+      text "(CAS:2387-71-5.)(CID:16950.)(kegg:C03406)(InChi:KDZOASGQNOPSCU-WDSKDSINSA-N)(text:Argininosuccinic acid.)(text:L-Argininosuccinate.)(text:Argininosuccinate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03406"
@@ -9064,7 +9049,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(KEGG:C00122)(Name:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(ChEBI:CHEBI:18012)(Name:Fumaric acid)(Name:Fum)(Name:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -9127,7 +9112,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-13-6)(CID:1176)(KEGG:C00086)(Name:XSQUKJJJFZCRTK-UHFFFAOYSA-N)(ChEBI:CHEBI:16199)(Name:Urea)"
+      text "(CAS:60-18-4.)(CAS:140-43-2.)(CAS:1991-85-1.)(CAS:46209-14-7.)(CAS:55520-40-6.)(CAS:1207451-88-4.)(CAS:25619-78-7.)(CID:1176.)(kegg:C00086)(InChi:XSQUKJJJFZCRTK-UHFFFAOYSA-N)(CHEBI:16199)(text:Urea.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00086"
@@ -9190,7 +9175,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:590-55-6)(CID:3469)(KEGG:C00169)(Name:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(ChEBI:CHEBI:17672)(Name:Carbamoylphosphate)"
+      text "(CAS:590-55-6.)(CID:278.)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:17672)(text:Carbamoylphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00169"
@@ -9253,7 +9238,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -9316,7 +9301,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:372-75-8)(CID:9750)(KEGG:C00327)(Name:RHGKLRLOHDJJDR-BYPYZUCNSA-N)(ChEBI:CHEBI:16349)(Name:Citrulline)(Name:L-Citrulline)"
+      text "(CAS:372-75-8.)(CID:9750.)(kegg:C00327)(InChi:RHGKLRLOHDJJDR-BYPYZUCNSA-N)(CHEBI:16349)(text:Citrulline.)(text:L-Citrulline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00327"
@@ -9379,7 +9364,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -9442,7 +9427,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -9505,7 +9490,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:506-13-8)(CID:10466)(KEGG:C18218)(Name:UGAGPNKCDRTDHP-UHFFFAOYSA-N)(ChEBI:CHEBI:55328)(Name:Juniperic acid)"
+      text "(CAS:506-13-8.)(CID:10466.)(kegg:C18218)(InChi:UGAGPNKCDRTDHP-UHFFFAOYSA-N)(CHEBI:55328)(text:Juniperic acid.)(text:16-Hydroxypalmitate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C18218"
@@ -9568,7 +9553,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-92-5)(CID:8221)(KEGG:D01924)(Name:GLDOVTGHNKAZLK-UHFFFAOYSA-N)(Name:Octadecanol)"
+      text "(CAS:112-92-5.)(CID:8221.)(kegg:D01924)(InChi:GLDOVTGHNKAZLK-UHFFFAOYSA-N)(CHEBI:32154)(text:Octadecanol.)(text:Stearyl alcohol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?D01924"
@@ -9678,7 +9663,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:118-00-3)(CID:6802)(KEGG:C00387)(Name:NYHBQMYGNKIUIF-UUOKFMHZSA-N)(ChEBI:CHEBI:16750)(Name:Guanosine)"
+      text "(CAS:118-00-3.)(CID:135398635.)(kegg:C00387)(InChi:NYHBQMYGNKIUIF-UUOKFMHZSA-N)(CHEBI:16750)(text:Guanosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00387"
@@ -9741,7 +9726,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -9804,7 +9789,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(KEGG:C00075)(Name:PGAVKCOVUIYSFO-XVFCMESISA-N)(ChEBI:CHEBI:15713)(Name:UTP)(Name:Uridine triphosphate)(Name:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -9914,7 +9899,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -9977,7 +9962,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:52-90-4)(CID:5862)(KEGG:C00097)(Name:XUJNEKJLAYXESH-REOHCLBHSA-N)(ChEBI:CHEBI:17561)(Name:Cysteine)(Name:L-Cysteine)(Name:Cys)"
+      text "(CAS:56-73-5.)(CAS:299-31-0.)(CAS:3415-10-9.)(CAS:3458-17-1.)(CID:5862.)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:17561)(text:Cysteine.)(text:L-Cysteine.)(text:Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00097"
@@ -10040,7 +10025,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-97-9)(CID:6030)(KEGG:C00105)(Name:DJJCXFVJDGTHFX-XVFCMESISA-N)(ChEBI:CHEBI:16695)(Name:UMP)(Name:Uridine monophosphate)(Name:Uridine 5'-monophosphate)"
+      text "(CAS:135-16-0.)(CID:6030.)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:16695)(text:UMP.)(text:Uridine monophosphate.)(text:Uridine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00105"
@@ -10103,7 +10088,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:66-22-8)(CID:1174)(KEGG:C00106)(Name:ISAKRJDGNUQOIC-UHFFFAOYSA-N)(ChEBI:CHEBI:17568)(Name:Uracil)"
+      text "(CAS:59-56-3.)(CAS:27133-73-9.)(CAS:28875-57-2.)(CAS:29698-82-6.)(CAS:3616-38-4.)(CAS:50319-10-3.)(CAS:7279-37-0.)(CAS:779262-37-2.)(CID:1174.)(kegg:C00106)(InChi:ISAKRJDGNUQOIC-UHFFFAOYSA-N)(CHEBI:17568)(text:Uracil.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00106"
@@ -10213,7 +10198,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:523-98-8)(CID:122280)(KEGG:C00655)(Name:DCTLYFZHFGENCW-UUOKFMHZSA-N)(ChEBI:CHEBI:15652)(Name:XMP)(Name:Xanthosine monophosphate)"
+      text "(CAS:523-98-8.)(CID:73323.)(kegg:C00655)(InChi:DCTLYFZHFGENCW-UUOKFMHZSA-N)(CHEBI:15652)(text:XMP.)(text:Xanthosine 5d-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00655"
@@ -10264,22 +10249,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0365-07-01)(CID:9700)(KEGG:C00364)(Name:GYOZYWVXFNDGLU-XLPZGREQSA-N)(ChEBI:CHEBI:17013)(Name:TMP)(Name:Thymidine monophosphate)(Name:Deoxythymidine 5'-monophosphate)(Name:dTMP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00364"
   ]
   node [
     id 240
@@ -10374,6 +10343,21 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_1.)"
+      type "text"
+    ]
   ]
   node [
     id 242
@@ -10433,7 +10417,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(KEGG:C00020)(Name:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(ChEBI:CHEBI:16027)(Name:AMP)(Name:Adenosine monophosphate)(Name:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -10496,7 +10480,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(KEGG:C00019)(Name:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(ChEBI:CHEBI:67040)(Name:SAM)(Name:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -10559,7 +10543,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(KEGG:C00122)(Name:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(ChEBI:CHEBI:18012)(Name:Fumaric acid)(Name:Fum)(Name:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -10622,7 +10606,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24880-45-3)(CID:5497182)(KEGG:C16513)(Name:YUFFSWGQGVEMMI-JLNKQSITSA-N)(ChEBI:CHEBI:53488)(Name:Docosapentaenoic acid)"
+      text "(CAS:24880-45-3.)(CID:5497182.)(kegg:C16513)(InChi:YUFFSWGQGVEMMI-JLNKQSITSA-N)(CHEBI:53488)(text:Docosapentaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C16513"
@@ -10685,7 +10669,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(KEGG:C00037)(Name:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(ChEBI:CHEBI:15428)(Name:Glycine)(Name:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -10748,7 +10732,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:636-58-8)(CID:123938)(KEGG:C00669)(Name:RITKHVBHSGLULN-WHFBIAKZSA-N)(Name:5-Glutamylcysteine)(Name:Gamma-L-Glutamylcysteine)(Name:Gamma-Glu-Cys)"
+      text "(CAS:636-58-8.)(CID:123938.)(kegg:C00669)(InChi:RITKHVBHSGLULN-WHFBIAKZSA-N)(CHEBI:17515)(text:5-Glutamylcysteine.)(text:Gamma-L-Glutamylcysteine.)(text:Gamma-Glu-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00669"
@@ -10799,22 +10783,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0143/7/7)(CID:3893)(KEGG:C02679)(Name:POULHZVOKOAJMA-UHFFFAOYSA-N)(ChEBI:CHEBI:30805)(Name:Lauric acid)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C02679"
   ]
   node [
     id 250
@@ -10874,7 +10842,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-96-8)(CID:6029)(KEGG:C00299)(Name:DRTQHJPVMGBUCF-XVFCMESISA-N)(ChEBI:CHEBI:16704)(Name:Uridine)"
+      text "(CAS:58-96-8.)(CID:6029.)(kegg:C00299)(InChi:DRTQHJPVMGBUCF-XVFCMESISA-N)(CHEBI:16704)(text:Uridine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00299"
@@ -10937,7 +10905,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-89-5)(CID:5789)(KEGG:C00214)(Name:IQFYYKKMVGJFEH-XLPZGREQSA-N)(ChEBI:CHEBI:17748)(Name:Thymidine)"
+      text "(CAS:50-89-5.)(CID:5789.)(kegg:C00214)(InChi:IQFYYKKMVGJFEH-XLPZGREQSA-N)(CHEBI:17748)(text:Thymidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00214"
@@ -11141,7 +11109,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(KEGG:C00065)(Name:MTCFGRXMJLQNBG-REOHCLBHSA-N)(ChEBI:CHEBI:17115)(Name:Serine)(Name:L-Serine)(Name:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -11204,7 +11172,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-33-3)(CID:3931)(KEGG:C01595)(Name:OYHQOLUKZRVURQ-HZJYTTRNSA-N)(ChEBI:CHEBI:17351)(Name:Linoleic acid)"
+      text "(CAS:60-33-3.)(CID:5280450.)(kegg:C01595)(InChi:OYHQOLUKZRVURQ-HZJYTTRNSA-N)(CHEBI:17351)(text:Linoleic acid.)(text:Linoleate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01595"
@@ -11267,7 +11235,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -11330,7 +11298,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-40-5)(CID:764)(KEGG:C00242)(Name:UYTPUPDQBNUYGX-UHFFFAOYSA-N)(ChEBI:CHEBI:16235)(Name:Guanine)"
+      text "(CAS:73-40-5.)(CID:135398634.)(kegg:C00242)(InChi:UYTPUPDQBNUYGX-UHFFFAOYSA-N)(CHEBI:16235)(text:Guanine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00242"
@@ -11393,7 +11361,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:506-32-1)(CID:444899)(KEGG:C00219)(Name:YZXBAPSDXZZRGB-DOFZRALJSA-N)(ChEBI:CHEBI:15843)(Name:Arachidonic acid)"
+      text "(CAS:506-32-1.)(CID:444899.)(kegg:C00219)(InChi:YZXBAPSDXZZRGB-DOFZRALJSA-N)(CHEBI:15843)(text:Arachidonic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00219"
@@ -11456,7 +11424,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6217-54-5)(CID:3144)(KEGG:C06429)(Name:MBMBGCFOFBJSGT-KUBAVDMBSA-N)(ChEBI:CHEBI:28125)(Name:Docosahexaenoic acid)"
+      text "(CAS:6217-54-5.)(CID:445580.)(kegg:C06429)(InChi:MBMBGCFOFBJSGT-KUBAVDMBSA-N)(CHEBI:28125)(text:Docosahexaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06429"
@@ -11566,7 +11534,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -11629,7 +11597,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-80-5)(CID:64959)(KEGG:C01762)(Name:UBORTCNDUKBEOP-UUOKFMHZSA-N)(ChEBI:CHEBI:18107)(Name:Xanthosine)"
+      text "(CAS:146-80-5.)(CID:64959.)(kegg:C01762)(InChi:UBORTCNDUKBEOP-UUOKFMHZSA-N)(CHEBI:18107)(text:Xanthosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01762"
@@ -11692,7 +11660,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:10417-94-4)(CID:3209)(KEGG:C06428)(Name:JAZBEHYOTPTENJ-JLNKQSITSA-N)(ChEBI:CHEBI:28364)(Name:Eicosapentaenoic acid)"
+      text "(CAS:10417-94-4.)(CID:446284.)(kegg:C06428)(InChi:JAZBEHYOTPTENJ-JLNKQSITSA-N)(CHEBI:28364)(text:Eicosapentaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06428"
@@ -11741,6 +11709,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C22_1.)"
       type "text"
     ]
   ]
@@ -11802,7 +11785,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -11865,7 +11848,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:131-99-7)(CID:8582)(KEGG:C00130)(Name:GRSZFWQUAKGDAV-KQYNXXCUSA-N)(ChEBI:CHEBI:17202)(Name:IMP)(Name:Inosine monophosphate)(Name:Inosine 5'-monophosphate)"
+      text "(CAS:59-23-4.)(CID:135398640.)(kegg:C00130)(InChi:GRSZFWQUAKGDAV-KQYNXXCUSA-N)(CHEBI:17202)(text:IMP.)(text:Inosine monophosphate.)(text:Inosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00130"
@@ -11928,7 +11911,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-24-5)(CID:190)(KEGG:C00147)(Name:GFFGJBXGBJISGV-UHFFFAOYSA-N)(ChEBI:CHEBI:16708)(Name:Adenine)"
+      text "(CAS:73-24-5.)(CID:190.)(kegg:C00147)(InChi:GFFGJBXGBJISGV-UHFFFAOYSA-N)(CHEBI:16708)(text:Adenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00147"
@@ -11991,7 +11974,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:334-48-5)(CID:2969)(KEGG:C01571)(Name:GHVNFZFCNZKVNT-UHFFFAOYSA-N)(ChEBI:CHEBI:30813)(Name:Decanoic acid)"
+      text "(CAS:334-48-5.)(CID:2969.)(kegg:C01571)(InChi:GHVNFZFCNZKVNT-UHFFFAOYSA-N)(CHEBI:30813)(text:Decanoic acid.)(text:Decanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01571"
@@ -12148,7 +12131,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-79-8)(CID:637517)(KEGG:C01712)(Name:ZQPPMHVWECSIRJ-MDZDMXLPSA-N)(ChEBI:CHEBI:27997)(Name:Elaidic acid)"
+      text "(CAS:112-79-8.)(CID:637517.)(kegg:C01712)(InChi:ZQPPMHVWECSIRJ-MDZDMXLPSA-N)(CHEBI:27997)(text:Elaidic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01712"
@@ -12211,7 +12194,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:25191-14-4)(CID:6804)(KEGG:C00144)(Name:RQFCJASXJCIDSX-UUOKFMHZSA-N)(ChEBI:CHEBI:17345)(Name:GMP)(Name:Guanosine monophosphate)(Name:Guanosine 5'-monophosphate)"
+      text "(CAS:85-32-5.)(CID:135398631.)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:17345)(text:GMP.)(text:Guanosine monophosphate.)(text:Guanosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00144"
@@ -12321,7 +12304,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -12478,7 +12461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-98-0)(CID:6031)(KEGG:C00015)(Name:XCCTYIAWTASOJW-XVFCMESISA-N)(ChEBI:CHEBI:17659)(Name:UDP)(Name:Uridine diphosphate)(Name:Uridine 5'-diphosphate)"
+      text "(CAS:58-98-0.)(CID:6031.)(kegg:C00015)(InChi:XCCTYIAWTASOJW-XVFCMESISA-N)(CHEBI:17659)(text:UDP.)(text:Uridine diphosphate.)(text:Uridine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00015"
@@ -12682,7 +12665,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:69-89-6)(CID:1188)(KEGG:C00385)(Name:LRFVTYWOQMYALW-UHFFFAOYSA-N)(ChEBI:CHEBI:17712)(Name:Xanthine)"
+      text "(CAS:69-89-6.)(CID:1188.)(kegg:C00385)(InChi:LRFVTYWOQMYALW-UHFFFAOYSA-N)(CHEBI:17712)(CHEBI:48517)(text:Xanthine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00385"
@@ -12745,7 +12728,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:141-43-5)(CID:700)(KEGG:C00189)(Name:HZAXFHJVJLSVMW-UHFFFAOYSA-N)(ChEBI:CHEBI:16000)(Name:2-Aminoethanol)(Name:Ethanolamine)"
+      text "(CAS:141-43-5.)(CID:700.)(kegg:C00189)(InChi:HZAXFHJVJLSVMW-UHFFFAOYSA-N)(CHEBI:16000)(text:2-Aminoethanol.)(text:Ethanolamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00189"
@@ -12841,6 +12824,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_2.)"
       type "text"
     ]
   ]
@@ -12949,7 +12947,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(KEGG:C00044)(Name:XKMLYUALXHKNFT-UUOKFMHZSA-N)(ChEBI:CHEBI:15996)(Name:GTP)(Name:Guanosine triphosphate)(Name:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -13000,6 +12998,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CID:10467.)(CID:4383090.)(kegg:C06425)(CHEBI:28822)(HMDB:HMDB0002212)(text:C20_0.)(text:Arachidic acid.)(text:Eicosanoic acid.)(text:Icosanoic acid.)(text:Eicosanoate.)(text:Arachidate.)(text:n-Eicosanoic acid.)(text:Arachic acid.)(text:Isoarachidic acid.)(text:18-methyl-nonadecanoic acid.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C06425"
   ]
   node [
     id 291
@@ -13059,7 +13073,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:544-63-8)(CID:11005)(KEGG:C06424)(Name:TUNFSRHWOTWDNC-UHFFFAOYSA-N)(ChEBI:CHEBI:28875)(Name:Myristic acid)"
+      text "(CID:11005.)(CID:520298.)(kegg:C06424)(CHEBI:28875)(CHEBI:43722)(HMDB:HMDB0000806)(HMDB:HMDB0031072)(text:C14_0.)(text:Myristic acid.)(text:tetradecanoic acid.)(text:Isomyristic acid.)(text:12-methyl-tridecanoic acid.)(text:12-methyltridecylic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06424"
@@ -13108,6 +13122,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_3.)"
       type "text"
     ]
   ]
@@ -13169,7 +13198,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0506-12-7)(CID:10465)(Name:KEMQGTRYUADPNZ-UHFFFAOYSA-N)(ChEBI:CHEBI:32365)(Name:Margaric acid)"
+      text "(CID:10465.)(CID:22207.)(CID:164860.)(CHEBI:32365)(HMDB:HMDB0002259)(HMDB:HMDB0031067)(HMDB:HMDB0061709)(text:C17_0.)(text:Margaric acid.)(text:heptadecanoic acid.)(text:Anteisoheptadecanoic acid.)(text:14-methyl-hexadecanoic acid.)(text:[+]-14-methyl palmitic acid.)(text:Anteisomargaric acid.)(text:Isoheptadecanoic acid.)(text:15-methyl-hexadecanoic acid.)(text:15-methyl palmitic acid.)(text:Isomargaric acid.)(text:Subtiloheptadecanoic acid.)(text:Methylpalmitic acid.)"
       type "text"
     ]
   ]
@@ -13231,7 +13260,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-71-4)(CID:1135)(KEGG:C00178)(Name:RWQNBRDOKXIBIV-UHFFFAOYSA-N)(ChEBI:CHEBI:17821)(Name:Thymine)"
+      text "(CAS:65-71-4.)(CID:1135.)(kegg:C00178)(InChi:RWQNBRDOKXIBIV-UHFFFAOYSA-N)(CHEBI:17821)(text:Thymine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00178"
@@ -13294,7 +13323,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2800-34-2)(CID:3533)(KEGG:C00234)(Name:AUFGTPPARQZWDO-YUZLPWPTSA-N)(Name:Formyl-THF)(Name:10-Formyltetrahydrofolate)"
+      text "(CAS:2800-34-2.)(CID:135398556.)(kegg:C00234)(InChi:AUFGTPPARQZWDO-YUZLPWPTSA-N)(CHEBI:ChEBI:15637)(text:Formyl-THF.)(text:10-Formyltetrahydrofolate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00234"
@@ -13404,7 +13433,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2394-20-9)(CID:1245)(KEGG:C00249)(Name:CGQCWMIAEPEHNQ-UHFFFAOYSA-N)(ChEBI:CHEBI:20106)(Name:Palmitic acid)"
+      text "(CID:985.)(CID:36247.)(kegg:C00249)(CHEBI:15756)(HMDB:HMDB0000220)(HMDB:HMDB0031068)(text:C16_0.)(text:Palmitic acid.)(text:hexadecanoic acid.)(text:Isopalmitic acid.)(text:14-methyl-pentadecanoic acid.)(text:14-methyl pentadecylic acid.)(text:Isohexadecanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00249"
@@ -13455,6 +13484,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CID:8215.)(kegg:C08281)(CHEBI:28941)(HMDB:HMDB0000944)(text:C22_0.)(text:Behenic acid.)(text:docosanoic acid.)(text:Isobehenic acid.)(text:20-methyl-heneicosanoic acid.)(text:20-methyl-henicosanoic acid.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C08281"
   ]
   node [
     id 299
@@ -13514,7 +13559,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-63-9)(CID:6021)(KEGG:C00294)(Name:UGQMRVRMYYASKQ-KQYNXXCUSA-N)(ChEBI:CHEBI:17596)(Name:Inosine)"
+      text "(CAS:58-63-9.)(CID:135398641.)(kegg:C00294)(InChi:UGQMRVRMYYASKQ-KQYNXXCUSA-N)(CHEBI:17596)(text:Inosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00294"
@@ -13577,7 +13622,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-05-0)(CID:8158)(KEGG:C01601)(Name:FBUKVWPVBMHYJY-UHFFFAOYSA-N)(ChEBI:CHEBI:29019)(Name:Nonanoic acid)"
+      text "(CAS:112-05-0.)(CID:8158.)(kegg:C01601)(InChi:FBUKVWPVBMHYJY-UHFFFAOYSA-N)(CHEBI:29019)(text:Nonanoic acid.)(text:Noanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01601"
@@ -13640,7 +13685,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:964-26-1)(KEGG:C00365)(Name:JSRLJPSBLDHEIO-SHYZEUOFSA-N)(ChEBI:CHEBI:17622)(Name:dUMP)(Name:2'-Deoxyuridine 5'-phosphate)"
+      text "(CAS:964-26-1.)(CID:65063.)(kegg:C00365)(InChi:JSRLJPSBLDHEIO-SHYZEUOFSA-N)(CHEBI:17622)(text:dUMP.)(text:2d-Deoxyuridine 5d-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00365"
@@ -13703,7 +13748,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:373-49-9)(CID:4668)(KEGG:C08362)(Name:SECPZKHBENQXJG-FPLPWBNLSA-N)(ChEBI:CHEBI:28716)(Name:Palmitoleic acid)"
+      text "(CAS:373-49-9.)(CID:445638.)(kegg:C08362)(InChi:SECPZKHBENQXJG-FPLPWBNLSA-N)(CHEBI:28716)(text:Palmitoleic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C08362"
@@ -13766,7 +13811,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -13829,7 +13874,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(KEGG:C00035)(Name:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(ChEBI:CHEBI:17552)(Name:GDP)(Name:Guanosine diphosphate)(Name:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -13892,7 +13937,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-80-1)(CID:445639)(KEGG:C00712)(Name:ZQPPMHVWECSIRJ-KTKRTIGZSA-N)(ChEBI:CHEBI:16196)(Name:Oleic acid)"
+      text "(CAS:112-80-1.)(CID:445639.)(kegg:C00712)(InChi:ZQPPMHVWECSIRJ-KTKRTIGZSA-N)(CHEBI:16196)(text:Oleic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00712"
@@ -14002,7 +14047,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:524-14-1)(CID:3383)(KEGG:C00083)(Name:LTYOQGRJFJAKNA-DVVLENMVSA-N)(ChEBI:CHEBI:15531)(Name:Malonyl CoA)(Name:Malonyl coenzyme A)"
+      text "(CAS:150-30-1.)(CAS:30394-07-1.)(CAS:63-91-2.)(CAS:673-06-3.)(CID:3383.)(kegg:C00083)(InChi:LTYOQGRJFJAKNA-DVVLENMVSA-N)(CHEBI:15531)(text:Malonyl CoA.)(text:Malonyl coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00083"
@@ -14065,7 +14110,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:141-82-2)(CID:867)(KEGG:C00383)(Name:OFOBLEOULBTSOW-UHFFFAOYSA-N)(ChEBI:CHEBI:30794)(Name:Malonic acid)"
+      text "(CAS:141-82-2.)(CID:867.)(kegg:C00383)(InChi:OFOBLEOULBTSOW-UHFFFAOYSA-N)(CHEBI:15792)(CHEBI:30794)(text:Malonic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00383"
@@ -14128,7 +14173,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(KEGG:C00024)(Name:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(ChEBI:CHEBI:15351)(Name:Acetyl coenzyme A)(Name:AcetylCOA)(Name:Acetyl-Coenzyme A)(Name:Ace-CoA)(Name:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -14191,7 +14236,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(KEGG:C00149)(Name:BJEPYKJPYRNKOW-REOHCLBHSA-N)(ChEBI:CHEBI:30797)(Name:Malic acid)(Name:Mal)(Name:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -14254,7 +14299,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(KEGG:C00010)(Name:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(ChEBI:CHEBI:15346)(Name:CoA)(Name:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -14317,7 +14362,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -14380,7 +14425,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1420-36-6)(CID:3626)(KEGG:C00332)(Name:OJFDKHTZOUZBOS-CITAKDKDSA-N)(ChEBI:CHEBI:15345)(Name:Acetoacetyl CoA)(Name:Acetoacetyl-Coenzyme A)(Name:AcAce-CoA)"
+      text "(CAS:1420-36-6.)(CID:92153.)(kegg:C00332)(InChi:OJFDKHTZOUZBOS-CITAKDKDSA-N)(CHEBI:15345)(text:Acetoacetyl CoA.)(text:Acetoacetyl-Coenzyme A.)(text:AcAce-CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00332"
@@ -14490,7 +14535,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-89-3)(CID:67678)(KEGG:C00491)(Name:LEVWYRKDKASIDU-IMJSIDKUSA-N)(ChEBI:CHEBI:16283)(Name:Cystine)(Name:L-Cystine)(Name:Cys-Cys)"
+      text "(CAS:56-89-3.)(CID:67678.)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:16283)(text:Cystine.)(text:L-Cystine.)(text:Cys-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00491"
@@ -14553,7 +14598,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0124-07-02)(CID:379)(KEGG:C06423)(Name:WWZKQHOCKIZLMA-UHFFFAOYSA-N)(ChEBI:CHEBI:28837)(Name:Octanoic acid)(Name:FFA 8:0)"
+      text "(CAS:0124-07-02.)(CID:379.)(kegg:C06423)(InChi:WWZKQHOCKIZLMA-UHFFFAOYSA-N)(CHEBI:28837)(text:Octanoic acid.)(text:FFA 8_0.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06423"
@@ -14616,7 +14661,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-46-3)(CID:6175)(KEGG:C00475)(Name:UHDGCWIWMRVCDJ-XVFCMESISA-N)(ChEBI:CHEBI:17562)(Name:Cytidine)"
+      text "(CAS:65-46-3.)(CID:6175.)(kegg:C00475)(InChi:UHDGCWIWMRVCDJ-XVFCMESISA-N)(CHEBI:17562)(text:Cytidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00475"
@@ -14773,7 +14818,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:142-62-1)(CID:8892)(KEGG:C01585)(Name:FUZZWVXGSFPDMH-UHFFFAOYSA-N)(ChEBI:CHEBI:30776)(Name:Caproic acid)(Name:FFA 6:0)"
+      text "(CAS:142-62-1.)(CID:8892.)(kegg:C01585)(InChi:FUZZWVXGSFPDMH-UHFFFAOYSA-N)(CHEBI:30776)(text:Caproic acid.)(text:FFA 6_0.)(text:Hexanoate.)(text:Hexanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01585"
@@ -14836,7 +14881,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-47-4)(CID:6176)(KEGG:C00063)(Name:PCDQPRRSZKQHHS-XVFCMESISA-N)(ChEBI:CHEBI:17677)(Name:CTP)(Name:Cytidine triphosphate)(Name:Cytidine 5'-triphosphate)"
+      text "(CAS:65-47-4.)(CAS:1259312-99-6.)(CAS:1613528-28-1.)(CID:6176.)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:17677)(text:CTP.)(text:Cytidine triphosphate.)(text:Cytidine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00063"
@@ -14899,7 +14944,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -14962,7 +15007,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:5698-50-0)(CID:6079438)(Name:BNTPVRGYUHJFHN-HWKANZROSA-N)(Name:Octenedioic acid)"
+      text "(CAS:5698-50-0.)(CID:6079438.)(InChi:BNTPVRGYUHJFHN-HWKANZROSA-N)(text:Octenedioic acid.)"
       type "text"
     ]
   ]
@@ -15024,10 +15069,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(KEGG:C01530)(Name:Stearic acid)"
+      text "(CAS:58-08-2.)(CID:2519.)(kegg:C07481)(InChi:RYYVLZVUVIJVGH-UHFFFAOYSA-N)(CHEBI:27732)(text:Stearic acid.)(text:Caffeine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C01530"
+    url "https://www.genome.jp/dbget-bin/www_bget?C07481"
   ]
   node [
     id 329
@@ -15087,7 +15132,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -15244,7 +15289,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -15307,7 +15352,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -15370,7 +15415,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(KEGG:C00037)(Name:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(ChEBI:CHEBI:15428)(Name:Glycine)(Name:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -15433,7 +15478,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13270-65-0)(KEGG:C00119)(Name:PQGCEDQWHSBAJP-TXICZTDVSA-N)(ChEBI:CHEBI:17111)(Name:PRPP)"
+      text "(CAS:56-81-5.)(CAS:29796-42-7.)(CAS:30049-52-6.)(CAS:37228-54-9.)(CAS:75398-78-6.)(CAS:78630-16-7.)(CAS:8013-25-0.)(CAS:1400594-62-8.)(CAS:1422250-43-8.)(CAS:8043-29-6.)(CAS:25618-55-7.)(CAS:175385-78-1.)(CAS:64333-26-2.)(CAS:280575-69-1.)(CAS:1206185-99-0.)(CAS:1206186-81-3.)(CAS:1312543-37-5.)(CAS:2143496-79-9.)(CAS:70926-61-3.)(CAS:8013-25-0.)(CID:7399.)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:17111)(text:PRPP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00119"
@@ -15543,7 +15588,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:135-16-0)(CID:3401)(KEGG:C00101)(Name:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(ChEBI:CHEBI:20506)(Name:CH2-THF)(Name:Tetrahydrofolic acid)"
+      text "(CAS:27576-49-4.)(CAS:3123-67-9.)(CAS:18441-12-8.)(CAS:7227-60-3.)(CAS:20236-92-4.)(CAS:90191-82-5.)(CAS:29698-71-3.)(CID:3401.)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:20506)(text:CH2-THF.)(text:Tetrahydrofolic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00101"
@@ -15606,7 +15651,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(KEGG:C00049)(Name:CKLJMWTZIZZHCS-REOHCLBHSA-N)(ChEBI:CHEBI:17053)(Name:Aspartic acid)(Name:Aspartate)(Name:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -15669,7 +15714,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-61-7)(CID:60961)(KEGG:C00212)(Name:OIRDTQYFTABQOQ-KQYNXXCUSA-N)(ChEBI:CHEBI:16335)(Name:Adenosine)"
+      text "(CAS:58-61-7.)(CID:60961.)(kegg:C00212)(InChi:OIRDTQYFTABQOQ-KQYNXXCUSA-N)(CHEBI:16335)(text:Adenosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00212"
@@ -15732,7 +15777,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13270-65-0)(KEGG:C00119)(Name:PQGCEDQWHSBAJP-TXICZTDVSA-N)(ChEBI:CHEBI:17111)(Name:PRPP)"
+      text "(CAS:56-81-5.)(CAS:29796-42-7.)(CAS:30049-52-6.)(CAS:37228-54-9.)(CAS:75398-78-6.)(CAS:78630-16-7.)(CAS:8013-25-0.)(CAS:1400594-62-8.)(CAS:1422250-43-8.)(CAS:8043-29-6.)(CAS:25618-55-7.)(CAS:175385-78-1.)(CAS:64333-26-2.)(CAS:280575-69-1.)(CAS:1206185-99-0.)(CAS:1206186-81-3.)(CAS:1312543-37-5.)(CAS:2143496-79-9.)(CAS:70926-61-3.)(CAS:8013-25-0.)(CID:7399.)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:17111)(text:PRPP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00119"
@@ -15889,7 +15934,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:5988-19-2)(CID:439216)(KEGG:C00337)(Name:UFIVEPVSAGBUSI-REOHCLBHSA-N)(ChEBI:CHEBI:17025)(Name:Dihydroorotic acid)(Name:L-Dihydroorotate)(Name:Dihydroorotate)"
+      text "(CAS:5988-19-2.)(CID:439216.)(kegg:C00337)(InChi:UFIVEPVSAGBUSI-REOHCLBHSA-N)(CHEBI:17025)(text:Dihydroorotic acid.)(text:L-Dihydroorotate.)(text:Dihydroorotate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00337"
@@ -15952,7 +15997,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-86-1)(CID:967)(KEGG:C00295)(Name:PXQPEWDEAKTCGB-UHFFFAOYSA-N)(ChEBI:CHEBI:16742)(Name:Orotic acid)"
+      text "(CAS:65-86-1.)(CID:967.)(kegg:C00295)(InChi:PXQPEWDEAKTCGB-UHFFFAOYSA-N)(CHEBI:16742)(text:Orotic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00295"
@@ -16015,7 +16060,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:590-55-6)(CID:3469)(KEGG:C00169)(Name:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(ChEBI:CHEBI:17672)(Name:Carbamoylphosphate)"
+      text "(CAS:590-55-6.)(CID:278.)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:17672)(text:Carbamoylphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00169"
@@ -16078,7 +16123,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:98-92-0)(CID:936)(KEGG:C00153)(Name:DFPAKSUCGFBDDF-UHFFFAOYSA-N)(ChEBI:CHEBI:17154)(Name:Niacinamide)"
+      text "(CAS:98-92-0.)(CID:936.)(kegg:C00153)(InChi:DFPAKSUCGFBDDF-UHFFFAOYSA-N)(CHEBI:17154)(text:Niacinamide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00153"
@@ -16141,7 +16186,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:59-67-6)(CID:938)(KEGG:C00253)(Name:PVNIIMVLHYAWGP-UHFFFAOYSA-N)(ChEBI:CHEBI:15940)(Name:Nicotinic acid)"
+      text "(CAS:59-67-6.)(CID:938.)(kegg:C00253)(InChi:PVNIIMVLHYAWGP-UHFFFAOYSA-N)(CHEBI:15940)(text:Nicotinic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00253"
@@ -16204,7 +16249,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:12040-65-2)(CID:754)(KEGG:C00093)(Name:AWUCVROLDVIAJX-GSVOUGTGSA-N)(ChEBI:CHEBI:15978)(Name:Glycerol 3-phosphate)(Name:G3P)"
+      text "(CAS:120-80-9.)(CAS:16474-89-8.)(CAS:16474-90-1.)(CAS:37349-32-9.)(CID:754.)(kegg:C00093)(InChi:AWUCVROLDVIAJX-GSVOUGTGSA-N)(CHEBI:15978)(text:Glycerol 3-phosphate.)(text:G3P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00093"
@@ -16267,7 +16312,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-81-5)(CID:753)(KEGG:C00116)(Name:PEDCQBHIVMGVHV-UHFFFAOYSA-N)(ChEBI:CHEBI:15850)(Name:Glycerol)"
+      text "(CAS:57-04-5.)(CID:753.)(kegg:C00116)(InChi:PEDCQBHIVMGVHV-UHFFFAOYSA-N)(CHEBI:15850)(text:Glycerol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00116"
@@ -16330,7 +16375,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3672-15-9)(CID:65127)(KEGG:C00275)(Name:NBSCHQHZLSJFNQ-QTVWNMPRSA-N)(ChEBI:CHEBI:48066)(Name:Mannose 6-phosphate)(Name:D-Mannose 6-phosphate)(Name:M6P)"
+      text "(CAS:3672-15-9.)(CID:65127.)(kegg:C00275)(InChi:NBSCHQHZLSJFNQ-QTVWNMPRSA-N)(CHEBI:17369)(CHEBI:48066)(text:Mannose 6-phosphate.)(text:D-Mannose 6-phosphate.)(text:M6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00275"
@@ -16393,7 +16438,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0156-06-09)(CID:997)(KEGG:C00166)(Name:BTNMPGBKDVTSJY-UHFFFAOYSA-N)(ChEBI:CHEBI:30851)(Name:Phenylpyruvic acid)(Name:Phenylpyruvate)"
+      text "(CAS:0156-06-09.)(CID:997.)(kegg:C00166)(InChi:BTNMPGBKDVTSJY-UHFFFAOYSA-N)(CHEBI:18005)(CHEBI:30851)(text:Phenylpyruvic acid.)(text:Phenylpyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00166"
@@ -16456,7 +16501,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:150-30-1)(CID:994)(KEGG:C00079)(Name:COLNVLDHVKWLRT-QMMMGPOBSA-N)(ChEBI:CHEBI:17295)(Name:Phenylalanine)(Name:L-Phenylalanine)(Name:Phe)"
+      text "(CAS:63-39-8.)(CAS:266356-22-3.)(CID:994.)(kegg:C00079)(InChi:COLNVLDHVKWLRT-QMMMGPOBSA-N)(CHEBI:17295)(text:Phenylalanine.)(text:L-Phenylalanine.)(text:Phe.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00079"
@@ -16519,7 +16564,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0828-01-03)(CID:3848)(KEGG:C05607)(Name:VOXXWSYKYCBWHO-MRVPVSSYSA-N)(ChEBI:CHEBI:32978)(Name:3-Phenyllactic acid)"
+      text "(CAS:7326-19-4.)(CID:7930.)(kegg:C05607)(InChi:VOXXWSYKYCBWHO-MRVPVSSYSA-N)(CHEBI:32978)(text:3-Phenyllactic acid.)(text:Phenyllactate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05607"
@@ -16582,7 +16627,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-22-3)(CID:6305)(KEGG:C00078)(Name:QIVBCDIJIAJPQS-VIFPVBQESA-N)(ChEBI:CHEBI:16828)(Name:Tryptophan)(Name:L-Tryptophan)(Name:Trp)"
+      text "(CID:6305.)(kegg:C00078)(InChi:QIVBCDIJIAJPQS-VIFPVBQESA-N)(CHEBI:16828)(text:Tryptophan.)(text:L-Tryptophan.)(text:Trp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00078"
@@ -16645,10 +16690,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6205/8/9)(CID:439232)(KEGG:C00437)(Name:JRLGPAXAGHMNOL-LURJTMIESA-N)(ChEBI:CHEBI:16543)(Name:5-Hydroxy-tryptophan)(Name:N2-Acetyl-L-ornithine)(Name:N-Acetyl-ornithine)"
+      text "(CAS:4350-09-8.)(CID:439280.)(kegg:C00643)(InChi:JRLGPAXAGHMNOL-LURJTMIESA-N)(CHEBI:17780)(text:5-Hydroxy-tryptophan.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00437"
+    url "https://www.genome.jp/dbget-bin/www_bget?C00643"
   ]
   node [
     id 367
@@ -16708,7 +16753,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:71-00-1)(CID:6274)(KEGG:C00135)(Name:HNDVDQJCIGZPNO-YFKPBYRVSA-N)(ChEBI:CHEBI:15971)(Name:Histidine)(Name:L-Histidine)(Name:His)"
+      text "(CAS:131-99-7.)(CAS:138240-72-9.)(CAS:485-83-6.)(CAS:736074-82-1.)(CAS:801187-33-7.)(CAS:1080065-96-8.)(CAS:30918-54-8.)(CAS:25249-22-3.)(CID:6274.)(kegg:C00135)(InChi:HNDVDQJCIGZPNO-YFKPBYRVSA-N)(CHEBI:15971)(text:Histidine.)(text:L-Histidine.)(text:His.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00135"
@@ -16771,7 +16816,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4836-52-6)(CID:165271)(KEGG:C00860)(Name:ZQISRDCJNBUVMM-YFKPBYRVSA-N)(ChEBI:CHEBI:16255)(Name:Histidinol)(Name:L-Histidinol)"
+      text "(CAS:4836-52-6.)(CID:165271.)(kegg:C00860)(InChi:ZQISRDCJNBUVMM-YFKPBYRVSA-N)(CHEBI:16255)(text:Histidinol.)(text:L-Histidinol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00860"
@@ -16834,7 +16879,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-54-1)(CID:1150)(KEGG:C00398)(Name:APJYDQYYACXCRM-UHFFFAOYSA-N)(ChEBI:CHEBI:16765)(Name:Tryptamine)"
+      text "(CAS:61-54-1.)(CID:1150.)(kegg:C00398)(InChi:APJYDQYYACXCRM-UHFFFAOYSA-N)(CHEBI:16765)(text:Tryptamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00398"
@@ -16897,7 +16942,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-45-6)(CID:774)(KEGG:C00388)(Name:NTYJJOPFIAHURM-UHFFFAOYSA-N)(ChEBI:CHEBI:18295)(Name:Histamine)"
+      text "(CAS:51-45-6.)(CID:774.)(kegg:C00388)(InChi:NTYJJOPFIAHURM-UHFFFAOYSA-N)(CHEBI:18295)(text:Histamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00388"
@@ -16960,7 +17005,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-18-4)(CID:6057)(KEGG:C00082)(Name:OUYCCCASQSFEME-QMMMGPOBSA-N)(ChEBI:CHEBI:17895)(Name:Tyrosine)(Name:L-Tyrosine)(Name:Tyr)"
+      text "(CAS:73-22-3.)(CAS:6912-86-3.)(CAS:80206-30-0.)(CAS:154635-35-5.)(CID:6057.)(kegg:C00082)(InChi:OUYCCCASQSFEME-QMMMGPOBSA-N)(CHEBI:17895)(text:Tyrosine.)(text:L-Tyrosine.)(text:Tyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00082"
@@ -17023,7 +17068,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:59-92-7)(CID:6047)(KEGG:C00355)(Name:WTDRDQBEARUVNC-LURJTMIESA-N)(ChEBI:CHEBI:15765)(Name:Dopa)"
+      text "(CAS:59-92-7.)(CID:6047.)(kegg:C00355)(InChi:WTDRDQBEARUVNC-LURJTMIESA-N)(CHEBI:15765)(text:Dopa.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00355"
@@ -17086,7 +17131,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1022-31-7)(CID:5664)(KEGG:C02700)(Name:BYHJHXPTQMMKCA-QMMMGPOBSA-N)(ChEBI:CHEBI:30249)(Name:Formylkynurenine)"
+      text "(CAS:1022-31-7.)(CID:439788.)(kegg:C02700)(InChi:BYHJHXPTQMMKCA-QMMMGPOBSA-N)(CHEBI:30249)(text:Formylkynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02700"
@@ -17149,7 +17194,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-67-9)(CID:5202)(KEGG:C00780)(Name:QZAYGJVTTNCVMB-UHFFFAOYSA-N)(ChEBI:CHEBI:28790)(Name:Serotonin)"
+      text "(CAS:50-67-9.)(CID:5202.)(kegg:C00780)(InChi:QZAYGJVTTNCVMB-UHFFFAOYSA-N)(CHEBI:28790)(text:Serotonin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00780"
@@ -17212,7 +17257,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:104-98-3)(CID:736715)(KEGG:C00785)(Name:LOIYMIARKYCTBW-OWOJBTEDSA-N)(ChEBI:CHEBI:27248)(Name:Urocanic acid)"
+      text "(CAS:104-98-3.)(CID:736715.)(kegg:C00785)(InChi:LOIYMIARKYCTBW-UHFFFAOYSA-N)(CHEBI:27248)(text:Urocanic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00785"
@@ -17275,7 +17320,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:156-39-8)(CID:979)(KEGG:C01179)(Name:KKADPXVIOXHVKN-UHFFFAOYSA-N)(ChEBI:CHEBI:15999)(Name:4-Hydroxyphenylpyruvic acid)(Name:4-Hydroxyphenylpyruvate)"
+      text "(CAS:156-39-8.)(CID:979.)(kegg:C01179)(InChi:KKADPXVIOXHVKN-UHFFFAOYSA-N)(CHEBI:15999)(text:4-Hydroxyphenylpyruvic acid.)(text:4-Hydroxyphenylpyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01179"
@@ -17338,7 +17383,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0608-07-01)(CID:1833)(KEGG:C05659)(Name:JTEJPPKMYBDEMY-UHFFFAOYSA-N)(ChEBI:CHEBI:2089)(Name:5-Methoxytryptamine)"
+      text "(CAS:0608-07-01.)(CID:1833.)(kegg:C05659)(InChi:JTEJPPKMYBDEMY-UHFFFAOYSA-N)(CHEBI:2089)(text:5-Methoxytryptamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05659"
@@ -17401,7 +17446,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6482-98-0)(CID:9548580)(KEGG:C03672)(Name:JVGVDSSUAVXRDY-UHFFFAOYSA-N)(ChEBI:CHEBI:17385)(Name:4-Hydroxyphenyllactic acid)"
+      text "(CAS:6482-98-0.)(CID:6448.)(kegg:C03672)(InChi:JVGVDSSUAVXRDY-UHFFFAOYSA-N)(CHEBI:17385)(text:4-Hydroxyphenyllactic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03672"
@@ -17464,7 +17509,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-67-2)(CID:5610)(KEGG:C00483)(Name:DZGWFCGJZKJUFP-UHFFFAOYSA-N)(ChEBI:CHEBI:15760)(Name:Tyramine)"
+      text "(CAS:51-67-2.)(CID:5610.)(kegg:C00483)(InChi:DZGWFCGJZKJUFP-UHFFFAOYSA-N)(CHEBI:15760)(text:Tyramine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00483"
@@ -17527,7 +17572,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-61-6)(CID:681)(KEGG:C03758)(Name:VYFYYTLLBUKUHU-UHFFFAOYSA-N)(ChEBI:CHEBI:18243)(Name:Dopamine)"
+      text "(CAS:51-61-6.)(CID:681.)(kegg:C03758)(InChi:VYFYYTLLBUKUHU-UHFFFAOYSA-N)(CHEBI:18243)(text:Dopamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03758"
@@ -17590,7 +17635,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:492-27-3)(CID:3845)(KEGG:C01717)(Name:HCZHHEIFKROPDY-UHFFFAOYSA-N)(ChEBI:CHEBI:18344)(Name:Kynurenic acid)(Name:Kynurenate)"
+      text "(CAS:492-27-3.)(CID:3845.)(kegg:C01717)(InChi:HCZHHEIFKROPDY-UHFFFAOYSA-N)(CHEBI:18344)(text:Kynurenic acid.)(text:Kynurenate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01717"
@@ -17653,7 +17698,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2922-83-0)(CID:161166)(KEGG:C00328)(Name:YGPSJZOEDVAXAB-QMMMGPOBSA-N)(ChEBI:CHEBI:16946)(Name:Kynurenine)(Name:L-Kynurenine)"
+      text "(CAS:2922-83-0.)(CID:161166.)(kegg:C00328)(InChi:YGPSJZOEDVAXAB-QMMMGPOBSA-N)(CHEBI:16946)(text:Kynurenine.)(text:L-Kynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00328"
@@ -17716,10 +17761,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:78263-90-8)(CID:586258)(KEGG:C13665)(Name:WYWNEDARFVJQSG-UHFFFAOYSA-N)(ChEBI:CHEBI:31085)(Name:Methylserotonine)"
+      text "(CAS:1134-01-6.)(CID:150855.)(kegg:C06212)(InChi:WYWNEDARFVJQSG-UHFFFAOYSA-N)(CHEBI:48294)(text:Methylserotonine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C13665"
+    url "https://www.genome.jp/dbget-bin/www_bget?C06212"
   ]
   node [
     id 384
@@ -17779,7 +17824,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:17340-16-8)(CID:6455)(KEGG:C03680)(Name:HEXMLHKQVUFYME-UHFFFAOYSA-N)(ChEBI:CHEBI:27384)(Name:Imidazolone propionate)(Name:4-Imidazolone-5-propanoate)"
+      text "(CAS:17340-16-8.)(CID:6455.)(kegg:C03680)(InChi:HEXMLHKQVUFYME-UHFFFAOYSA-N)(CHEBI:27384)(text:Imidazolone propionate.)(text:4-Imidazolone-5-propanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03680"
@@ -17842,7 +17887,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:451-13-8)(CID:780)(KEGG:C00544)(Name:IGMNYECMUMZDDF-UHFFFAOYSA-N)(Name:Homogentisic acid)(Name:Homogentisate)"
+      text "(CAS:451-13-8.)(CID:780.)(kegg:C00544)(InChi:IGMNYECMUMZDDF-UHFFFAOYSA-N)(CHEBI:16169)(CHEBI:44747)(text:Homogentisic acid.)(text:Homogentisate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00544"
@@ -17905,7 +17950,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:104-14-3)(CID:4581)(KEGG:C04227)(Name:QHGUCRYDKWKLMG-QMMMGPOBSA-N)(Name:Octopamine)"
+      text "(CAS:104-14-3.)(CID:4581.)(kegg:C04227)(InChi:QHGUCRYDKWKLMG-QMMMGPOBSA-N)(text:Octopamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C04227"
@@ -17968,7 +18013,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-41-2)(CID:439260)(KEGG:C00547)(Name:SFLSHLFXELFNJZ-QMMMGPOBSA-N)(ChEBI:CHEBI:18357)(Name:Norepinephrine)"
+      text "(CAS:51-41-2.)(CID:439260.)(kegg:C00547)(InChi:SFLSHLFXELFNJZ-QMMMGPOBSA-N)(CHEBI:18357)(text:Norepinephrine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00547"
@@ -18031,7 +18076,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:118-92-3)(CID:227)(KEGG:C00108)(Name:RWZYAGGXGHYGMB-UHFFFAOYSA-N)(ChEBI:CHEBI:30754)(Name:Anthranilic acid)(Name:2-Aminobenzoic acid)"
+      text "(CAS:86-04-4.)(CAS:71833-60-8.)(CAS:42599-71-3.)(CID:227.)(kegg:C00108)(InChi:RWZYAGGXGHYGMB-UHFFFAOYSA-N)(CHEBI:30754)(text:Anthranilic acid.)(text:2-Aminobenzoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00108"
@@ -18094,7 +18139,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2147-61-7)(CID:89)(KEGG:C02794)(Name:VCKPUUFAIGNJHC-UHFFFAOYSA-N)(ChEBI:CHEBI:1547)(Name:3-Hydroxy-kynurenine)(Name:3-Hydroxykynurenine)"
+      text "(CAS:2147-61-7.)(CID:89.)(kegg:C02794)(InChi:VCKPUUFAIGNJHC-UHFFFAOYSA-N)(CHEBI:1547)(text:3-Hydroxy-kynurenine.)(text:3-Hydroxykynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02794"
@@ -18157,7 +18202,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-31-4)(CID:896)(KEGG:C01598)(Name:DRLFMBDRBRZALE-UHFFFAOYSA-N)(ChEBI:CHEBI:16796)(Name:Melatonin)"
+      text "(CAS:73-31-4.)(CID:896.)(kegg:C01598)(InChi:DRLFMBDRBRZALE-UHFFFAOYSA-N)(CHEBI:16796)(text:Melatonin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01598"
@@ -18220,7 +18265,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:816-90-0)(CID:3728)(KEGG:C00439)(Name:NRXIKWMTVXPVEF-BYPYZUCNSA-N)(ChEBI:CHEBI:7274)(Name:Formimino-L-glutamate)"
+      text "(CAS:816-90-0.)(CID:439233.)(kegg:C00439)(InChi:NRXIKWMTVXPVEF-BYPYZUCNSA-N)(CHEBI:18327)(CHEBI:7274)(text:Formimino-L-glutamate.)(text:N-Formimino-L-Glutamate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00439"
@@ -18377,7 +18422,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-43-4)(CID:5816)(KEGG:C00788)(Name:UCTWMZQNUQWSLP-VIFPVBQESA-N)(ChEBI:CHEBI:28918)(Name:Epinephrine)"
+      text "(CAS:51-43-4.)(CID:5816.)(kegg:C00788)(InChi:UCTWMZQNUQWSLP-VIFPVBQESA-N)(CHEBI:28918)(text:Epinephrine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00788"
@@ -18440,7 +18485,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:548-93-6)(CID:86)(KEGG:C00632)(Name:WJXSWCUQABXPFS-UHFFFAOYSA-N)(ChEBI:CHEBI:15793)(Name:3-Hydroxyanthranilic acid)"
+      text "(CAS:548-93-6.)(CID:86.)(kegg:C00632)(InChi:WJXSWCUQABXPFS-UHFFFAOYSA-N)(CHEBI:15793)(CHEBI:36559)(text:3-Hydroxyanthranilic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00632"
@@ -18503,7 +18548,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -18566,7 +18611,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(KEGG:C00122)(Name:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(ChEBI:CHEBI:18012)(Name:Fumaric acid)(Name:Fum)(Name:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -18629,7 +18674,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:541-50-4)(CID:3534)(KEGG:C00164)(Name:WDJHALXBUFZDSR-UHFFFAOYSA-N)(ChEBI:CHEBI:15344)(Name:Acetoacetic acid)"
+      text "(CAS:541-50-4.)(CID:96.)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:13705)(CHEBI:15344)(text:Acetoacetic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00164"
@@ -18692,7 +18737,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:89-00-9)(CID:1066)(KEGG:C03722)(Name:GJAWHXHKYYXBSV-UHFFFAOYSA-N)(ChEBI:CHEBI:16675)(Name:Quinolinic acid)(Name:2,3-Pyridinedicarboxylic acid)"
+      text "(CAS:89-00-9.)(CID:1066.)(kegg:C03722)(InChi:GJAWHXHKYYXBSV-UHFFFAOYSA-N)(CHEBI:16675)(text:Quinolinic acid.)(text:2,3-Pyridinedicarboxylic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03722"
@@ -18755,7 +18800,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3184-35-8)(CID:71)(KEGG:C00322)(Name:FGSBNBBHOZHUBO-UHFFFAOYSA-N)(ChEBI:CHEBI:15753)(Name:2-Ketoadipic acid)"
+      text "(CAS:3184-35-8.)(CID:71.)(kegg:C00322)(InChi:FGSBNBBHOZHUBO-UHFFFAOYSA-N)(CHEBI:15753)(text:2-Ketoadipic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00322"
@@ -18806,22 +18851,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:1460-34-0)(CID:47)(KEGG:C03465)(Name:JVQYSWDUAOAHFM-UHFFFAOYSA-N)(ChEBI:CHEBI:35932)(Name:Ketoisoleucine)(Name:3-Methyl-2-oxovaleric acid)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C03465"
   ]
   node [
     id 402
@@ -18881,7 +18910,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-68-3)(CID:6137)(KEGG:C00073)(Name:FFEARJCKVFRZRR-BYPYZUCNSA-N)(ChEBI:CHEBI:16643)(Name:Methionine)(Name:L-Methionine)(Name:Met)"
+      text "(CAS:1428525-25-0.)(CAS:1129294-89-8.)(CID:6137.)(kegg:C00073)(InChi:FFEARJCKVFRZRR-BYPYZUCNSA-N)(CHEBI:16643)(text:Methionine.)(text:L-Methionine.)(text:Met.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00073"
@@ -18944,7 +18973,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(KEGG:C00019)(Name:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(ChEBI:CHEBI:67040)(Name:SAM)(Name:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -19007,7 +19036,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:462-94-2)(CID:273)(KEGG:C01672)(Name:VHRGRCVQAFMJIZ-UHFFFAOYSA-N)(ChEBI:CHEBI:18127)(Name:Cadaverine)"
+      text "(CAS:462-94-2.)(CID:273.)(kegg:C01672)(InChi:VHRGRCVQAFMJIZ-UHFFFAOYSA-N)(CHEBI:18127)(text:Cadaverine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01672"
@@ -19070,7 +19099,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-19-5)(CID:6288)(KEGG:C00188)(Name:AYFVYJQAPQTCCC-GBXIJSLDSA-N)(ChEBI:CHEBI:16857)(Name:Threonine)(Name:L-Threonine)(Name:Thr)"
+      text "(CAS:72-19-5.)(CID:6288.)(kegg:C00188)(InChi:AYFVYJQAPQTCCC-GBXIJSLDSA-N)(CHEBI:16857)(text:Threonine.)(text:L-Threonine.)(text:Thr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00188"
@@ -19133,7 +19162,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:156-57-0)(CID:6058)(KEGG:C01678)(Name:UFULAYFCSOUIOV-UHFFFAOYSA-N)(ChEBI:CHEBI:17141)(Name:Cysteamine)"
+      text "(CAS:60-23-1.)(CID:6058.)(kegg:C01678)(InChi:UFULAYFCSOUIOV-UHFFFAOYSA-N)(CHEBI:17141)(text:Cysteamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01678"
@@ -19196,7 +19225,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-18-4)(CID:6287)(KEGG:C00183)(Name:KZSNJWFQEVHDMF-BYPYZUCNSA-N)(ChEBI:CHEBI:16414)(Name:Valine)(Name:L-Valine)(Name:Val)"
+      text "(CAS:72-18-4.)(CID:6287.)(kegg:C00183)(InChi:KZSNJWFQEVHDMF-BYPYZUCNSA-N)(CHEBI:16414)(text:Valine.)(text:L-Valine.)(text:Val.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00183"
@@ -19259,7 +19288,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:6318)(KEGG:C03508)(Name:SAUCHDKDCUROAO-VKHMYHEASA-N)(ChEBI:CHEBI:40673)(Name:Aminoketobutylate)(Name:L-2-Amino-3-oxobutanoic acid)"
+      text "(CID:6318.)(kegg:C03508)(InChi:SAUCHDKDCUROAO-VKHMYHEASA-N)(CHEBI:40673)(text:Aminoketobutylate.)(text:L-2-Amino-3-oxobutanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03508"
@@ -19322,7 +19351,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1118-90-7)(CID:92136)(KEGG:C00956)(Name:OYIFNHCXNCRBQI-BYPYZUCNSA-N)(ChEBI:CHEBI:37023)(Name:2-Aminoadipic acid)(Name:Amino adipic acid)"
+      text "(CAS:542-32-5.)(CID:92136.)(kegg:C00956)(InChi:OYIFNHCXNCRBQI-BYPYZUCNSA-N)(CHEBI:37023)(text:2-Aminoadipic acid.)(text:Amino adipic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00956"
@@ -19385,7 +19414,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2381-08-0)(CID:109)(Name:ADVPTQAUNPRNPO-UHFFFAOYSA-N)(Name:3-Sulfinoalanine)"
+      text "(CAS:2381-08-0.)(CID:109.)(InChi:ADVPTQAUNPRNPO-UHFFFAOYSA-N)(text:3-Sulfinoalanine.)"
       type "text"
     ]
   ]
@@ -19447,7 +19476,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(KEGG:C00037)(Name:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(ChEBI:CHEBI:15428)(Name:Glycine)(Name:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -19510,7 +19539,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-32-5)(CID:6306)(KEGG:C00407)(Name:AGPKZVBTJJNPAG-WHFBIAKZSA-N)(ChEBI:CHEBI:17191)(Name:Isoleucine)(Name:L-Isoleucine)(Name:Ile)"
+      text "(CAS:73-32-5.)(CID:6306.)(kegg:C00407)(InChi:AGPKZVBTJJNPAG-WHFBIAKZSA-N)(CHEBI:17191)(text:Isoleucine.)(text:L-Isoleucine.)(text:Ile.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00407"
@@ -19573,7 +19602,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:454-29-5)(CID:778)(KEGG:C00155)(Name:FFFHZYDWPBMWHY-VKHMYHEASA-N)(ChEBI:CHEBI:17588)(Name:Homocysteine)(Name:DL-Homocysteine)(Name:HomoCys)"
+      text "(CAS:6027-13-0.)(CID:91552.)(kegg:C00155)(InChi:FFFHZYDWPBMWHY-UKHMYHEASA-N)(CHEBI:17588)(text:Homocysteine.)(text:DL-Homocysteine.)(text:HomoCys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00155"
@@ -19636,7 +19665,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0759-05-07)(CID:49)(KEGG:C00141)(Name:QHKABHOOEWYVLI-UHFFFAOYSA-N)(ChEBI:CHEBI:16530)(Name:2-Keto-isovaleric acid)(Name:Alpha-Ketovaline)(Name:2-Ketoisovaleric acid)"
+      text "(CAS:71-00-1.)(CAS:150-35-6.)(CAS:155304-24-8.)(CAS:35479-49-3.)(CAS:35558-59-9.)(CAS:45955-20-2.)(CAS:54166-13-1.)(CAS:7006-35-1.)(CAS:736075-03-9.)(CAS:26062-48-6.)(CID:49.)(kegg:C00141)(InChi:QHKABHOOEWYVLI-UHFFFAOYSA-N)(CHEBI:11851)(CHEBI:16530)(text:2-Keto-isovaleric acid.)(text:Alpha-Ketovaline.)(text:2-Ketoisovaleric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00141"
@@ -19699,7 +19728,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:997-68-2)(CID:160556)(KEGG:C00449)(Name:ZDGJAHTZVHVLOT-YUMQZZPRSA-N)(ChEBI:CHEBI:16927)(Name:Saccharopine)(Name:L-Saccharopine)"
+      text "(CAS:997-68-2.)(CID:160556.)(kegg:C00449)(InChi:ZDGJAHTZVHVLOT-YUMQZZPRSA-N)(CHEBI:16927)(text:Saccharopine.)(text:L-Saccharopine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00449"
@@ -19762,7 +19791,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:52-90-4)(CID:5862)(KEGG:C00097)(Name:XUJNEKJLAYXESH-REOHCLBHSA-N)(ChEBI:CHEBI:17561)(Name:Cysteine)(Name:L-Cysteine)(Name:Cys)"
+      text "(CAS:56-73-5.)(CAS:299-31-0.)(CAS:3415-10-9.)(CAS:3458-17-1.)(CID:5862.)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:17561)(text:Cysteine.)(text:L-Cysteine.)(text:Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00097"
@@ -19825,7 +19854,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:88947-38-0)(CID:7870)(KEGG:C05527)(Name:JXYLQEMXCAAMOL-UHFFFAOYSA-N)(ChEBI:CHEBI:1665)(Name:3-Sulfinopyruvate)"
+      text "(CAS:88947-38-0.)(CID:7870.)(kegg:C05527)(InChi:JXYLQEMXCAAMOL-UHFFFAOYSA-N)(CHEBI:1665)(text:3-Sulfinopyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05527"
@@ -19888,7 +19917,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-90-5)(CID:6106)(KEGG:C00123)(Name:ROHFNLRQFUQHCH-YFKPBYRVSA-N)(ChEBI:CHEBI:15603)(Name:Leucine)(Name:L-Leucine)(Name:Leu)"
+      text "(CAS:58-85-5.)(CAS:15720-24-8.)(CAS:22879-79-4.)(CAS:3672-05-7.)(CAS:58073-87-3.)(CAS:56846-45-8.)(CID:6106.)(kegg:C00123)(InChi:ROHFNLRQFUQHCH-YFKPBYRVSA-N)(CHEBI:15603)(text:Leucine.)(text:L-Leucine.)(text:Leu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00123"
@@ -19998,7 +20027,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -20061,7 +20090,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(KEGG:C00065)(Name:MTCFGRXMJLQNBG-REOHCLBHSA-N)(ChEBI:CHEBI:17115)(Name:Serine)(Name:L-Serine)(Name:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -20124,7 +20153,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:300-84-5)(CID:107812)(KEGG:C00519)(Name:VVIUBCNYACGLLV-UHFFFAOYSA-N)(ChEBI:CHEBI:16668)(Name:Hypotaurine)"
+      text "(CAS:300-84-5.)(CID:107812.)(kegg:C00519)(InChi:VVIUBCNYACGLLV-UHFFFAOYSA-N)(CHEBI:16668)(text:Hypotaurine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00519"
@@ -20187,7 +20216,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-88-2)(CID:439258)(KEGG:C02291)(Name:ILRYLPWNYFXEMH-WHFBIAKZSA-N)(ChEBI:CHEBI:17482)(Name:Cystathionine)(Name:L-Cystathionine)"
+      text "(CAS:56-88-2.)(CID:439258.)(kegg:C02291)(InChi:ILRYLPWNYFXEMH-WHFBIAKZSA-N)(CHEBI:17482)(text:Cystathionine.)(text:L-Cystathionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02291"
@@ -20250,7 +20279,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -20313,7 +20342,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-85-4)(CID:2915)(Name:APQPRKLAWCIJEK-UHFFFAOYSA-N)(ChEBI:CHEBI:78757)(Name:Cystamine)"
+      text "(CAS:51-85-4.)(CID:2915.)(InChi:APQPRKLAWCIJEK-UHFFFAOYSA-N)(CHEBI:78757)(text:Cystamine.)"
       type "text"
     ]
   ]
@@ -20375,7 +20404,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-89-3)(CID:67678)(KEGG:C00491)(Name:LEVWYRKDKASIDU-IMJSIDKUSA-N)(ChEBI:CHEBI:16283)(Name:Cystine)(Name:L-Cystine)(Name:Cys-Cys)"
+      text "(CAS:56-89-3.)(CID:67678.)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:16283)(text:Cystine.)(text:L-Cystine.)(text:Cys-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00491"
@@ -20438,7 +20467,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:600-18-0)(CID:58)(KEGG:C00109)(Name:TYEYBOSBBBHJIV-UHFFFAOYSA-N)(ChEBI:CHEBI:30831)(Name:2-Ketobutyric acid)"
+      text "(CAS:58-97-9.)(CAS:53624-79-6.)(CAS:81795-92-8.)(CAS:27416-86-0.)(CID:58.)(kegg:C00109)(InChi:TYEYBOSBBBHJIV-UHFFFAOYSA-N)(CHEBI:30831)(text:2-Ketobutyric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00109"
@@ -20501,7 +20530,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:75899-14-8)(CID:25246222)(KEGG:C00021)(Name:ZJUKTBDSGOFHSH-WFMPWKQPSA-N)(ChEBI:CHEBI:16680)(Name:S-Adenosylhomocysteine)(Name:S-Adenosyl-L-homocysteine)(Name:SAH)"
+      text "(CAS:979-92-0.)(CID:439155.)(kegg:C00021)(InChi:ZJUKTBDSGOFHSH-WFMPWKQPSA-N)(CHEBI:16680)(text:S-Adenosylhomocysteine.)(text:S-Adenosyl-L-homocysteine.)(text:SAH.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00021"
@@ -20564,7 +20593,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(KEGG:C00022)(Name:LCTONWCANYUPML-UHFFFAOYSA-N)(ChEBI:CHEBI:32816)(Name:Pyruvic acid)(Name:Pyruvate)(Name:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -20627,7 +20656,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(KEGG:C00025)(Name:WHUUTDBJXJRKMK-VKHMYHEASA-N)(ChEBI:CHEBI:16015)(Name:Glutamic acid)(Name:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -20690,7 +20719,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:107-35-7)(CID:1123)(KEGG:C00245)(Name:XOAAWQZATWQOTB-UHFFFAOYSA-N)(ChEBI:CHEBI:15891)(Name:Taurine)"
+      text "(CAS:107-35-7.)(CID:1123.)(kegg:C00245)(InChi:XOAAWQZATWQOTB-UHFFFAOYSA-N)(CHEBI:15891)(text:Taurine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00245"
@@ -20800,7 +20829,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:498-40-8)(CID:72886)(KEGG:C00506)(Name:XVOYSCVBGLVSOL-REOHCLBHSA-N)(ChEBI:CHEBI:17285)(Name:Cysteic acid)(Name:L-Cysteic acid)"
+      text "(CAS:13100-82-8.)(CID:72886.)(kegg:C00506)(InChi:XVOYSCVBGLVSOL-UHFFFAOYSA-N)(CHEBI:17285)(text:Cysteic acid.)(text:L-Cysteic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00506"
@@ -20863,7 +20892,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1118-90-7)(CID:17917)(KEGG:C04076)(Name:GFXYTQPNNXGICT-YFKPBYRVSA-N)(ChEBI:CHEBI:17917)(Name:Allysine)(Name:2-Aminoadipate 6-semialdehyde)"
+      text "(CAS:1118-90-7.)(CID:17917.)(kegg:C04076)(InChi:GFXYTQPNNXGICT-YFKPBYRVSA-N)(CHEBI:17917)(text:Allysine.)(text:2-Aminoadipate 6-semialdehyde.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C04076"
@@ -20926,7 +20955,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:816-66-0)(CID:70)(KEGG:C00233)(Name:BKAJNAXTPSGJCU-UHFFFAOYSA-N)(Name:2-Ketoisocaproic acid)"
+      text "(CAS:816-66-0.)(CID:70.)(kegg:C00233)(InChi:BKAJNAXTPSGJCU-UHFFFAOYSA-N)(CHEBI:ChEBI:17865)(CHEBI:48430)(text:2-Ketoisocaproic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00233"
@@ -21036,7 +21065,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(KEGG:C00026)(Name:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(ChEBI:CHEBI:30915)(Name:2-Ketoglutaric acid)(Name:2-Oxoglutarate)(Name:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -21099,7 +21128,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-87-1)(CID:5962)(KEGG:C00047)(Name:KDXKERNSBIXSRK-YFKPBYRVSA-N)(ChEBI:CHEBI:18019)(Name:Lysine)(Name:L-Lysine)(Name:Lys)"
+      text "(CAS:56-87-1.)(CAS:48050-57-3.)(CAS:6899-06-5.)(CAS:280114-50-3.)(CAS:1150316-18-9.)(CAS:1153953-95-7.)(CAS:2087491-46-9.)(CAS:2139267-51-7.)(CAS:12798-06-0.)(CAS:20166-34-1.)(CAS:25104-18-1.)(CAS:26714-32-9.)(CAS:923-27-3.)(CID:5962.)(kegg:C00047)(InChi:KDXKERNSBIXSRK-YFKPBYRVSA-N)(CHEBI:18019)(text:Lysine.)(text:L-Lysine.)(text:Lys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00047"
@@ -21162,7 +21191,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(KEGG:C00024)(Name:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(ChEBI:CHEBI:15351)(Name:Acetyl coenzyme A)(Name:AcetylCOA)(Name:Acetyl-Coenzyme A)(Name:Ace-CoA)(Name:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -21225,7 +21254,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:71-44-3)(CID:1103)(KEGG:C00750)(Name:PFNFFQXMRSDOHW-UHFFFAOYSA-N)(ChEBI:CHEBI:15746)(Name:Spermine)"
+      text "(CAS:71-44-3.)(CID:1103.)(kegg:C00750)(InChi:PFNFFQXMRSDOHW-UHFFFAOYSA-N)(CHEBI:15746)(text:Spermine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00750"
@@ -21288,7 +21317,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:124-20-9)(CID:1102)(KEGG:C00315)(Name:ATHGHQPFGPMSJY-UHFFFAOYSA-N)(ChEBI:CHEBI:16610)(Name:Spermidine)"
+      text "(CAS:124-20-9.)(CID:1102.)(kegg:C00315)(InChi:ATHGHQPFGPMSJY-UHFFFAOYSA-N)(CHEBI:16610)(text:Spermidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00315"
@@ -21351,7 +21380,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:22365-13-5)(CID:4368)(KEGG:C01137)(Name:ZUNBITIXDCPNSD-LSRJEVITSA-N)(ChEBI:CHEBI:15625)(Name:Deoxy-SAM)(Name:S-Adenosylmethioninamine)"
+      text "(CAS:22365-13-5.)(CID:439415.)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:15625)(text:Deoxy-SAM.)(text:S-Adenosylmethioninamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01137"
@@ -21414,7 +21443,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:68-94-0)(CID:790)(KEGG:C00262)(Name:FDGQSTZJBFJUBT-UHFFFAOYSA-N)(ChEBI:CHEBI:17368)(Name:Hypoxanthine)"
+      text "(CAS:68-94-0.)(CID:135398638.)(kegg:C00262)(InChi:FDGQSTZJBFJUBT-UHFFFAOYSA-N)(CHEBI:17368)(text:Hypoxanthine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00262"
@@ -21477,7 +21506,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:302-72-7)(CID:602)(KEGG:C00041)(Name:QNAYBMKLOCPYGJ-REOHCLBHSA-N)(ChEBI:CHEBI:16977)(Name:Alanine)(Name:Ala)"
+      text "(CAS:302-72-7.)(CAS:338-69-2.)(CAS:56-41-8.)(CID:602.)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-UHFFFAOYSA-N)(CHEBI:16977)(text:Alanine.)(text:Ala.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00041"
@@ -21540,7 +21569,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:305-84-0)(CID:439224)(KEGG:C00386)(Name:CQOVPNPJLQNMDC-ZETCQYMHSA-N)(ChEBI:CHEBI:15727)(Name:Carnosine)"
+      text "(CAS:305-84-0.)(CID:439224.)(kegg:C00386)(InChi:CQOVPNPJLQNMDC-ZETCQYMHSA-N)(CHEBI:15727)(text:Carnosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00386"
@@ -21603,7 +21632,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(KEGG:C00024)(Name:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(ChEBI:CHEBI:15351)(Name:Acetyl coenzyme A)(Name:AcetylCOA)(Name:Acetyl-Coenzyme A)(Name:Ace-CoA)(Name:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -21713,7 +21742,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(KEGG:C00019)(Name:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(ChEBI:CHEBI:67040)(Name:SAM)(Name:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -21823,7 +21852,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:123-41-1)(CID:305)(KEGG:C00114)(Name:OEYIOHPDSNJKLS-UHFFFAOYSA-N)(ChEBI:CHEBI:15354)(Name:Choline)"
+      text "(CAS:600-18-0.)(CID:305.)(kegg:C00114)(InChi:OEYIOHPDSNJKLS-UHFFFAOYSA-N)(CHEBI:15354)(text:Choline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00114"
@@ -21886,7 +21915,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:103239-24-3)(CID:11215652)(KEGG:C00127)(Name:YPZRWBKMTBYPTK-BJDJZHNGSA-N)(ChEBI:CHEBI:17858)(Name:Oxidized glutathione)(Name:GSSG)"
+      text "(CAS:110-17-8.)(CAS:623158-97-4.)(CAS:909873-99-0.)(CAS:6915-18-0.)(CID:65359.)(kegg:C00127)(InChi:YPZRWBKMTBYPTK-BJDJZHNGSA-N)(CHEBI:17858)(text:Oxidized glutathione.)(text:GSSG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00127"
@@ -21949,7 +21978,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(KEGG:C00019)(Name:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(ChEBI:CHEBI:67040)(Name:SAM)(Name:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -22059,7 +22088,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-18-8)(CID:124886)(KEGG:C00051)(Name:RWSXRVCMGQZWBV-WDSKDSINSA-N)(ChEBI:CHEBI:16856)(Name:Glutathione)(Name:L-Cysteinylglycine)(Name:Cys-Gly)"
+      text "(CAS:70-18-8.)(CAS:1109226-07-4.)(CAS:1655518-50-5.)(CID:124886.)(kegg:C00051)(InChi:RWSXRVCMGQZWBV-WDSKDSINSA-N)(CHEBI:16856)(text:Glutathione.)(text:L-Cysteinylglycine.)(text:Cys-Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00051"
@@ -22122,7 +22151,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1327-41-9)(CID:187)(KEGG:C01996)(Name:OIPILFWXSMYKGL-UHFFFAOYSA-N)(ChEBI:CHEBI:15355)(Name:Acetylcholine)"
+      text "(CAS:51-84-3.)(CID:187.)(kegg:C01996)(InChi:OIPILFWXSMYKGL-UHFFFAOYSA-N)(CHEBI:15355)(text:Acetylcholine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01996"
@@ -22185,7 +22214,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:87-89-8)(CID:892)(KEGG:C00137)(Name:CDAISMWEOUEBRE-GPIVLXJGSA-N)(ChEBI:CHEBI:17268)(Name:Inositol)"
+      text "(CAS:1927-31-7.)(CAS:67460-17-7.)(CID:892.)(kegg:C00137)(InChi:CDAISMWEOUEBRE-UHFFFAOYSA-N)(CHEBI:17268)(text:Inositol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00137"
@@ -22248,7 +22277,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:15421-51-9)(CID:107737)(KEGG:C01177)(Name:INAPMGSXUVUWAF-UOTPTPDRSA-N)(ChEBI:CHEBI:18297)(Name:Inositol phosphate)"
+      text "(CAS:15421-51-9.)(CID:107737.)(kegg:C01177)(InChi:INAPMGSXUVUWAF-UOTPTPDRSA-N)(CHEBI:18297)(text:Inositol phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01177"
@@ -22311,7 +22340,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1946-82-3)(CID:92907)(KEGG:C12989)(Name:VEYYWZRYIYDQJM-ZETCQYMHSA-N)(ChEBI:CHEBI:35704)(Name:N-Acetyl-Lysine)(Name:N2-Acetyl- L-lysine)(Name:N-Acetyl-Lys)"
+      text "(CAS:1946-82-3.)(CID:92907.)(kegg:C12989)(InChi:VEYYWZRYIYDQJM-ZETCQYMHSA-N)(CHEBI:35704)(text:N-Acetyl-Lysine.)(text:N2-Acetyl- L-lysine.)(text:N-Acetyl-Lys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C12989"
@@ -22374,7 +22403,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0692-04-06)(CID:92832)(KEGG:C02727)(Name:DTERQYGMUDWYAZ-ZETCQYMHSA-N)(ChEBI:CHEBI:17752)(Name:N6-Acetyllysine)"
+      text "(CAS:0692-04-06.)(CID:92832.)(kegg:C02727)(InChi:DTERQYGMUDWYAZ-ZETCQYMHSA-N)(CHEBI:17752)(text:N6-Acetyllysine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02727"
@@ -23612,7 +23641,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-42-7)(CID:970)(KEGG:C00036)(Name:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(Name:Oxalacetic acid)(Name:Oxaloacetate)(Name:Oxaloacetic acid)(Name:OAA)"
+      text "(CAS:328-42-7.)(CID:970.)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(CHEBI:30744)(text:Oxalacetic acid.)(text:Oxaloacetate.)(text:OAA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00036"
@@ -23675,7 +23704,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(KEGG:C00064)(Name:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(ChEBI:CHEBI:18050)(Name:Glutamine)(Name:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -23738,7 +23767,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2641-81-8)(CID:4457)(KEGG:C01236)(Name:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(ChEBI:CHEBI:16938)(Name:6-Phosphogluconolactone)(Name:6-Phospho-D-glucono-1,5-lactone)"
+      text "(CAS:2641-81-8.)(CID:439452.)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:16938)(text:6-Phosphogluconolactone.)(text:6-Phospho-D-glucono-1,5-lactone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01236"
@@ -25086,7 +25115,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2641-81-8)(CID:4457)(KEGG:C01236)(Name:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(ChEBI:CHEBI:16938)(Name:6-Phosphogluconolactone)(Name:6-Phospho-D-glucono-1,5-lactone)"
+      text "(CAS:2641-81-8.)(CID:439452.)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:16938)(text:6-Phosphogluconolactone.)(text:6-Phospho-D-glucono-1,5-lactone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01236"
@@ -28198,2887 +28227,6 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 6206.0
-      y 7525.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Saccharopine-5TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Saccharopine-5TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 806
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 3258.0
-      y 5370.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Glutamine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Glutamine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 807
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 3701.0
-      y 7550.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Urocanic acid-TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Urocanic acid-TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 808
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 6226.0
-      y 8200.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Ketoglutaric acid-meto-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Ketoglutaric acid-meto-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 809
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2801.0
-      y 7400.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Tryptamine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Tryptamine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 810
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 3231.0
-      y 8150.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Melatonin-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Melatonin-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 811
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5016.0
-      y 7830.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Glycine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Glycine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 812
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1461.0
-      y 2225.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Pyridoxamine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Pyridoxamine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 813
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2801.0
-      y 7700.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "5-Methoxytryptamine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:5-Methoxytryptamine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 814
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1886.0
-      y 270.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Glucose-5TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Glucose-5TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 815
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 7366.0
-      y 9190.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Pyruvic acid-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Pyruvic acid-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 816
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1431.0
-      y 8750.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Acetoacetic acid-meto-TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Acetoacetic acid-meto-TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 817
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2931.0
-      y 7400.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Tryptamine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Tryptamine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 818
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 3388.0
-      y 5370.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Glutamine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Glutamine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 819
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 4471.0
-      y 2685.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Thymidine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Thymidine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 820
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 7496.0
-      y 9190.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Pyruvic acid-meto-TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Pyruvic acid-meto-TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 821
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5631.0
-      y 7375.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "N6-Acetyllysine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:N6-Acetyllysine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 822
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 4601.0
-      y 2685.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Thymidine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Thymidine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 823
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2501.0
-      y 8150.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Anthranilic acid-TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Anthranilic acid-TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 824
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5076.0
-      y 4935.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Aminoethanol-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Aminoethanol-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 825
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1901.0
-      y 7850.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Dopamine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Dopamine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 826
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2931.0
-      y 7700.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "5-Methoxytryptamine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:5-Methoxytryptamine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 827
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5206.0
-      y 4935.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Aminoethanol-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Aminoethanol-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 828
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2631.0
-      y 8450.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "3-Hydroxyanthranilic acid-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:3-Hydroxyanthranilic acid-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 829
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5761.0
-      y 7375.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "N6-Acetyllysine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:N6-Acetyllysine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 830
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 7216.0
-      y 7915.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Serine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Serine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 831
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1886.0
-      y 4020.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Oxalacetic acid-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Oxalacetic acid-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 832
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 4121.0
-      y 7425.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Histidinol-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Histidinol-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 833
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1591.0
-      y 2225.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Pyridoxamine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Pyridoxamine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 834
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 6356.0
-      y 8200.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Ketoglutaric acid-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Ketoglutaric acid-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 835
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 8151.0
-      y 7555.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Ketoisocaproic acid-meto-TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Ketoisocaproic acid-meto-TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 836
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 9456.0
-      y 7555.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Keto-isovaleric acid-oxime-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Keto-isovaleric acid-oxime-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 837
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 6076.0
-      y 7525.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Saccharopine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Saccharopine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 838
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1561.0
-      y 8750.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Acetoacetic acid-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Acetoacetic acid-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 839
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2631.0
-      y 8150.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Anthranilic acid-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Anthranilic acid-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 840
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 686.0
-      y 4020.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Asparagine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Asparagine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 841
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 6486.0
-      y 8200.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Ketoglutaric acid-oxime-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Ketoglutaric acid-oxime-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 842
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2031.0
-      y 8450.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Epinephrine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Epinephrine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 843
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 3991.0
-      y 7425.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Histidinol-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Histidinol-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 844
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5071.0
-      y 2680.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Uridine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Uridine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 845
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 6206.0
-      y 7225.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Lysine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Lysine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 846
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 4886.0
-      y 7830.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Glycine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Glycine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 847
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 1756.0
-      y 4020.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Oxalacetic acid-meto-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Oxalacetic acid-meto-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 848
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
       x 8676.0
       y 7255.0
       w 120.0
@@ -31122,13 +28270,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isoleucine-TMS)"
+      text "(text:Isoleucine-TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 849
+    id 806
     zlevel -1
 
     charting [
@@ -31146,8 +28294,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 6076.0
-      y 7225.0
+      x 1886.0
+      y 270.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -31159,7 +28307,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Lysine-4TMS"
+    label "Glucose-meto-5TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -31189,13 +28337,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lysine-4TMS)"
+      text "(text:Glucose-meto-5TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 850
+    id 807
     zlevel -1
 
     charting [
@@ -31213,7 +28361,7 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 3101.0
+      x 3231.0
       y 8150.0
       w 120.0
       h 120.0
@@ -31256,13 +28404,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Melatonin-TMS)"
+      text "(text:Melatonin-TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 851
+    id 808
     zlevel -1
 
     charting [
@@ -31280,8 +28428,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 7346.0
-      y 7915.0
+      x 4121.0
+      y 7425.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -31293,7 +28441,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Serine-2TMS"
+    label "Histidinol-3TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -31323,281 +28471,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Serine-2TMS)"
+      text "(text:Histidinol-3TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 852
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 8281.0
-      y 7555.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Ketoisocaproic acid-oxime-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Ketoisocaproic acid-oxime-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 853
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5201.0
-      y 2680.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Uridine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Uridine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 854
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 2501.0
-      y 7850.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Kynurenine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Kynurenine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 855
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 556.0
-      y 4020.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Asparagine-3TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Asparagine-3TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 856
+    id 809
     zlevel -1
 
     charting [
@@ -31616,73 +28496,6 @@ graph [
     ]
     graphics [
       x 381.0
-      y 1020.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Mannose-5TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Mannose-5TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 857
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 251.0
       y 1020.0
       w 120.0
       h 120.0
@@ -31725,80 +28538,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannose-meto-5TMS)"
+      text "(text:Mannose-meto-5TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 858
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 9326.0
-      y 7555.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "2-Keto-isovaleric acid-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:2-Keto-isovaleric acid-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 859
+    id 810
     zlevel -1
 
     charting [
@@ -31859,13 +28605,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenine-3TMS)"
+      text "(text:Kynurenine-3TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 860
+    id 811
     zlevel -1
 
     charting [
@@ -31883,8 +28629,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 1756.0
-      y 270.0
+      x 686.0
+      y 4020.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -31896,7 +28642,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Glucose-meto-5TMS"
+    label "Asparagine-3TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -31926,13 +28672,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucose-meto-5TMS)"
+      text "(text:Asparagine-3TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 861
+    id 812
     zlevel -1
 
     charting [
@@ -31950,8 +28696,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 2056.0
-      y 5970.0
+      x 3701.0
+      y 7550.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -31963,7 +28709,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Ornithine-3TMS"
+    label "Urocanic acid-TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -31993,13 +28739,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-3TMS)"
+      text "(text:Urocanic acid-TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 862
+    id 813
     zlevel -1
 
     charting [
@@ -32017,7 +28763,208 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 7626.0
+      x 3101.0
+      y 8150.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Melatonin-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Melatonin-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 814
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 9326.0
+      y 7555.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Keto-isovaleric acid-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Keto-isovaleric acid-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 815
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 7216.0
+      y 7915.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Serine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Serine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 816
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 7496.0
       y 9190.0
       w 120.0
       h 120.0
@@ -32060,80 +29007,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyruvic acid-oxime-2TMS)"
+      text "(text:Pyruvic acid-oxime-2TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 863
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 8806.0
-      y 7255.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Isoleucine-2TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Isoleucine-2TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 864
+    id 817
     zlevel -1
 
     charting [
@@ -32194,13 +29074,1286 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopamine-4TMS)"
+      text "(text:Dopamine-4TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 865
+    id 818
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 8806.0
+      y 7255.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Isoleucine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Isoleucine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 819
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2501.0
+      y 7850.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Kynurenine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Kynurenine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 820
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1431.0
+      y 8750.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Acetoacetic acid-meto-TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Acetoacetic acid-meto-TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 821
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 4601.0
+      y 2685.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Thymidine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Thymidine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 822
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5016.0
+      y 7830.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Glycine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Glycine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 823
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1901.0
+      y 7850.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Dopamine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Dopamine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 824
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 251.0
+      y 1020.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Mannose-5TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Mannose-5TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 825
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 7366.0
+      y 9190.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Pyruvic acid-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Pyruvic acid-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 826
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6076.0
+      y 7225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Lysine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Lysine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 827
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1756.0
+      y 270.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Glucose-5TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Glucose-5TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 828
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 4886.0
+      y 7830.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Glycine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Glycine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 829
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2801.0
+      y 7700.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "5-Methoxytryptamine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:5-Methoxytryptamine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 830
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 556.0
+      y 4020.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Asparagine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Asparagine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 831
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6206.0
+      y 7225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Lysine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Lysine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 832
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5631.0
+      y 7225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Cadaverine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Cadaverine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 833
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6076.0
+      y 7525.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Saccharopine-5TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Saccharopine-5TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 834
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2501.0
+      y 8450.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "3-Hydroxyanthranilic acid-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:3-Hydroxyanthranilic acid-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 835
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5761.0
+      y 7225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Cadaverine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Cadaverine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 836
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 3991.0
+      y 7425.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Histidinol-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Histidinol-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 837
     zlevel -1
 
     charting [
@@ -32261,13 +30414,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Urocanic acid-2TMS)"
+      text "(text:Urocanic acid-2TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 866
+    id 838
     zlevel -1
 
     charting [
@@ -32285,7 +30438,141 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 1901.0
+      x 2631.0
+      y 8150.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Anthranilic acid-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Anthranilic acid-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 839
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2801.0
+      y 7400.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Tryptamine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Tryptamine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 840
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2031.0
       y 8450.0
       w 120.0
       h 120.0
@@ -32328,13 +30615,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Epinephrine-4TMS)"
+      text "(text:Epinephrine-4TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 867
+    id 841
     zlevel -1
 
     charting [
@@ -32352,7 +30639,7 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 2501.0
+      x 2631.0
       y 8450.0
       w 120.0
       h 120.0
@@ -32395,13 +30682,13 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyanthranilic acid-2TMS)"
+      text "(text:3-Hydroxyanthranilic acid-2TMS.)"
       type "text"
     ]
 
   ]
   node [
-    id 868
+    id 842
     zlevel -1
 
     charting [
@@ -32419,8 +30706,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 9196.0
-      y 7555.0
+      x 5761.0
+      y 7375.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -32432,7 +30719,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "2-Keto-isovaleric acid-meto-TMS"
+    label "N6-Acetyllysine-3TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -32462,13 +30749,1822 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Keto-isovaleric acid-meto-TMS)"
+      text "(text:N6-Acetyllysine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 843
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1886.0
+      y 4020.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Oxalacetic acid-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Oxalacetic acid-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 844
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 7626.0
+      y 9190.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Pyruvic acid-meto-TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Pyruvic acid-meto-TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 845
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 7346.0
+      y 7915.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Serine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Serine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 846
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6356.0
+      y 8200.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Ketoglutaric acid-meto-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Ketoglutaric acid-meto-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 847
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6226.0
+      y 8200.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Ketoglutaric acid-oxime-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Ketoglutaric acid-oxime-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 848
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1756.0
+      y 4020.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Oxalacetic acid-meto-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Oxalacetic acid-meto-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 849
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 3388.0
+      y 5370.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Glutamine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Glutamine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 850
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1461.0
+      y 2225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Pyridoxamine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Pyridoxamine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 851
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2056.0
+      y 5970.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Ornithine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Ornithine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 852
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1591.0
+      y 2225.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Pyridoxamine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Pyridoxamine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 853
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5071.0
+      y 2680.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Uridine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Uridine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 854
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5076.0
+      y 4935.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Aminoethanol-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Aminoethanol-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 855
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2501.0
+      y 8150.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Anthranilic acid-TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Anthranilic acid-TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 856
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 8151.0
+      y 7555.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Ketoisocaproic acid-meto-TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Ketoisocaproic acid-meto-TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 857
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5201.0
+      y 2680.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Uridine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Uridine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 858
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5631.0
+      y 7375.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "N6-Acetyllysine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:N6-Acetyllysine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 859
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2931.0
+      y 7400.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Tryptamine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Tryptamine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 860
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 8281.0
+      y 7555.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Ketoisocaproic acid-oxime-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Ketoisocaproic acid-oxime-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 861
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1561.0
+      y 8750.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Acetoacetic acid-oxime-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Acetoacetic acid-oxime-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 862
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1901.0
+      y 8450.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Epinephrine-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Epinephrine-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 863
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6486.0
+      y 8200.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Ketoglutaric acid-3TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Ketoglutaric acid-3TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 864
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 2931.0
+      y 7700.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "5-Methoxytryptamine-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:5-Methoxytryptamine-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 865
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 6206.0
+      y 7525.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Saccharopine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Saccharopine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 866
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 5206.0
+      y 4935.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Aminoethanol-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Aminoethanol-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 867
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 1301.0
+      y 8750.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Acetoacetic acid-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Acetoacetic acid-2TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 868
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 9456.0
+      y 7555.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "2-Keto-isovaleric acid-oxime-2TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:2-Keto-isovaleric acid-oxime-2TMS.)"
       type "text"
     ]
 
   ]
   node [
     id 869
+    zlevel -1
+
+    charting [
+      background_color "#000000"
+      domainAxis "[unit]"
+      empty_border_width 2.0
+      empty_border_width_vert 2.0
+      maxRange 1.0
+      max_charts_in_column -1
+      minRange 0.0
+      rangeAxis "[unit]"
+      rangeStepSize 0.0
+      show_legend "false"
+      useCustomRange "false"
+      useCustomRangeSteps "false"
+    ]
+    graphics [
+      x 3258.0
+      y 5370.0
+      w 120.0
+      h 120.0
+      fill "#FFFFFF"
+      outline "#000000"
+      component "chart2d_type3"
+      frameThickness 1.0
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "rectangle"
+    ]
+    label "Glutamine-4TMS"
+    labelgraphics [
+      alignment "center"
+      anchor "n"
+      color "#ff1111"
+      fontName "Arial Narrow"
+      fontSize 28
+      fontStyle "bold,mouseover"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:Glutamine-4TMS.)"
+      type "text"
+    ]
+
+  ]
+  node [
+    id 870
     zlevel -1
 
     charting [
@@ -32529,74 +32625,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-4TMS)"
-      type "text"
-    ]
-
-  ]
-  node [
-    id 870
-    zlevel -1
-
-    charting [
-      background_color "#000000"
-      domainAxis "[unit]"
-      empty_border_width 2.0
-      empty_border_width_vert 2.0
-      maxRange 1.0
-      max_charts_in_column -1
-      minRange 0.0
-      rangeAxis "[unit]"
-      rangeStepSize 0.0
-      show_legend "false"
-      useCustomRange "false"
-      useCustomRangeSteps "false"
-    ]
-    graphics [
-      x 5761.0
-      y 7225.0
-      w 120.0
-      h 120.0
-      fill "#FFFFFF"
-      outline "#000000"
-      component "chart2d_type3"
-      frameThickness 1.0
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "rectangle"
-    ]
-    label "Cadaverine-4TMS"
-    labelgraphics [
-      alignment "center"
-      anchor "n"
-      color "#ff1111"
-      fontName "Arial Narrow"
-      fontSize 28
-      fontStyle "bold,mouseover"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(Name:Cadaverine-4TMS)"
+      text "(text:Ornithine-4TMS.)"
       type "text"
     ]
 
@@ -32620,8 +32649,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 5631.0
-      y 7225.0
+      x 9196.0
+      y 7555.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -32633,7 +32662,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Cadaverine-3TMS"
+    label "2-Keto-isovaleric acid-meto-TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -32663,7 +32692,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cadaverine-3TMS)"
+      text "(text:2-Keto-isovaleric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -32687,8 +32716,8 @@ graph [
       useCustomRangeSteps "false"
     ]
     graphics [
-      x 1301.0
-      y 8750.0
+      x 4471.0
+      y 2685.0
       w 120.0
       h 120.0
       fill "#FFFFFF"
@@ -32700,7 +32729,7 @@ graph [
       rounding 5.0
       type "rectangle"
     ]
-    label "Acetoacetic acid-oxime-2TMS"
+    label "Thymidine-3TMS"
     labelgraphics [
       alignment "center"
       anchor "n"
@@ -32730,7 +32759,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetoacetic acid-oxime-2TMS)"
+      text "(text:Thymidine-3TMS.)"
       type "text"
     ]
 
@@ -32797,7 +32826,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyl-Lysine-2TMS)"
+      text "(text:N-Acetyl-Lysine-2TMS.)"
       type "text"
     ]
 
@@ -32864,7 +32893,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyl-Ornithine-4TMS)"
+      text "(text:N-Acetyl-Ornithine-4TMS.)"
       type "text"
     ]
 
@@ -32931,7 +32960,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylaspartic acid-2TMS)"
+      text "(text:N-Acetylaspartic acid-2TMS.)"
       type "text"
     ]
 
@@ -32998,7 +33027,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylaspartic acid-3TMS)"
+      text "(text:N-Acetylaspartic acid-3TMS.)"
       type "text"
     ]
 
@@ -33065,7 +33094,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-2TMS)"
+      text "(text:N-Acetylglutamine-2TMS.)"
       type "text"
     ]
 
@@ -33132,7 +33161,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-3TMS)"
+      text "(text:N-Acetylglutamine-3TMS.)"
       type "text"
     ]
 
@@ -33199,7 +33228,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-4TMS)"
+      text "(text:N-Acetylglutamine-4TMS.)"
       type "text"
     ]
 
@@ -33266,7 +33295,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylglycine-2TMS)"
+      text "(text:Acetylglycine-2TMS.)"
       type "text"
     ]
 
@@ -33333,7 +33362,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylglycine-TMS)"
+      text "(text:Acetylglycine-TMS.)"
       type "text"
     ]
 
@@ -33400,7 +33429,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylmannosamine-meto-4TMS)"
+      text "(text:N-Acetylmannosamine-meto-4TMS.)"
       type "text"
     ]
 
@@ -33467,7 +33496,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylneuraminic acid-6TMS)"
+      text "(text:N-Acetylneuraminic acid-6TMS.)"
       type "text"
     ]
 
@@ -33534,7 +33563,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylneuraminic acid-meto-7TMS)"
+      text "(text:N-Acetylneuraminic acid-meto-7TMS.)"
       type "text"
     ]
 
@@ -33601,7 +33630,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylsalicylic acid-TMS)"
+      text "(text:Acetylsalicylic acid-TMS.)"
       type "text"
     ]
 
@@ -33668,7 +33697,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylserine-2TMS)"
+      text "(text:N-Acetylserine-2TMS.)"
       type "text"
     ]
 
@@ -33735,7 +33764,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Acetylserine-2TMS)"
+      text "(text:O-Acetylserine-2TMS.)"
       type "text"
     ]
 
@@ -33802,7 +33831,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylserine-3TMS)"
+      text "(text:N-Acetylserine-3TMS.)"
       type "text"
     ]
 
@@ -33869,7 +33898,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyltyrosine-2TMS)"
+      text "(text:N-Acetyltyrosine-2TMS.)"
       type "text"
     ]
 
@@ -33936,7 +33965,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyltyrosine-3TMS)"
+      text "(text:N-Acetyltyrosine-3TMS.)"
       type "text"
     ]
 
@@ -34003,7 +34032,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aconitic acid-3TMS)"
+      text "(text:Aconitic acid-3TMS.)"
       type "text"
     ]
 
@@ -34070,7 +34099,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenine-2TMS)"
+      text "(text:Adenine-2TMS.)"
       type "text"
     ]
 
@@ -34137,7 +34166,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine 3d,5d-cyclic monophosphate-3TMS)"
+      text "(text:Adenosine 3d,5d-cyclic monophosphate-3TMS.)"
       type "text"
     ]
 
@@ -34204,7 +34233,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine monophosphate-5TMS)"
+      text "(text:Adenosine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -34271,7 +34300,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine-4TMS)"
+      text "(text:Adenosine-4TMS.)"
       type "text"
     ]
 
@@ -34338,7 +34367,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adipic acid-2TMS)"
+      text "(text:Adipic acid-2TMS.)"
       type "text"
     ]
 
@@ -34405,7 +34434,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Alanine-2TMS)"
+      text "(text:Alanine-2TMS.)"
       type "text"
     ]
 
@@ -34472,7 +34501,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-3TMS)"
+      text "(text:Allantoin-3TMS.)"
       type "text"
     ]
 
@@ -34539,7 +34568,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-4TMS)"
+      text "(text:Allantoin-4TMS.)"
       type "text"
     ]
 
@@ -34606,7 +34635,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-5TMS)"
+      text "(text:Allantoin-5TMS.)"
       type "text"
     ]
 
@@ -34673,7 +34702,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allose-5TMS)"
+      text "(text:Allose-5TMS.)"
       type "text"
     ]
 
@@ -34740,7 +34769,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allose-meto-5TMS)"
+      text "(text:Allose-meto-5TMS.)"
       type "text"
     ]
 
@@ -34807,7 +34836,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoadipic acid-3TMS)"
+      text "(text:2-Aminoadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -34874,7 +34903,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobenzoic acid-2TMS)"
+      text "(text:4-Aminobenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -34941,7 +34970,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobenzoic acid-TMS)"
+      text "(text:4-Aminobenzoic acid-TMS.)"
       type "text"
     ]
 
@@ -35008,7 +35037,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminobutyric acid-2TMS)"
+      text "(text:2-Aminobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -35075,7 +35104,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobutyric acid-2TMS)"
+      text "(text:4-Aminobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -35142,7 +35171,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobutyric acid-3TMS)"
+      text "(text:4-Aminobutyric acid-3TMS.)"
       type "text"
     ]
 
@@ -35209,7 +35238,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoglutaric acid-2TMS)"
+      text "(text:3-Aminoglutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -35276,7 +35305,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoglutaric acid-3TMS)"
+      text "(text:3-Aminoglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -35343,7 +35372,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:p-Aminohippuric acid-2TMS)"
+      text "(text:p-Aminohippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -35410,7 +35439,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoisobutyric acid-2TMS)"
+      text "(text:2-Aminoisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -35477,7 +35506,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoisobutyric acid-2TMS)"
+      text "(text:3-Aminoisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -35544,7 +35573,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoisobutyric acid-3TMS)"
+      text "(text:3-Aminoisobutyric acid-3TMS.)"
       type "text"
     ]
 
@@ -35611,7 +35640,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminolevulinic acid-meto-3TMS)"
+      text "(text:5-Aminolevulinic acid-meto-3TMS.)"
       type "text"
     ]
 
@@ -35678,7 +35707,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminooctanoic acid-2TMS)"
+      text "(text:2-Aminooctanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -35745,7 +35774,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminooctanoic acid-TMS)"
+      text "(text:2-Aminooctanoic acid-TMS.)"
       type "text"
     ]
 
@@ -35812,7 +35841,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminopimelic acid-3TMS)"
+      text "(text:2-Aminopimelic acid-3TMS.)"
       type "text"
     ]
 
@@ -35879,7 +35908,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminopropanoic acid-2TMS)"
+      text "(text:3-Aminopropanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -35946,7 +35975,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminopropanoic acid-3TMS)"
+      text "(text:3-Aminopropanoic acid-3TMS.)"
       type "text"
     ]
 
@@ -36013,7 +36042,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminovaleric acid-2TMS)"
+      text "(text:5-Aminovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -36080,7 +36109,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminovaleric acid-3TMS)"
+      text "(text:5-Aminovaleric acid-3TMS.)"
       type "text"
     ]
 
@@ -36147,7 +36176,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1,5-Anhydro-glucitol-4TMS)"
+      text "(text:1,5-Anhydro-glucitol-4TMS.)"
       type "text"
     ]
 
@@ -36214,7 +36243,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1,6-Anhydroglucose-3TMS)"
+      text "(text:1,6-Anhydroglucose-3TMS.)"
       type "text"
     ]
 
@@ -36281,7 +36310,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabinose-4TMS)"
+      text "(text:Arabinose-4TMS.)"
       type "text"
     ]
 
@@ -36348,7 +36377,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabinose-meto-4TMS)"
+      text "(text:Arabinose-meto-4TMS.)"
       type "text"
     ]
 
@@ -36415,7 +36444,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabitol-5TMS)"
+      text "(text:Arabitol-5TMS.)"
       type "text"
     ]
 
@@ -36482,7 +36511,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arachidonic acid-TMS)"
+      text "(text:Arachidonic acid-TMS.)"
       type "text"
     ]
 
@@ -36549,7 +36578,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arginine-3TMS)"
+      text "(text:Arginine-3TMS.)"
       type "text"
     ]
 
@@ -36616,7 +36645,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ascorbic acid-4TMS)"
+      text "(text:Ascorbic acid-4TMS.)"
       type "text"
     ]
 
@@ -36683,7 +36712,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aspartic acid-3TMS)"
+      text "(text:Aspartic acid-3TMS.)"
       type "text"
     ]
 
@@ -36750,7 +36779,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aspartic acid-d3-3TMS)"
+      text "(text:Aspartic acid-d3-3TMS.)"
       type "text"
     ]
 
@@ -36817,7 +36846,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Azelaic acid-2TMS)"
+      text "(text:Azelaic acid-2TMS.)"
       type "text"
     ]
 
@@ -36884,7 +36913,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Batyl alcohol-2TMS)"
+      text "(text:Batyl alcohol-2TMS.)"
       type "text"
     ]
 
@@ -36951,7 +36980,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Benzoic acid-TMS)"
+      text "(text:Benzoic acid-TMS.)"
       type "text"
     ]
 
@@ -37018,7 +37047,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:S-Benzyl-Cysteine-4TMS)"
+      text "(text:S-Benzyl-Cysteine-4TMS.)"
       type "text"
     ]
 
@@ -37085,7 +37114,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Biotin-3TMS)"
+      text "(text:Biotin-3TMS.)"
       type "text"
     ]
 
@@ -37152,7 +37181,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2,3-Bisphosphoglyceric acid-5TMS)"
+      text "(text:2,3-Bisphosphoglyceric acid-5TMS.)"
       type "text"
     ]
 
@@ -37219,7 +37248,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Boric acid-3TMS)"
+      text "(text:Boric acid-3TMS.)"
       type "text"
     ]
 
@@ -37286,7 +37315,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Butyrylglycine-2TMS)"
+      text "(text:N-Butyrylglycine-2TMS.)"
       type "text"
     ]
 
@@ -37353,7 +37382,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Butyrylglycine-TMS)"
+      text "(text:N-Butyrylglycine-TMS.)"
       type "text"
     ]
 
@@ -37420,7 +37449,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Caffeine)"
+      text "(text:Caffeine.)"
       type "text"
     ]
 
@@ -37487,7 +37516,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Caproic acid-TMS)"
+      text "(text:Caproic acid-TMS.)"
       type "text"
     ]
 
@@ -37554,7 +37583,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Carnosine-4TMS)"
+      text "(text:Carnosine-4TMS.)"
       type "text"
     ]
 
@@ -37621,7 +37650,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Carnosine-5TMS)"
+      text "(text:Carnosine-5TMS.)"
       type "text"
     ]
 
@@ -37688,7 +37717,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Catechol-2TMS)"
+      text "(text:Catechol-2TMS.)"
       type "text"
     ]
 
@@ -37755,7 +37784,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Chloramphenicol-2TMS)"
+      text "(text:Chloramphenicol-2TMS.)"
       type "text"
     ]
 
@@ -37822,7 +37851,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cholecalciferol-TMS)"
+      text "(text:Cholecalciferol-TMS.)"
       type "text"
     ]
 
@@ -37889,7 +37918,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cholesterol-TMS)"
+      text "(text:Cholesterol-TMS.)"
       type "text"
     ]
 
@@ -37956,7 +37985,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cinnamic acid-TMS)"
+      text "(text:Cinnamic acid-TMS.)"
       type "text"
     ]
 
@@ -38023,7 +38052,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citraconic acid-2TMS)"
+      text "(text:Citraconic acid-2TMS.)"
       type "text"
     ]
 
@@ -38090,7 +38119,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citramalic acid-3TMS)"
+      text "(text:Citramalic acid-3TMS.)"
       type "text"
     ]
 
@@ -38157,7 +38186,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citric acid-4TMS)"
+      text "(text:Citric acid-4TMS.)"
       type "text"
     ]
 
@@ -38224,7 +38253,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citric acid-d4-4TMS)"
+      text "(text:Citric acid-d4-4TMS.)"
       type "text"
     ]
 
@@ -38291,7 +38320,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citrulline-3TMS)"
+      text "(text:Citrulline-3TMS.)"
       type "text"
     ]
 
@@ -38358,7 +38387,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl alcohol-2TMS)"
+      text "(text:Coniferyl alcohol-2TMS.)"
       type "text"
     ]
 
@@ -38425,7 +38454,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl aldehyde-TMS)"
+      text "(text:Coniferyl aldehyde-TMS.)"
       type "text"
     ]
 
@@ -38492,7 +38521,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl aldehyde-meto-TMS)"
+      text "(text:Coniferyl aldehyde-meto-TMS.)"
       type "text"
     ]
 
@@ -38559,7 +38588,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Creatinine-3TMS)"
+      text "(text:Creatinine-3TMS.)"
       type "text"
     ]
 
@@ -38626,7 +38655,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Cresol-TMS)"
+      text "(text:4-Cresol-TMS.)"
       type "text"
     ]
 
@@ -38693,7 +38722,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cyclohexanediol-2TMS)"
+      text "(text:Cyclohexanediol-2TMS.)"
       type "text"
     ]
 
@@ -38760,7 +38789,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystamine-d8-nTMS)"
+      text "(text:Cystamine-d8-nTMS.)"
       type "text"
     ]
 
@@ -38827,7 +38856,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystamine-nTMS)"
+      text "(text:Cystamine-nTMS.)"
       type "text"
     ]
 
@@ -38894,7 +38923,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystathionine-4TMS)"
+      text "(text:Cystathionine-4TMS.)"
       type "text"
     ]
 
@@ -38961,7 +38990,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cysteic acid-3TMS)"
+      text "(text:Cysteic acid-3TMS.)"
       type "text"
     ]
 
@@ -39028,7 +39057,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cysteine-3TMS)"
+      text "(text:Cysteine-3TMS.)"
       type "text"
     ]
 
@@ -39095,7 +39124,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystine-4TMS)"
+      text "(text:Cystine-4TMS.)"
       type "text"
     ]
 
@@ -39162,7 +39191,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cytidine-4TMS)"
+      text "(text:Cytidine-4TMS.)"
       type "text"
     ]
 
@@ -39229,7 +39258,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cytosine-2TMS)"
+      text "(text:Cytosine-2TMS.)"
       type "text"
     ]
 
@@ -39296,7 +39325,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Decadienedioic acid-2TMS)"
+      text "(text:Decadienedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -39363,7 +39392,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Decanoic acid-TMS)"
+      text "(text:Decanoic acid-TMS.)"
       type "text"
     ]
 
@@ -39430,7 +39459,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Dehydroquinic acid-5TMS)"
+      text "(text:5-Dehydroquinic acid-5TMS.)"
       type "text"
     ]
 
@@ -39497,7 +39526,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Dehydroquinic acid-meto-4TMS)"
+      text "(text:5-Dehydroquinic acid-meto-4TMS.)"
       type "text"
     ]
 
@@ -39564,7 +39593,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Dehydroshikimic acid-meto-3TMS)"
+      text "(text:3-Dehydroshikimic acid-meto-3TMS.)"
       type "text"
     ]
 
@@ -39631,7 +39660,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxy-glucose-4TMS)"
+      text "(text:2-Deoxy-glucose-4TMS.)"
       type "text"
     ]
 
@@ -39698,7 +39727,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxy-glucose-meto-4TMS)"
+      text "(text:2-Deoxy-glucose-meto-4TMS.)"
       type "text"
     ]
 
@@ -39765,7 +39794,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxytetronic acid-3TMS)"
+      text "(text:2-Deoxytetronic acid-3TMS.)"
       type "text"
     ]
 
@@ -39832,7 +39861,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2d-Deoxyuridine-2TMS)"
+      text "(text:2d-Deoxyuridine-2TMS.)"
       type "text"
     ]
 
@@ -39899,7 +39928,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2d-Deoxyuridine-3TMS)"
+      text "(text:2d-Deoxyuridine-3TMS.)"
       type "text"
     ]
 
@@ -39966,7 +39995,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroorotic acid-3TMS)"
+      text "(text:Dihydroorotic acid-3TMS.)"
       type "text"
     ]
 
@@ -40033,7 +40062,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydrouracil-2TMS)"
+      text "(text:Dihydrouracil-2TMS.)"
       type "text"
     ]
 
@@ -40100,7 +40129,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydrouracil-TMS)"
+      text "(text:Dihydrouracil-TMS.)"
       type "text"
     ]
 
@@ -40167,7 +40196,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone phosphate-meto-3TMS)"
+      text "(text:Dihydroxyacetone phosphate-meto-3TMS.)"
       type "text"
     ]
 
@@ -40234,7 +40263,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-13C3-meto-2TMS)"
+      text "(text:Dihydroxyacetone-13C3-meto-2TMS.)"
       type "text"
     ]
 
@@ -40301,7 +40330,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-2TMS)"
+      text "(text:Dihydroxyacetone-2TMS.)"
       type "text"
     ]
 
@@ -40368,7 +40397,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-meto-2TMS)"
+      text "(text:Dihydroxyacetone-meto-2TMS.)"
       type "text"
     ]
 
@@ -40435,7 +40464,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,4-Dihydroxybenzylamine-4TMS)"
+      text "(text:3,4-Dihydroxybenzylamine-4TMS.)"
       type "text"
     ]
 
@@ -40502,7 +40531,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,4-Dihydroxymandelic acid-4TMS)"
+      text "(text:3,4-Dihydroxymandelic acid-4TMS.)"
       type "text"
     ]
 
@@ -40569,7 +40598,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dimethylglycine-TMS)"
+      text "(text:Dimethylglycine-TMS.)"
       type "text"
     ]
 
@@ -40636,7 +40665,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Docosahexaenoic acid-TMS)"
+      text "(text:Docosahexaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -40703,7 +40732,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Docosapentaenoic acid-TMS)"
+      text "(text:Docosapentaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -40770,7 +40799,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dodecanedioic acid-2TMS)"
+      text "(text:Dodecanedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -40837,7 +40866,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopa-13C6-4TMS)"
+      text "(text:Dopa-13C6-4TMS.)"
       type "text"
     ]
 
@@ -40904,7 +40933,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopa-4TMS)"
+      text "(text:Dopa-4TMS.)"
       type "text"
     ]
 
@@ -40971,7 +41000,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Eicosapentaenoic acid-TMS)"
+      text "(text:Eicosapentaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -41038,7 +41067,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Elaidic acid-TMS)"
+      text "(text:Elaidic acid-TMS.)"
       type "text"
     ]
 
@@ -41105,7 +41134,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,6-Epoxydodecanedioic acid-2TMS)"
+      text "(text:3,6-Epoxydodecanedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -41172,7 +41201,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:meso-Erythritol-4TMS)"
+      text "(text:meso-Erythritol-4TMS.)"
       type "text"
     ]
 
@@ -41239,7 +41268,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Erythrose 4-phosphate-meto-4TMS)"
+      text "(text:Erythrose 4-phosphate-meto-4TMS.)"
       type "text"
     ]
 
@@ -41306,7 +41335,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Erythrulose-meto-3TMS)"
+      text "(text:Erythrulose-meto-3TMS.)"
       type "text"
     ]
 
@@ -41373,7 +41402,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ethylhydracrylic acid-2TMS)"
+      text "(text:Ethylhydracrylic acid-2TMS.)"
       type "text"
     ]
 
@@ -41440,7 +41469,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ethylmalonic acid-2TMS)"
+      text "(text:Ethylmalonic acid-2TMS.)"
       type "text"
     ]
 
@@ -41507,7 +41536,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fendiline-TMS)"
+      text "(text:Fendiline-TMS.)"
       type "text"
     ]
 
@@ -41574,7 +41603,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fendiline)"
+      text "(text:Fendiline.)"
       type "text"
     ]
 
@@ -41641,7 +41670,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose 1-phosphate-meto-6TMS)"
+      text "(text:Fructose 1-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -41708,7 +41737,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose 6-phosphate-meto-6TMS)"
+      text "(text:Fructose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -41775,7 +41804,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose-5TMS)"
+      text "(text:Fructose-5TMS.)"
       type "text"
     ]
 
@@ -41842,7 +41871,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose-meto-5TMS)"
+      text "(text:Fructose-meto-5TMS.)"
       type "text"
     ]
 
@@ -41909,7 +41938,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fucose-4TMS)"
+      text "(text:Fucose-4TMS.)"
       type "text"
     ]
 
@@ -41976,7 +42005,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fucose-meto-4TMS)"
+      text "(text:Fucose-meto-4TMS.)"
       type "text"
     ]
 
@@ -42043,7 +42072,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fumaric acid-13C4-2TMS)"
+      text "(text:Fumaric acid-13C4-2TMS.)"
       type "text"
     ]
 
@@ -42110,7 +42139,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fumaric acid-2TMS)"
+      text "(text:Fumaric acid-2TMS.)"
       type "text"
     ]
 
@@ -42177,7 +42206,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Furoic acid-TMS)"
+      text "(text:2-Furoic acid-TMS.)"
       type "text"
     ]
 
@@ -42244,7 +42273,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactitol-6TMS)"
+      text "(text:Galactitol-6TMS.)"
       type "text"
     ]
 
@@ -42311,7 +42340,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactosamine-5TMS)"
+      text "(text:Galactosamine-5TMS.)"
       type "text"
     ]
 
@@ -42378,7 +42407,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactose-5TMS)"
+      text "(text:Galactose-5TMS.)"
       type "text"
     ]
 
@@ -42445,7 +42474,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactose-meto-5TMS)"
+      text "(text:Galactose-meto-5TMS.)"
       type "text"
     ]
 
@@ -42512,7 +42541,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galacturonic acid-5TMS)"
+      text "(text:Galacturonic acid-5TMS.)"
       type "text"
     ]
 
@@ -42579,7 +42608,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galacturonic acid-meto-5TMS)"
+      text "(text:Galacturonic acid-meto-5TMS.)"
       type "text"
     ]
 
@@ -42646,7 +42675,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucaric acid-6TMS)"
+      text "(text:Glucaric acid-6TMS.)"
       type "text"
     ]
 
@@ -42713,7 +42742,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Gluconic acid-6TMS)"
+      text "(text:Gluconic acid-6TMS.)"
       type "text"
     ]
 
@@ -42780,7 +42809,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucono-1,4-lactone-4TMS)"
+      text "(text:Glucono-1,4-lactone-4TMS.)"
       type "text"
     ]
 
@@ -42847,7 +42876,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucono-1,5-lactone-4TMS)"
+      text "(text:Glucono-1,5-lactone-4TMS.)"
       type "text"
     ]
 
@@ -42914,7 +42943,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucosamine-5TMS)"
+      text "(text:Glucosamine-5TMS.)"
       type "text"
     ]
 
@@ -42981,7 +43010,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucose 6-phosphate-meto-6TMS)"
+      text "(text:Glucose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -43048,7 +43077,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid lactone-3TMS)"
+      text "(text:Glucuronic acid lactone-3TMS.)"
       type "text"
     ]
 
@@ -43115,7 +43144,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid-5TMS)"
+      text "(text:Glucuronic acid-5TMS.)"
       type "text"
     ]
 
@@ -43182,7 +43211,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid-meto-5TMS)"
+      text "(text:Glucuronic acid-meto-5TMS.)"
       type "text"
     ]
 
@@ -43249,7 +43278,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaconic acid-2TMS)"
+      text "(text:Glutaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -43316,7 +43345,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaconic acid-3TMS)"
+      text "(text:Glutaconic acid-3TMS.)"
       type "text"
     ]
 
@@ -43383,7 +43412,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid 5-methylester-2TMS)"
+      text "(text:Glutamic acid 5-methylester-2TMS.)"
       type "text"
     ]
 
@@ -43450,7 +43479,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid-13C5-3TMS)"
+      text "(text:Glutamic acid-13C5-3TMS.)"
       type "text"
     ]
 
@@ -43517,7 +43546,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid-3TMS)"
+      text "(text:Glutamic acid-3TMS.)"
       type "text"
     ]
 
@@ -43584,7 +43613,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaric acid-2TMS)"
+      text "(text:Glutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -43651,7 +43680,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceraldehyde 3-phosphate-meto-3TMS)"
+      text "(text:Glyceraldehyde 3-phosphate-meto-3TMS.)"
       type "text"
     ]
 
@@ -43718,7 +43747,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceraldehyde-meto-2TMS)"
+      text "(text:Glyceraldehyde-meto-2TMS.)"
       type "text"
     ]
 
@@ -43785,7 +43814,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceric acid-3TMS)"
+      text "(text:Glyceric acid-3TMS.)"
       type "text"
     ]
 
@@ -43852,7 +43881,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol 2-phosphate-4TMS)"
+      text "(text:Glycerol 2-phosphate-4TMS.)"
       type "text"
     ]
 
@@ -43919,7 +43948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol 3-phosphate-4TMS)"
+      text "(text:Glycerol 3-phosphate-4TMS.)"
       type "text"
     ]
 
@@ -43986,7 +44015,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol-3TMS)"
+      text "(text:Glycerol-3TMS.)"
       type "text"
     ]
 
@@ -44053,7 +44082,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycolic acid-2TMS)"
+      text "(text:Glycolic acid-2TMS.)"
       type "text"
     ]
 
@@ -44120,7 +44149,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycyl-Glycine-3TMS)"
+      text "(text:Glycyl-Glycine-3TMS.)"
       type "text"
     ]
 
@@ -44187,7 +44216,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycyl-Glycine-4TMS)"
+      text "(text:Glycyl-Glycine-4TMS.)"
       type "text"
     ]
 
@@ -44254,7 +44283,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyoxylic acid-meto-TMS)"
+      text "(text:Glyoxylic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -44321,7 +44350,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyoxylic acid-oxime-2TMS)"
+      text "(text:Glyoxylic acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -44388,7 +44417,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Guanine-3TMS)"
+      text "(text:Guanine-3TMS.)"
       type "text"
     ]
 
@@ -44455,7 +44484,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Guanosine-5TMS)"
+      text "(text:Guanosine-5TMS.)"
       type "text"
     ]
 
@@ -44522,7 +44551,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1-Hexadecanol-TMS)"
+      text "(text:1-Hexadecanol-TMS.)"
       type "text"
     ]
 
@@ -44589,7 +44618,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hexanoylglycine-2TMS)"
+      text "(text:Hexanoylglycine-2TMS.)"
       type "text"
     ]
 
@@ -44656,7 +44685,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hexanoylglycine-TMS)"
+      text "(text:Hexanoylglycine-TMS.)"
       type "text"
     ]
 
@@ -44723,7 +44752,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hexenedioic acid-2TMS)"
+      text "(text:2-Hexenedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -44790,7 +44819,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hippuric acid-2TMS)"
+      text "(text:Hippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -44857,7 +44886,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hippuric acid-TMS)"
+      text "(text:Hippuric acid-TMS.)"
       type "text"
     ]
 
@@ -44924,7 +44953,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histamine-3TMS)"
+      text "(text:Histamine-3TMS.)"
       type "text"
     ]
 
@@ -44991,7 +45020,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histidine-3TMS)"
+      text "(text:Histidine-3TMS.)"
       type "text"
     ]
 
@@ -45058,7 +45087,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homocysteine-3TMS)"
+      text "(text:Homocysteine-3TMS.)"
       type "text"
     ]
 
@@ -45125,7 +45154,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homocystine-4TMS)"
+      text "(text:Homocystine-4TMS.)"
       type "text"
     ]
 
@@ -45192,7 +45221,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homogentisic acid-3TMS)"
+      text "(text:Homogentisic acid-3TMS.)"
       type "text"
     ]
 
@@ -45259,7 +45288,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homoserine-2TMS)"
+      text "(text:Homoserine-2TMS.)"
       type "text"
     ]
 
@@ -45326,7 +45355,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homoserine-3TMS)"
+      text "(text:Homoserine-3TMS.)"
       type "text"
     ]
 
@@ -45393,7 +45422,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homovanillic acid-2TMS)"
+      text "(text:Homovanillic acid-2TMS.)"
       type "text"
     ]
 
@@ -45460,7 +45489,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroquinone-2TMS)"
+      text "(text:Hydroquinone-2TMS.)"
       type "text"
     ]
 
@@ -45527,7 +45556,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:7-Hydroxoctanoic acid-2TMS)"
+      text "(text:7-Hydroxoctanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -45594,7 +45623,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxy-3-methylglutaric acid-3TMS)"
+      text "(text:3-Hydroxy-3-methylglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -45661,7 +45690,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxy-3-methylvaleric acid-2TMS)"
+      text "(text:2-Hydroxy-3-methylvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -45728,7 +45757,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxy-kynurenine-3TMS)"
+      text "(text:3-Hydroxy-kynurenine-3TMS.)"
       type "text"
     ]
 
@@ -45795,7 +45824,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Hydroxy-tryptophan-4TMS)"
+      text "(text:5-Hydroxy-tryptophan-4TMS.)"
       type "text"
     ]
 
@@ -45862,7 +45891,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyadipic acid-3TMS)"
+      text "(text:2-Hydroxyadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -45929,7 +45958,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyadipic acid-3TMS)"
+      text "(text:3-Hydroxyadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -45996,7 +46025,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybenzoic acid-13C6-2TMS)"
+      text "(text:4-Hydroxybenzoic acid-13C6-2TMS.)"
       type "text"
     ]
 
@@ -46063,7 +46092,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxybenzoic acid-2TMS)"
+      text "(text:3-Hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -46130,7 +46159,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybenzoic acid-2TMS)"
+      text "(text:4-Hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -46197,7 +46226,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxybutyric acid-2TMS)"
+      text "(text:2-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -46264,7 +46293,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxybutyric acid-2TMS)"
+      text "(text:3-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -46331,7 +46360,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybutyric acid-2TMS)"
+      text "(text:4-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -46398,7 +46427,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxybutyric acid-d3-2TMS)"
+      text "(text:2-Hydroxybutyric acid-d3-2TMS.)"
       type "text"
     ]
 
@@ -46465,7 +46494,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxydodecanedioic acid-3TMS)"
+      text "(text:3-Hydroxydodecanedioic acid-3TMS.)"
       type "text"
     ]
 
@@ -46532,7 +46561,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyglutaric acid-3TMS)"
+      text "(text:2-Hydroxyglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -46599,7 +46628,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyglutaric acid-3TMS)"
+      text "(text:3-Hydroxyglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -46666,7 +46695,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyhippuric acid-2TMS)"
+      text "(text:2-Hydroxyhippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -46733,7 +46762,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyhippuric acid-3TMS)"
+      text "(text:2-Hydroxyhippuric acid-3TMS.)"
       type "text"
     ]
 
@@ -46800,7 +46829,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisobutyric acid-2TMS)"
+      text "(text:2-Hydroxyisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -46867,7 +46896,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyisobutyric acid-2TMS)"
+      text "(text:3-Hydroxyisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -46934,7 +46963,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisocaproic acid-2TMS)"
+      text "(text:2-Hydroxyisocaproic acid-2TMS.)"
       type "text"
     ]
 
@@ -47001,7 +47030,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisovaleric acid-2TMS)"
+      text "(text:2-Hydroxyisovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -47068,7 +47097,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyisovaleric acid-2TMS)"
+      text "(text:3-Hydroxyisovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -47135,7 +47164,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroxylamine-3TMS)"
+      text "(text:Hydroxylamine-3TMS.)"
       type "text"
     ]
 
@@ -47202,7 +47231,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroxylysine [2 isomers]-4TMS)"
+      text "(text:Hydroxylysine [2 isomers]-4TMS.)"
       type "text"
     ]
 
@@ -47269,7 +47298,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Hydroxymethyl-2-furoic acid-2TMS)"
+      text "(text:5-Hydroxymethyl-2-furoic acid-2TMS.)"
       type "text"
     ]
 
@@ -47336,7 +47365,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-[3-Hydroxyphenyl]-3-hydroxypropionic acid-3TMS)"
+      text "(text:3-[3-Hydroxyphenyl]-3-hydroxypropionic acid-3TMS.)"
       type "text"
     ]
 
@@ -47403,7 +47432,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:2-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -47470,7 +47499,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:3-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -47537,7 +47566,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:4-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -47604,7 +47633,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenyllactic acid-3TMS)"
+      text "(text:4-Hydroxyphenyllactic acid-3TMS.)"
       type "text"
     ]
 
@@ -47671,7 +47700,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenylpyruvic acid-meto-2TMS)"
+      text "(text:4-Hydroxyphenylpyruvic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -47738,7 +47767,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyproline-3TMS)"
+      text "(text:4-Hydroxyproline-3TMS.)"
       type "text"
     ]
 
@@ -47805,7 +47834,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxypropionic acid-2TMS)"
+      text "(text:3-Hydroxypropionic acid-2TMS.)"
       type "text"
     ]
 
@@ -47872,7 +47901,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxypyruvic acid-meto-2TMS)"
+      text "(text:3-Hydroxypyruvic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -47939,7 +47968,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxysebacic acid -3TMS)"
+      text "(text:2-Hydroxysebacic acid -3TMS.)"
       type "text"
     ]
 
@@ -48006,7 +48035,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxysebacic acid -3TMS)"
+      text "(text:3-Hydroxysebacic acid -3TMS.)"
       type "text"
     ]
 
@@ -48073,7 +48102,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyvaleric acid-2TMS)"
+      text "(text:3-Hydroxyvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -48140,7 +48169,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hypotaurine-3TMS)"
+      text "(text:Hypotaurine-3TMS.)"
       type "text"
     ]
 
@@ -48207,7 +48236,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hypoxanthine-2TMS)"
+      text "(text:Hypoxanthine-2TMS.)"
       type "text"
     ]
 
@@ -48274,7 +48303,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indol-3-acetic acid-2TMS)"
+      text "(text:Indol-3-acetic acid-2TMS.)"
       type "text"
     ]
 
@@ -48341,7 +48370,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indol-3-acetic acid-TMS)"
+      text "(text:Indol-3-acetic acid-TMS.)"
       type "text"
     ]
 
@@ -48408,7 +48437,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indolelactic acid-3TMS)"
+      text "(text:Indolelactic acid-3TMS.)"
       type "text"
     ]
 
@@ -48475,7 +48504,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inosine monophosphate-5TMS)"
+      text "(text:Inosine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -48542,7 +48571,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inosine-4TMS)"
+      text "(text:Inosine-4TMS.)"
       type "text"
     ]
 
@@ -48609,7 +48638,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inositol phosphate-7TMS)"
+      text "(text:Inositol phosphate-7TMS.)"
       type "text"
     ]
 
@@ -48676,7 +48705,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inositol-6TMS)"
+      text "(text:Inositol-6TMS.)"
       type "text"
     ]
 
@@ -48743,7 +48772,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isobutyrylglycine-2TMS)"
+      text "(text:Isobutyrylglycine-2TMS.)"
       type "text"
     ]
 
@@ -48810,7 +48839,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isobutyrylglycine-TMS)"
+      text "(text:Isobutyrylglycine-TMS.)"
       type "text"
     ]
 
@@ -48877,7 +48906,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isocitric acid-4TMS)"
+      text "(text:Isocitric acid-4TMS.)"
       type "text"
     ]
 
@@ -48944,7 +48973,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:allo-Isoleucine-2TMS)"
+      text "(text:allo-Isoleucine-2TMS.)"
       type "text"
     ]
 
@@ -49011,7 +49040,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isoleucine-d10-2TMS)"
+      text "(text:Isoleucine-d10-2TMS.)"
       type "text"
     ]
 
@@ -49078,7 +49107,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isomaltose-meto-8TMS)"
+      text "(text:Isomaltose-meto-8TMS.)"
       type "text"
     ]
 
@@ -49145,7 +49174,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Isopropylmalic acid-3TMS)"
+      text "(text:2-Isopropylmalic acid-3TMS.)"
       type "text"
     ]
 
@@ -49212,7 +49241,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isovalerylglycine-2TMS)"
+      text "(text:Isovalerylglycine-2TMS.)"
       type "text"
     ]
 
@@ -49279,7 +49308,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isovalerylglycine-TMS)"
+      text "(text:Isovalerylglycine-TMS.)"
       type "text"
     ]
 
@@ -49346,7 +49375,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Juniperic acid-2TMS)"
+      text "(text:Juniperic acid-2TMS.)"
       type "text"
     ]
 
@@ -49413,7 +49442,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoadipic acid-meto-2TMS)"
+      text "(text:2-Ketoadipic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -49480,7 +49509,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoadipic acid-oxime-3TMS)"
+      text "(text:2-Ketoadipic acid-oxime-3TMS.)"
       type "text"
     ]
 
@@ -49547,7 +49576,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketobutyric acid-meto-TMS)"
+      text "(text:2-Ketobutyric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -49614,7 +49643,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenic acid-2TMS)"
+      text "(text:Kynurenic acid-2TMS.)"
       type "text"
     ]
 
@@ -49681,7 +49710,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenine-d6-3TMS)"
+      text "(text:Kynurenine-d6-3TMS.)"
       type "text"
     ]
 
@@ -49748,7 +49777,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactic acid-13C3-2TMS)"
+      text "(text:Lactic acid-13C3-2TMS.)"
       type "text"
     ]
 
@@ -49815,7 +49844,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactic acid-2TMS)"
+      text "(text:Lactic acid-2TMS.)"
       type "text"
     ]
 
@@ -49882,7 +49911,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactitol-9TMS)"
+      text "(text:Lactitol-9TMS.)"
       type "text"
     ]
 
@@ -49949,7 +49978,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactose-meto-8TMS)"
+      text "(text:Lactose-meto-8TMS.)"
       type "text"
     ]
 
@@ -50016,7 +50045,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lauric acid-TMS)"
+      text "(text:Lauric acid-TMS.)"
       type "text"
     ]
 
@@ -50083,7 +50112,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lauric acid-d3-TMS)"
+      text "(text:Lauric acid-d3-TMS.)"
       type "text"
     ]
 
@@ -50150,7 +50179,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Leucine-2TMS)"
+      text "(text:Leucine-2TMS.)"
       type "text"
     ]
 
@@ -50217,7 +50246,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Linoleic acid-TMS)"
+      text "(text:Linoleic acid-TMS.)"
       type "text"
     ]
 
@@ -50284,7 +50313,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lipoic acid-TMS)"
+      text "(text:Lipoic acid-TMS.)"
       type "text"
     ]
 
@@ -50351,7 +50380,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lyxose-4TMS)"
+      text "(text:Lyxose-4TMS.)"
       type "text"
     ]
 
@@ -50418,7 +50447,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lyxose-meto-4TMS)"
+      text "(text:Lyxose-meto-4TMS.)"
       type "text"
     ]
 
@@ -50485,7 +50514,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maleic acid-2TMS)"
+      text "(text:Maleic acid-2TMS.)"
       type "text"
     ]
 
@@ -50552,7 +50581,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malic acid-13C4-3TMS)"
+      text "(text:Malic acid-13C4-3TMS.)"
       type "text"
     ]
 
@@ -50619,7 +50648,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malic acid-3TMS)"
+      text "(text:Malic acid-3TMS.)"
       type "text"
     ]
 
@@ -50686,7 +50715,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malonic acid-2TMS)"
+      text "(text:Malonic acid-2TMS.)"
       type "text"
     ]
 
@@ -50753,7 +50782,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maltitol-9TMS)"
+      text "(text:Maltitol-9TMS.)"
       type "text"
     ]
 
@@ -50820,7 +50849,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maltose-meto-8TMS)"
+      text "(text:Maltose-meto-8TMS.)"
       type "text"
     ]
 
@@ -50887,7 +50916,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mandelic acid-2TMS)"
+      text "(text:Mandelic acid-2TMS.)"
       type "text"
     ]
 
@@ -50954,7 +50983,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannitol-6TMS)"
+      text "(text:Mannitol-6TMS.)"
       type "text"
     ]
 
@@ -51021,7 +51050,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannose 6-phosphate-meto-6TMS)"
+      text "(text:Mannose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -51088,7 +51117,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Margaric acid-TMS)"
+      text "(text:Margaric acid-TMS.)"
       type "text"
     ]
 
@@ -51155,7 +51184,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mesaconic acid-2TMS)"
+      text "(text:Mesaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -51222,7 +51251,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methionine sulfone-2TMS)"
+      text "(text:Methionine sulfone-2TMS.)"
       type "text"
     ]
 
@@ -51289,7 +51318,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methionine-2TMS)"
+      text "(text:Methionine-2TMS.)"
       type "text"
     ]
 
@@ -51356,7 +51385,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methoprene acid-TMS)"
+      text "(text:Methoprene acid-TMS.)"
       type "text"
     ]
 
@@ -51423,7 +51452,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methoxy-4-hydroxybenzoic acid-2TMS)"
+      text "(text:3-Methoxy-4-hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -51490,7 +51519,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl arachidonate)"
+      text "(text:Methyl arachidonate.)"
       type "text"
     ]
 
@@ -51557,7 +51586,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl arachisate)"
+      text "(text:Methyl arachisate.)"
       type "text"
     ]
 
@@ -51624,7 +51653,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl behenate)"
+      text "(text:Methyl behenate.)"
       type "text"
     ]
 
@@ -51691,7 +51720,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl butanoate)"
+      text "(text:Methyl butanoate.)"
       type "text"
     ]
 
@@ -51758,7 +51787,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caprate)"
+      text "(text:Methyl caprate.)"
       type "text"
     ]
 
@@ -51825,7 +51854,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caproate)"
+      text "(text:Methyl caproate.)"
       type "text"
     ]
 
@@ -51892,7 +51921,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caprylate)"
+      text "(text:Methyl caprylate.)"
       type "text"
     ]
 
@@ -51959,7 +51988,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cerotate)"
+      text "(text:Methyl cerotate.)"
       type "text"
     ]
 
@@ -52026,7 +52055,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-10-heptadecenoate)"
+      text "(text:Methyl cis-10-heptadecenoate.)"
       type "text"
     ]
 
@@ -52093,7 +52122,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-10-pentadecenoate)"
+      text "(text:Methyl cis-10-pentadecenoate.)"
       type "text"
     ]
 
@@ -52160,7 +52189,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11,14,17-Icosatrienoate)"
+      text "(text:Methyl cis-11,14,17-Icosatrienoate.)"
       type "text"
     ]
 
@@ -52227,7 +52256,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11,14-Icosadienoate )"
+      text "(text:Methyl cis-11,14-Icosadienoate .)"
       type "text"
     ]
 
@@ -52294,7 +52323,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11-icosenoate )"
+      text "(text:Methyl cis-11-icosenoate .)"
       type "text"
     ]
 
@@ -52361,7 +52390,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-12-Octadecenoate)"
+      text "(text:Methyl cis-12-Octadecenoate.)"
       type "text"
     ]
 
@@ -52428,7 +52457,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-13,16-Docosadienate)"
+      text "(text:Methyl cis-13,16-Docosadienate.)"
       type "text"
     ]
 
@@ -52495,7 +52524,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-4,7,10,13,16,19-Docosahexaenoate)"
+      text "(text:Methyl cis-4,7,10,13,16,19-Docosahexaenoate.)"
       type "text"
     ]
 
@@ -52562,7 +52591,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-5,8,11,14,17-Icosapentaenoate)"
+      text "(text:Methyl cis-5,8,11,14,17-Icosapentaenoate.)"
       type "text"
     ]
 
@@ -52629,7 +52658,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-7,10,13,16,19-docosapentaenoate)"
+      text "(text:Methyl cis-7,10,13,16,19-docosapentaenoate.)"
       type "text"
     ]
 
@@ -52696,7 +52725,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-7-octadecenoate )"
+      text "(text:Methyl cis-7-octadecenoate .)"
       type "text"
     ]
 
@@ -52763,7 +52792,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-vaccenate)"
+      text "(text:Methyl cis-vaccenate.)"
       type "text"
     ]
 
@@ -52830,7 +52859,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl eicosa-8,11,14-trienoate)"
+      text "(text:Methyl eicosa-8,11,14-trienoate.)"
       type "text"
     ]
 
@@ -52897,7 +52926,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl elaidate)"
+      text "(text:Methyl elaidate.)"
       type "text"
     ]
 
@@ -52964,7 +52993,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl erucate)"
+      text "(text:Methyl erucate.)"
       type "text"
     ]
 
@@ -53031,7 +53060,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl ganma-linolenate )"
+      text "(text:Methyl ganma-linolenate .)"
       type "text"
     ]
 
@@ -53098,7 +53127,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl heneicosanoate)"
+      text "(text:Methyl heneicosanoate.)"
       type "text"
     ]
 
@@ -53165,7 +53194,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl hentriacontanoate )"
+      text "(text:Methyl hentriacontanoate .)"
       type "text"
     ]
 
@@ -53232,7 +53261,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl heptacosanoate)"
+      text "(text:Methyl heptacosanoate.)"
       type "text"
     ]
 
@@ -53299,7 +53328,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl laurate)"
+      text "(text:Methyl laurate.)"
       type "text"
     ]
 
@@ -53366,7 +53395,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl lignocerate)"
+      text "(text:Methyl lignocerate.)"
       type "text"
     ]
 
@@ -53433,7 +53462,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linoleate)"
+      text "(text:Methyl linoleate.)"
       type "text"
     ]
 
@@ -53500,7 +53529,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linolelaidate)"
+      text "(text:Methyl linolelaidate.)"
       type "text"
     ]
 
@@ -53567,7 +53596,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linolenate)"
+      text "(text:Methyl linolenate.)"
       type "text"
     ]
 
@@ -53634,7 +53663,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl margarate)"
+      text "(text:Methyl margarate.)"
       type "text"
     ]
 
@@ -53701,7 +53730,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl melissate)"
+      text "(text:Methyl melissate.)"
       type "text"
     ]
 
@@ -53768,7 +53797,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl myristate)"
+      text "(text:Methyl myristate.)"
       type "text"
     ]
 
@@ -53835,7 +53864,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl myristoleate )"
+      text "(text:Methyl myristoleate .)"
       type "text"
     ]
 
@@ -53902,7 +53931,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nervonate)"
+      text "(text:Methyl nervonate.)"
       type "text"
     ]
 
@@ -53969,7 +53998,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nonacosanonate)"
+      text "(text:Methyl nonacosanonate.)"
       type "text"
     ]
 
@@ -54036,7 +54065,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nonadecanoate)"
+      text "(text:Methyl nonadecanoate.)"
       type "text"
     ]
 
@@ -54103,7 +54132,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl octacosanoate)"
+      text "(text:Methyl octacosanoate.)"
       type "text"
     ]
 
@@ -54170,7 +54199,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl oleate)"
+      text "(text:Methyl oleate.)"
       type "text"
     ]
 
@@ -54237,7 +54266,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl palmitate)"
+      text "(text:Methyl palmitate.)"
       type "text"
     ]
 
@@ -54304,7 +54333,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl palmitoleate)"
+      text "(text:Methyl palmitoleate.)"
       type "text"
     ]
 
@@ -54371,7 +54400,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl pentacosanoate)"
+      text "(text:Methyl pentacosanoate.)"
       type "text"
     ]
 
@@ -54438,7 +54467,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl pentadecanoate)"
+      text "(text:Methyl pentadecanoate.)"
       type "text"
     ]
 
@@ -54505,7 +54534,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl petroselate)"
+      text "(text:Methyl petroselate.)"
       type "text"
     ]
 
@@ -54572,7 +54601,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl stearate)"
+      text "(text:Methyl stearate.)"
       type "text"
     ]
 
@@ -54639,7 +54668,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl tricosanoate)"
+      text "(text:Methyl tricosanoate.)"
       type "text"
     ]
 
@@ -54706,7 +54735,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl tridecanoate)"
+      text "(text:Methyl tridecanoate.)"
       type "text"
     ]
 
@@ -54773,7 +54802,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl undecanoate)"
+      text "(text:Methyl undecanoate.)"
       type "text"
     ]
 
@@ -54840,7 +54869,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methyl-2-oxovaleric acid-meto-TMS)"
+      text "(text:3-Methyl-2-oxovaleric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -54907,7 +54936,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methyl-3-hydroxybutyric acid-2TMS)"
+      text "(text:2-Methyl-3-hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -54974,7 +55003,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methyl-3-hydroxyvaleric acid-2TMS)"
+      text "(text:2-Methyl-3-hydroxyvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -55041,7 +55070,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methyladipic acid-2TMS)"
+      text "(text:3-Methyladipic acid-2TMS.)"
       type "text"
     ]
 
@@ -55108,7 +55137,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylcitric acid-4TMS)"
+      text "(text:Methylcitric acid-4TMS.)"
       type "text"
     ]
 
@@ -55175,7 +55204,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylcrotonoylglycine-2TMS)"
+      text "(text:3-Methylcrotonoylglycine-2TMS.)"
       type "text"
     ]
 
@@ -55242,7 +55271,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylcrotonoylglycine-TMS)"
+      text "(text:3-Methylcrotonoylglycine-TMS.)"
       type "text"
     ]
 
@@ -55309,7 +55338,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid[E]-2TMS)"
+      text "(text:3-Methylglutaconic acid[E]-2TMS.)"
       type "text"
     ]
 
@@ -55376,7 +55405,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid[Z]-2TMS)"
+      text "(text:3-Methylglutaconic acid[Z]-2TMS.)"
       type "text"
     ]
 
@@ -55443,7 +55472,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid-2TMS)"
+      text "(text:3-Methylglutaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -55510,7 +55539,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaric acid-2TMS)"
+      text "(text:3-Methylglutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -55577,7 +55606,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:7-Methylguanine-2TMS)"
+      text "(text:7-Methylguanine-2TMS.)"
       type "text"
     ]
 
@@ -55644,7 +55673,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methylhippuric acid-2TMS)"
+      text "(text:2-Methylhippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -55711,7 +55740,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methylhippuric acid-TMS)"
+      text "(text:2-Methylhippuric acid-TMS.)"
       type "text"
     ]
 
@@ -55778,7 +55807,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylmalonic acid-2TMS)"
+      text "(text:Methylmalonic acid-2TMS.)"
       type "text"
     ]
 
@@ -55845,7 +55874,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylsuccinic acid-2TMS)"
+      text "(text:Methylsuccinic acid-2TMS.)"
       type "text"
     ]
 
@@ -55912,7 +55941,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5d-Methylthioadenosine-2TMS)"
+      text "(text:5d-Methylthioadenosine-2TMS.)"
       type "text"
     ]
 
@@ -55979,7 +56008,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5d-Methylthioadenosine-3TMS)"
+      text "(text:5d-Methylthioadenosine-3TMS.)"
       type "text"
     ]
 
@@ -56046,7 +56075,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Metoprolol-2TMS)"
+      text "(text:Metoprolol-2TMS.)"
       type "text"
     ]
 
@@ -56113,7 +56142,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Metoprolol-TMS)"
+      text "(text:Metoprolol-TMS.)"
       type "text"
     ]
 
@@ -56180,7 +56209,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mevalonic lactone-TMS)"
+      text "(text:Mevalonic lactone-TMS.)"
       type "text"
     ]
 
@@ -56247,7 +56276,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Monostearin-2TMS)"
+      text "(text:Monostearin-2TMS.)"
       type "text"
     ]
 
@@ -56314,7 +56343,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Myristic acid-TMS)"
+      text "(text:Myristic acid-TMS.)"
       type "text"
     ]
 
@@ -56381,7 +56410,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Naproxen-TMS)"
+      text "(text:Naproxen-TMS.)"
       type "text"
     ]
 
@@ -56448,7 +56477,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Niacinamide-TMS)"
+      text "(text:Niacinamide-TMS.)"
       type "text"
     ]
 
@@ -56515,7 +56544,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Nicotinic acid-TMS)"
+      text "(text:Nicotinic acid-TMS.)"
       type "text"
     ]
 
@@ -56582,7 +56611,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:p-Nitrophenol-TMS)"
+      text "(text:p-Nitrophenol-TMS.)"
       type "text"
     ]
 
@@ -56649,7 +56678,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Nonanoic acid-TMS)"
+      text "(text:Nonanoic acid-TMS.)"
       type "text"
     ]
 
@@ -56716,7 +56745,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norepinephrine-5TMS)"
+      text "(text:Norepinephrine-5TMS.)"
       type "text"
     ]
 
@@ -56783,7 +56812,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norvaline-2TMS)"
+      text "(text:Norvaline-2TMS.)"
       type "text"
     ]
 
@@ -56850,7 +56879,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norvaline-TMS)"
+      text "(text:Norvaline-TMS.)"
       type "text"
     ]
 
@@ -56917,7 +56946,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octadecanol-TMS)"
+      text "(text:Octadecanol-TMS.)"
       type "text"
     ]
 
@@ -56984,7 +57013,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octanoic acid-TMS)"
+      text "(text:Octanoic acid-TMS.)"
       type "text"
     ]
 
@@ -57051,7 +57080,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octenedioic acid-2TMS)"
+      text "(text:Octenedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -57118,7 +57147,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Octenoic acid-TMS)"
+      text "(text:2-Octenoic acid-TMS.)"
       type "text"
     ]
 
@@ -57185,7 +57214,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octopamine-4TMS)"
+      text "(text:Octopamine-4TMS.)"
       type "text"
     ]
 
@@ -57252,7 +57281,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oleamide-TMS)"
+      text "(text:Oleamide-TMS.)"
       type "text"
     ]
 
@@ -57319,7 +57348,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oleic acid-TMS)"
+      text "(text:Oleic acid-TMS.)"
       type "text"
     ]
 
@@ -57386,7 +57415,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-d7-4TMS)"
+      text "(text:Ornithine-d7-4TMS.)"
       type "text"
     ]
 
@@ -57453,7 +57482,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Orotic acid-3TMS)"
+      text "(text:Orotic acid-3TMS.)"
       type "text"
     ]
 
@@ -57520,7 +57549,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalic acid-13C2-2TMS)"
+      text "(text:Oxalic acid-13C2-2TMS.)"
       type "text"
     ]
 
@@ -57587,7 +57616,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalic acid-2TMS)"
+      text "(text:Oxalic acid-2TMS.)"
       type "text"
     ]
 
@@ -57654,7 +57683,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Oxoproline-2TMS)"
+      text "(text:5-Oxoproline-2TMS.)"
       type "text"
     ]
 
@@ -57721,7 +57750,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Palmitic acid-TMS)"
+      text "(text:Palmitic acid-TMS.)"
       type "text"
     ]
 
@@ -57788,7 +57817,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Palmitoleic acid-TMS)"
+      text "(text:Palmitoleic acid-TMS.)"
       type "text"
     ]
 
@@ -57855,7 +57884,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pantothenic acid-3TMS)"
+      text "(text:Pantothenic acid-3TMS.)"
       type "text"
     ]
 
@@ -57922,7 +57951,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:ParaXanthine-TMS)"
+      text "(text:ParaXanthine-TMS.)"
       type "text"
     ]
 
@@ -57989,7 +58018,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenol-TMS)"
+      text "(text:Phenol-TMS.)"
       type "text"
     ]
 
@@ -58056,7 +58085,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylacetic acid-TMS)"
+      text "(text:Phenylacetic acid-TMS.)"
       type "text"
     ]
 
@@ -58123,7 +58152,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylalanine-2TMS)"
+      text "(text:Phenylalanine-2TMS.)"
       type "text"
     ]
 
@@ -58190,7 +58219,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Phenyllactic acid-2TMS)"
+      text "(text:2-Phenyllactic acid-2TMS.)"
       type "text"
     ]
 
@@ -58257,7 +58286,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Phenyllactic acid-2TMS)"
+      text "(text:3-Phenyllactic acid-2TMS.)"
       type "text"
     ]
 
@@ -58324,7 +58353,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylpyruvic acid-meto-TMS)"
+      text "(text:Phenylpyruvic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -58391,7 +58420,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phospho-Serine-4TMS)"
+      text "(text:O-Phospho-Serine-4TMS.)"
       type "text"
     ]
 
@@ -58458,7 +58487,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phosphoenolpyruvic acid-3TMS)"
+      text "(text:Phosphoenolpyruvic acid-3TMS.)"
       type "text"
     ]
 
@@ -58525,7 +58554,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phosphoethanolamine-3TMS)"
+      text "(text:O-Phosphoethanolamine-3TMS.)"
       type "text"
     ]
 
@@ -58592,7 +58621,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phosphoethanolamine-4TMS)"
+      text "(text:O-Phosphoethanolamine-4TMS.)"
       type "text"
     ]
 
@@ -58659,7 +58688,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:6-Phosphogluconic acid-7TMS)"
+      text "(text:6-Phosphogluconic acid-7TMS.)"
       type "text"
     ]
 
@@ -58726,7 +58755,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Phosphoglyceric acid -4TMS)"
+      text "(text:2-Phosphoglyceric acid -4TMS.)"
       type "text"
     ]
 
@@ -58793,7 +58822,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Phosphoglyceric acid-4TMS)"
+      text "(text:3-Phosphoglyceric acid-4TMS.)"
       type "text"
     ]
 
@@ -58860,7 +58889,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phosphoric acid-3TMS)"
+      text "(text:Phosphoric acid-3TMS.)"
       type "text"
     ]
 
@@ -58927,7 +58956,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pimelic acid-2TMS)"
+      text "(text:Pimelic acid-2TMS.)"
       type "text"
     ]
 
@@ -58994,7 +59023,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Porphobilinogen-4TMS)"
+      text "(text:Porphobilinogen-4TMS.)"
       type "text"
     ]
 
@@ -59061,7 +59090,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Proline-2TMS)"
+      text "(text:Proline-2TMS.)"
       type "text"
     ]
 
@@ -59128,7 +59157,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Propionylglycine-2TMS)"
+      text "(text:Propionylglycine-2TMS.)"
       type "text"
     ]
 
@@ -59195,7 +59224,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Propionylglycine-TMS)"
+      text "(text:Propionylglycine-TMS.)"
       type "text"
     ]
 
@@ -59262,7 +59291,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-3-hydroxy-pentanoic acid-2TMS)"
+      text "(text:2-Propyl-3-hydroxy-pentanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -59329,7 +59358,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-5-hydroxy-pentanoic acid-2TMS)"
+      text "(text:2-Propyl-5-hydroxy-pentanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -59396,7 +59425,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-glutaric acid-2TMS)"
+      text "(text:2-Propyl-glutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -59463,7 +59492,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propylhydroxyglutaric acid-oxime-2TMS)"
+      text "(text:2-Propylhydroxyglutaric acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -59530,7 +59559,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Protocatechuic acid-3TMS)"
+      text "(text:Protocatechuic acid-3TMS.)"
       type "text"
     ]
 
@@ -59597,7 +59626,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Psicose-5TMS)"
+      text "(text:Psicose-5TMS.)"
       type "text"
     ]
 
@@ -59664,7 +59693,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Psicose-meto-5TMS)"
+      text "(text:Psicose-meto-5TMS.)"
       type "text"
     ]
 
@@ -59731,7 +59760,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Putrescine-4TMS)"
+      text "(text:Putrescine-4TMS.)"
       type "text"
     ]
 
@@ -59798,7 +59827,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxal-meto-2TMS)"
+      text "(text:Pyridoxal-meto-2TMS.)"
       type "text"
     ]
 
@@ -59865,7 +59894,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxine-3TMS)"
+      text "(text:Pyridoxine-3TMS.)"
       type "text"
     ]
 
@@ -59932,7 +59961,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyrogallol-3TMS)"
+      text "(text:Pyrogallol-3TMS.)"
       type "text"
     ]
 
@@ -59999,7 +60028,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Quinolinic acid-2TMS)"
+      text "(text:Quinolinic acid-2TMS.)"
       type "text"
     ]
 
@@ -60066,7 +60095,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Rhamnose-4TMS)"
+      text "(text:Rhamnose-4TMS.)"
       type "text"
     ]
 
@@ -60133,7 +60162,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Rhamnose-meto-4TMS)"
+      text "(text:Rhamnose-meto-4TMS.)"
       type "text"
     ]
 
@@ -60200,7 +60229,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribitol-5TMS)"
+      text "(text:Ribitol-5TMS.)"
       type "text"
     ]
 
@@ -60267,7 +60296,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribonic acid-5TMS)"
+      text "(text:Ribonic acid-5TMS.)"
       type "text"
     ]
 
@@ -60334,7 +60363,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribonolactone-3TMS)"
+      text "(text:Ribonolactone-3TMS.)"
       type "text"
     ]
 
@@ -60401,7 +60430,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose 5-phosphate-meto-5TMS)"
+      text "(text:Ribose 5-phosphate-meto-5TMS.)"
       type "text"
     ]
 
@@ -60468,7 +60497,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-13C5-meto-4TMS)"
+      text "(text:Ribose-13C5-meto-4TMS.)"
       type "text"
     ]
 
@@ -60535,7 +60564,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-4TMS)"
+      text "(text:Ribose-4TMS.)"
       type "text"
     ]
 
@@ -60602,7 +60631,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-meto-4TMS)"
+      text "(text:Ribose-meto-4TMS.)"
       type "text"
     ]
 
@@ -60669,7 +60698,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose 5-phosphate-meto-5TMS)"
+      text "(text:Ribulose 5-phosphate-meto-5TMS.)"
       type "text"
     ]
 
@@ -60736,7 +60765,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose-4TMS)"
+      text "(text:Ribulose-4TMS.)"
       type "text"
     ]
 
@@ -60803,7 +60832,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose-meto-4TMS)"
+      text "(text:Ribulose-meto-4TMS.)"
       type "text"
     ]
 
@@ -60870,7 +60899,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sarcosine-2TMS)"
+      text "(text:Sarcosine-2TMS.)"
       type "text"
     ]
 
@@ -60937,7 +60966,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sarcosine-d3-2TMS)"
+      text "(text:Sarcosine-d3-2TMS.)"
       type "text"
     ]
 
@@ -61004,7 +61033,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sebacic acid-2TMS)"
+      text "(text:Sebacic acid-2TMS.)"
       type "text"
     ]
 
@@ -61071,7 +61100,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sedoheptulose 7-phosphate-meto-7TMS)"
+      text "(text:Sedoheptulose 7-phosphate-meto-7TMS.)"
       type "text"
     ]
 
@@ -61138,7 +61167,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Shikimic acid-4TMS)"
+      text "(text:Shikimic acid-4TMS.)"
       type "text"
     ]
 
@@ -61205,7 +61234,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbitol-6TMS)"
+      text "(text:Sorbitol-6TMS.)"
       type "text"
     ]
 
@@ -61272,7 +61301,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbose-5TMS)"
+      text "(text:Sorbose-5TMS.)"
       type "text"
     ]
 
@@ -61339,7 +61368,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbose-meto-5TMS)"
+      text "(text:Sorbose-meto-5TMS.)"
       type "text"
     ]
 
@@ -61406,7 +61435,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Spermidine-5TMS)"
+      text "(text:Spermidine-5TMS.)"
       type "text"
     ]
 
@@ -61473,7 +61502,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Spermine-6TMS)"
+      text "(text:Spermine-6TMS.)"
       type "text"
     ]
 
@@ -61540,7 +61569,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Stearic acid-TMS)"
+      text "(text:Stearic acid-TMS.)"
       type "text"
     ]
 
@@ -61607,7 +61636,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberic acid-2TMS)"
+      text "(text:Suberic acid-2TMS.)"
       type "text"
     ]
 
@@ -61674,7 +61703,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberylglycine-2TMS)"
+      text "(text:Suberylglycine-2TMS.)"
       type "text"
     ]
 
@@ -61741,7 +61770,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberylglycine-3TMS)"
+      text "(text:Suberylglycine-3TMS.)"
       type "text"
     ]
 
@@ -61808,7 +61837,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinic acid-2TMS)"
+      text "(text:Succinic acid-2TMS.)"
       type "text"
     ]
 
@@ -61875,7 +61904,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinylacetone-meto-TMS)"
+      text "(text:Succinylacetone-meto-TMS.)"
       type "text"
     ]
 
@@ -61942,7 +61971,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinylacetone-ox-origin fragment)"
+      text "(text:Succinylacetone-ox-origin fragment.)"
       type "text"
     ]
 
@@ -62009,7 +62038,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sucrose-8TMS)"
+      text "(text:Sucrose-8TMS.)"
       type "text"
     ]
 
@@ -62076,7 +62105,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Sulfinoalanine-3TMS)"
+      text "(text:3-Sulfinoalanine-3TMS.)"
       type "text"
     ]
 
@@ -62143,7 +62172,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tagatose-5TMS)"
+      text "(text:Tagatose-5TMS.)"
       type "text"
     ]
 
@@ -62210,7 +62239,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tagatose-meto-5TMS)"
+      text "(text:Tagatose-meto-5TMS.)"
       type "text"
     ]
 
@@ -62277,7 +62306,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tartaric acid-4TMS)"
+      text "(text:Tartaric acid-4TMS.)"
       type "text"
     ]
 
@@ -62344,7 +62373,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Taurine-13C2-3TMS)"
+      text "(text:Taurine-13C2-3TMS.)"
       type "text"
     ]
 
@@ -62411,7 +62440,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Taurine-3TMS)"
+      text "(text:Taurine-3TMS.)"
       type "text"
     ]
 
@@ -62478,7 +62507,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Theophylline-TMS)"
+      text "(text:Theophylline-TMS.)"
       type "text"
     ]
 
@@ -62545,7 +62574,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thiodiglycolic acid-2TMS)"
+      text "(text:Thiodiglycolic acid-2TMS.)"
       type "text"
     ]
 
@@ -62612,7 +62641,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threitol-4TMS)"
+      text "(text:Threitol-4TMS.)"
       type "text"
     ]
 
@@ -62679,7 +62708,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threo-b-hydroxyaspartic acid-4TMS)"
+      text "(text:Threo-b-hydroxyaspartic acid-4TMS.)"
       type "text"
     ]
 
@@ -62746,7 +62775,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threonic acid-4TMS)"
+      text "(text:Threonic acid-4TMS.)"
       type "text"
     ]
 
@@ -62813,7 +62842,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threonine-3TMS)"
+      text "(text:Threonine-3TMS.)"
       type "text"
     ]
 
@@ -62880,7 +62909,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymidine monophosphate-3TMS)"
+      text "(text:Thymidine monophosphate-3TMS.)"
       type "text"
     ]
 
@@ -62947,7 +62976,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymine-2TMS)"
+      text "(text:Thymine-2TMS.)"
       type "text"
     ]
 
@@ -63014,7 +63043,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tiglylglycine-2TMS)"
+      text "(text:Tiglylglycine-2TMS.)"
       type "text"
     ]
 
@@ -63081,7 +63110,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tiglylglycine-TMS)"
+      text "(text:Tiglylglycine-TMS.)"
       type "text"
     ]
 
@@ -63148,7 +63177,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trehalose 6-phosphate-9TMS)"
+      text "(text:Trehalose 6-phosphate-9TMS.)"
       type "text"
     ]
 
@@ -63215,7 +63244,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trehalose-8TMS)"
+      text "(text:Trehalose-8TMS.)"
       type "text"
     ]
 
@@ -63282,7 +63311,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tricarballylic acid-3TMS)"
+      text "(text:Tricarballylic acid-3TMS.)"
       type "text"
     ]
 
@@ -63349,7 +63378,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trichloroacetic acid-TMS)"
+      text "(text:Trichloroacetic acid-TMS.)"
       type "text"
     ]
 
@@ -63416,7 +63445,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Triethanolamine-3TMS)"
+      text "(text:Triethanolamine-3TMS.)"
       type "text"
     ]
 
@@ -63483,7 +63512,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tropic acid-2TMS)"
+      text "(text:Tropic acid-2TMS.)"
       type "text"
     ]
 
@@ -63550,7 +63579,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptophan-13C11-3TMS)"
+      text "(text:Tryptophan-13C11-3TMS.)"
       type "text"
     ]
 
@@ -63617,7 +63646,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptophan-3TMS)"
+      text "(text:Tryptophan-3TMS.)"
       type "text"
     ]
 
@@ -63684,7 +63713,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyramine-3TMS)"
+      text "(text:Tyramine-3TMS.)"
       type "text"
     ]
 
@@ -63751,7 +63780,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyrosine-13C6-3TMS)"
+      text "(text:Tyrosine-13C6-3TMS.)"
       type "text"
     ]
 
@@ -63818,7 +63847,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyrosine-3TMS)"
+      text "(text:Tyrosine-3TMS.)"
       type "text"
     ]
 
@@ -63885,7 +63914,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uracil-2TMS)"
+      text "(text:Uracil-2TMS.)"
       type "text"
     ]
 
@@ -63952,7 +63981,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Urea-2TMS)"
+      text "(text:Urea-2TMS.)"
       type "text"
     ]
 
@@ -64019,7 +64048,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidopropionic acid-2TMS)"
+      text "(text:Ureidopropionic acid-2TMS.)"
       type "text"
     ]
 
@@ -64086,7 +64115,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidopropionic acid-3TMS)"
+      text "(text:Ureidopropionic acid-3TMS.)"
       type "text"
     ]
 
@@ -64153,7 +64182,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidosuccinic acid-3TMS)"
+      text "(text:Ureidosuccinic acid-3TMS.)"
       type "text"
     ]
 
@@ -64220,7 +64249,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uric acid-4TMS)"
+      text "(text:Uric acid-4TMS.)"
       type "text"
     ]
 
@@ -64287,7 +64316,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uridine monophosphate-5TMS)"
+      text "(text:Uridine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -64354,7 +64383,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valine-2TMS)"
+      text "(text:Valine-2TMS.)"
       type "text"
     ]
 
@@ -64421,7 +64450,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valine-d8-2TMS)"
+      text "(text:Valine-d8-2TMS.)"
       type "text"
     ]
 
@@ -64488,7 +64517,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valproic acid-TMS)"
+      text "(text:Valproic acid-TMS.)"
       type "text"
     ]
 
@@ -64555,7 +64584,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Vanillylamine-3TMS)"
+      text "(text:Vanillylamine-3TMS.)"
       type "text"
     ]
 
@@ -64622,7 +64651,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Vanilmandelic acid-3TMS)"
+      text "(text:Vanilmandelic acid-3TMS.)"
       type "text"
     ]
 
@@ -64689,7 +64718,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthine-3TMS)"
+      text "(text:Xanthine-3TMS.)"
       type "text"
     ]
 
@@ -64756,7 +64785,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthosine monophosphate-6TMS)"
+      text "(text:Xanthosine monophosphate-6TMS.)"
       type "text"
     ]
 
@@ -64823,7 +64852,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthosine-5TMS)"
+      text "(text:Xanthosine-5TMS.)"
       type "text"
     ]
 
@@ -64890,7 +64919,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylitol-5TMS)"
+      text "(text:Xylitol-5TMS.)"
       type "text"
     ]
 
@@ -64957,7 +64986,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylose-4TMS)"
+      text "(text:Xylose-4TMS.)"
       type "text"
     ]
 
@@ -65024,7 +65053,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylose-meto-4TMS)"
+      text "(text:Xylose-meto-4TMS.)"
       type "text"
     ]
 
@@ -65091,7 +65120,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylulose-meto-4TMS)"
+      text "(text:Xylulose-meto-4TMS.)"
       type "text"
     ]
 

@@ -98,7 +98,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetoacetic acid-2TMS)"
+      text "(text:Acetoacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -165,7 +165,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetoacetic acid-meto-TMS)"
+      text "(text:Acetoacetic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -232,7 +232,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetoacetic acid-oxime-2TMS)"
+      text "(text:Acetoacetic acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -299,7 +299,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyl-Lysine-2TMS)"
+      text "(text:N-Acetyl-Lysine-2TMS.)"
       type "text"
     ]
 
@@ -366,7 +366,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyl-Ornithine-4TMS)"
+      text "(text:N-Acetyl-Ornithine-4TMS.)"
       type "text"
     ]
 
@@ -433,7 +433,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylaspartic acid-2TMS)"
+      text "(text:N-Acetylaspartic acid-2TMS.)"
       type "text"
     ]
 
@@ -500,7 +500,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylaspartic acid-3TMS)"
+      text "(text:N-Acetylaspartic acid-3TMS.)"
       type "text"
     ]
 
@@ -567,7 +567,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-2TMS)"
+      text "(text:N-Acetylglutamine-2TMS.)"
       type "text"
     ]
 
@@ -634,7 +634,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-3TMS)"
+      text "(text:N-Acetylglutamine-3TMS.)"
       type "text"
     ]
 
@@ -701,7 +701,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylglutamine-4TMS)"
+      text "(text:N-Acetylglutamine-4TMS.)"
       type "text"
     ]
 
@@ -768,7 +768,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylglycine-2TMS)"
+      text "(text:Acetylglycine-2TMS.)"
       type "text"
     ]
 
@@ -835,7 +835,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylglycine-TMS)"
+      text "(text:Acetylglycine-TMS.)"
       type "text"
     ]
 
@@ -902,7 +902,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N6-Acetyllysine-2TMS)"
+      text "(text:N6-Acetyllysine-2TMS.)"
       type "text"
     ]
 
@@ -969,7 +969,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N6-Acetyllysine-3TMS)"
+      text "(text:N6-Acetyllysine-3TMS.)"
       type "text"
     ]
 
@@ -1036,7 +1036,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylmannosamine-meto-4TMS)"
+      text "(text:N-Acetylmannosamine-meto-4TMS.)"
       type "text"
     ]
 
@@ -1103,7 +1103,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylneuraminic acid-6TMS)"
+      text "(text:N-Acetylneuraminic acid-6TMS.)"
       type "text"
     ]
 
@@ -1170,7 +1170,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylneuraminic acid-meto-7TMS)"
+      text "(text:N-Acetylneuraminic acid-meto-7TMS.)"
       type "text"
     ]
 
@@ -1237,7 +1237,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Acetylsalicylic acid-TMS)"
+      text "(text:Acetylsalicylic acid-TMS.)"
       type "text"
     ]
 
@@ -1304,7 +1304,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylserine-2TMS)"
+      text "(text:N-Acetylserine-2TMS.)"
       type "text"
     ]
 
@@ -1371,7 +1371,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Acetylserine-2TMS)"
+      text "(text:O-Acetylserine-2TMS.)"
       type "text"
     ]
 
@@ -1438,7 +1438,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetylserine-3TMS)"
+      text "(text:N-Acetylserine-3TMS.)"
       type "text"
     ]
 
@@ -1505,7 +1505,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyltyrosine-2TMS)"
+      text "(text:N-Acetyltyrosine-2TMS.)"
       type "text"
     ]
 
@@ -1572,7 +1572,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Acetyltyrosine-3TMS)"
+      text "(text:N-Acetyltyrosine-3TMS.)"
       type "text"
     ]
 
@@ -1639,7 +1639,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aconitic acid-3TMS)"
+      text "(text:Aconitic acid-3TMS.)"
       type "text"
     ]
 
@@ -1706,7 +1706,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenine-2TMS)"
+      text "(text:Adenine-2TMS.)"
       type "text"
     ]
 
@@ -1773,7 +1773,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine 3d,5d-cyclic monophosphate-3TMS)"
+      text "(text:Adenosine 3d,5d-cyclic monophosphate-3TMS.)"
       type "text"
     ]
 
@@ -1840,7 +1840,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine monophosphate-5TMS)"
+      text "(text:Adenosine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -1907,7 +1907,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adenosine-4TMS)"
+      text "(text:Adenosine-4TMS.)"
       type "text"
     ]
 
@@ -1974,7 +1974,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Adipic acid-2TMS)"
+      text "(text:Adipic acid-2TMS.)"
       type "text"
     ]
 
@@ -2041,7 +2041,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Alanine-2TMS)"
+      text "(text:Alanine-2TMS.)"
       type "text"
     ]
 
@@ -2108,7 +2108,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-3TMS)"
+      text "(text:Allantoin-3TMS.)"
       type "text"
     ]
 
@@ -2175,7 +2175,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-4TMS)"
+      text "(text:Allantoin-4TMS.)"
       type "text"
     ]
 
@@ -2242,7 +2242,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allantoin-5TMS)"
+      text "(text:Allantoin-5TMS.)"
       type "text"
     ]
 
@@ -2309,7 +2309,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allose-5TMS)"
+      text "(text:Allose-5TMS.)"
       type "text"
     ]
 
@@ -2376,7 +2376,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Allose-meto-5TMS)"
+      text "(text:Allose-meto-5TMS.)"
       type "text"
     ]
 
@@ -2443,7 +2443,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoadipic acid-3TMS)"
+      text "(text:2-Aminoadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -2510,7 +2510,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobenzoic acid-2TMS)"
+      text "(text:4-Aminobenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -2577,7 +2577,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobenzoic acid-TMS)"
+      text "(text:4-Aminobenzoic acid-TMS.)"
       type "text"
     ]
 
@@ -2644,7 +2644,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminobutyric acid-2TMS)"
+      text "(text:2-Aminobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -2711,7 +2711,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobutyric acid-2TMS)"
+      text "(text:4-Aminobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -2778,7 +2778,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Aminobutyric acid-3TMS)"
+      text "(text:4-Aminobutyric acid-3TMS.)"
       type "text"
     ]
 
@@ -2845,7 +2845,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoethanol-2TMS)"
+      text "(text:2-Aminoethanol-2TMS.)"
       type "text"
     ]
 
@@ -2912,7 +2912,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoethanol-3TMS)"
+      text "(text:2-Aminoethanol-3TMS.)"
       type "text"
     ]
 
@@ -2979,7 +2979,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoglutaric acid-2TMS)"
+      text "(text:3-Aminoglutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -3046,7 +3046,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoglutaric acid-3TMS)"
+      text "(text:3-Aminoglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -3113,7 +3113,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:p-Aminohippuric acid-2TMS)"
+      text "(text:p-Aminohippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -3180,7 +3180,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminoisobutyric acid-2TMS)"
+      text "(text:2-Aminoisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -3247,7 +3247,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoisobutyric acid-2TMS)"
+      text "(text:3-Aminoisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -3314,7 +3314,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminoisobutyric acid-3TMS)"
+      text "(text:3-Aminoisobutyric acid-3TMS.)"
       type "text"
     ]
 
@@ -3381,7 +3381,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminolevulinic acid-meto-3TMS)"
+      text "(text:5-Aminolevulinic acid-meto-3TMS.)"
       type "text"
     ]
 
@@ -3448,7 +3448,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminooctanoic acid-2TMS)"
+      text "(text:2-Aminooctanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -3515,7 +3515,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminooctanoic acid-TMS)"
+      text "(text:2-Aminooctanoic acid-TMS.)"
       type "text"
     ]
 
@@ -3582,7 +3582,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Aminopimelic acid-3TMS)"
+      text "(text:2-Aminopimelic acid-3TMS.)"
       type "text"
     ]
 
@@ -3649,7 +3649,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminopropanoic acid-2TMS)"
+      text "(text:3-Aminopropanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -3716,7 +3716,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Aminopropanoic acid-3TMS)"
+      text "(text:3-Aminopropanoic acid-3TMS.)"
       type "text"
     ]
 
@@ -3783,7 +3783,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminovaleric acid-2TMS)"
+      text "(text:5-Aminovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -3850,7 +3850,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Aminovaleric acid-3TMS)"
+      text "(text:5-Aminovaleric acid-3TMS.)"
       type "text"
     ]
 
@@ -3917,7 +3917,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1,5-Anhydro-glucitol-4TMS)"
+      text "(text:1,5-Anhydro-glucitol-4TMS.)"
       type "text"
     ]
 
@@ -3984,7 +3984,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1,6-Anhydroglucose-3TMS)"
+      text "(text:1,6-Anhydroglucose-3TMS.)"
       type "text"
     ]
 
@@ -4051,7 +4051,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Anthranilic acid-2TMS)"
+      text "(text:Anthranilic acid-2TMS.)"
       type "text"
     ]
 
@@ -4118,7 +4118,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Anthranilic acid-TMS)"
+      text "(text:Anthranilic acid-TMS.)"
       type "text"
     ]
 
@@ -4185,7 +4185,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabinose-4TMS)"
+      text "(text:Arabinose-4TMS.)"
       type "text"
     ]
 
@@ -4252,7 +4252,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabinose-meto-4TMS)"
+      text "(text:Arabinose-meto-4TMS.)"
       type "text"
     ]
 
@@ -4319,7 +4319,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arabitol-5TMS)"
+      text "(text:Arabitol-5TMS.)"
       type "text"
     ]
 
@@ -4386,7 +4386,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arachidonic acid-TMS)"
+      text "(text:Arachidonic acid-TMS.)"
       type "text"
     ]
 
@@ -4453,7 +4453,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Arginine-3TMS)"
+      text "(text:Arginine-3TMS.)"
       type "text"
     ]
 
@@ -4520,7 +4520,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ascorbic acid-4TMS)"
+      text "(text:Ascorbic acid-4TMS.)"
       type "text"
     ]
 
@@ -4587,7 +4587,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Asparagine-3TMS)"
+      text "(text:Asparagine-3TMS.)"
       type "text"
     ]
 
@@ -4654,7 +4654,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Asparagine-4TMS)"
+      text "(text:Asparagine-4TMS.)"
       type "text"
     ]
 
@@ -4721,7 +4721,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aspartic acid-3TMS)"
+      text "(text:Aspartic acid-3TMS.)"
       type "text"
     ]
 
@@ -4788,7 +4788,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Aspartic acid-d3-3TMS)"
+      text "(text:Aspartic acid-d3-3TMS.)"
       type "text"
     ]
 
@@ -4855,7 +4855,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Azelaic acid-2TMS)"
+      text "(text:Azelaic acid-2TMS.)"
       type "text"
     ]
 
@@ -4922,7 +4922,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Batyl alcohol-2TMS)"
+      text "(text:Batyl alcohol-2TMS.)"
       type "text"
     ]
 
@@ -4989,7 +4989,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Benzoic acid-TMS)"
+      text "(text:Benzoic acid-TMS.)"
       type "text"
     ]
 
@@ -5056,7 +5056,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:S-Benzyl-Cysteine-4TMS)"
+      text "(text:S-Benzyl-Cysteine-4TMS.)"
       type "text"
     ]
 
@@ -5123,7 +5123,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Biotin-3TMS)"
+      text "(text:Biotin-3TMS.)"
       type "text"
     ]
 
@@ -5190,7 +5190,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2,3-Bisphosphoglyceric acid-5TMS)"
+      text "(text:2,3-Bisphosphoglyceric acid-5TMS.)"
       type "text"
     ]
 
@@ -5257,7 +5257,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Boric acid-3TMS)"
+      text "(text:Boric acid-3TMS.)"
       type "text"
     ]
 
@@ -5324,7 +5324,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Butyrylglycine-2TMS)"
+      text "(text:N-Butyrylglycine-2TMS.)"
       type "text"
     ]
 
@@ -5391,7 +5391,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:N-Butyrylglycine-TMS)"
+      text "(text:N-Butyrylglycine-TMS.)"
       type "text"
     ]
 
@@ -5458,7 +5458,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cadaverine-3TMS)"
+      text "(text:Cadaverine-3TMS.)"
       type "text"
     ]
 
@@ -5525,7 +5525,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cadaverine-4TMS)"
+      text "(text:Cadaverine-4TMS.)"
       type "text"
     ]
 
@@ -5592,7 +5592,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Caffeine)"
+      text "(text:Caffeine.)"
       type "text"
     ]
 
@@ -5659,7 +5659,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Caproic acid-TMS)"
+      text "(text:Caproic acid-TMS.)"
       type "text"
     ]
 
@@ -5726,7 +5726,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Carnosine-4TMS)"
+      text "(text:Carnosine-4TMS.)"
       type "text"
     ]
 
@@ -5793,7 +5793,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Carnosine-5TMS)"
+      text "(text:Carnosine-5TMS.)"
       type "text"
     ]
 
@@ -5860,7 +5860,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Catechol-2TMS)"
+      text "(text:Catechol-2TMS.)"
       type "text"
     ]
 
@@ -5927,7 +5927,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Chloramphenicol-2TMS)"
+      text "(text:Chloramphenicol-2TMS.)"
       type "text"
     ]
 
@@ -5994,7 +5994,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cholecalciferol-TMS)"
+      text "(text:Cholecalciferol-TMS.)"
       type "text"
     ]
 
@@ -6061,7 +6061,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cholesterol-TMS)"
+      text "(text:Cholesterol-TMS.)"
       type "text"
     ]
 
@@ -6128,7 +6128,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cinnamic acid-TMS)"
+      text "(text:Cinnamic acid-TMS.)"
       type "text"
     ]
 
@@ -6195,7 +6195,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citraconic acid-2TMS)"
+      text "(text:Citraconic acid-2TMS.)"
       type "text"
     ]
 
@@ -6262,7 +6262,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citramalic acid-3TMS)"
+      text "(text:Citramalic acid-3TMS.)"
       type "text"
     ]
 
@@ -6329,7 +6329,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citric acid-4TMS)"
+      text "(text:Citric acid-4TMS.)"
       type "text"
     ]
 
@@ -6396,7 +6396,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citric acid-d4-4TMS)"
+      text "(text:Citric acid-d4-4TMS.)"
       type "text"
     ]
 
@@ -6463,7 +6463,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Citrulline-3TMS)"
+      text "(text:Citrulline-3TMS.)"
       type "text"
     ]
 
@@ -6530,7 +6530,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl alcohol-2TMS)"
+      text "(text:Coniferyl alcohol-2TMS.)"
       type "text"
     ]
 
@@ -6597,7 +6597,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl aldehyde-TMS)"
+      text "(text:Coniferyl aldehyde-TMS.)"
       type "text"
     ]
 
@@ -6664,7 +6664,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Coniferyl aldehyde-meto-TMS)"
+      text "(text:Coniferyl aldehyde-meto-TMS.)"
       type "text"
     ]
 
@@ -6731,7 +6731,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Creatinine-3TMS)"
+      text "(text:Creatinine-3TMS.)"
       type "text"
     ]
 
@@ -6798,7 +6798,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Cresol-TMS)"
+      text "(text:4-Cresol-TMS.)"
       type "text"
     ]
 
@@ -6865,7 +6865,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cyclohexanediol-2TMS)"
+      text "(text:Cyclohexanediol-2TMS.)"
       type "text"
     ]
 
@@ -6932,7 +6932,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystamine-d8-nTMS)"
+      text "(text:Cystamine-d8-nTMS.)"
       type "text"
     ]
 
@@ -6999,7 +6999,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystamine-nTMS)"
+      text "(text:Cystamine-nTMS.)"
       type "text"
     ]
 
@@ -7066,7 +7066,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystathionine-4TMS)"
+      text "(text:Cystathionine-4TMS.)"
       type "text"
     ]
 
@@ -7133,7 +7133,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cysteic acid-3TMS)"
+      text "(text:Cysteic acid-3TMS.)"
       type "text"
     ]
 
@@ -7200,7 +7200,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cysteine-3TMS)"
+      text "(text:Cysteine-3TMS.)"
       type "text"
     ]
 
@@ -7267,7 +7267,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cystine-4TMS)"
+      text "(text:Cystine-4TMS.)"
       type "text"
     ]
 
@@ -7334,7 +7334,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cytidine-4TMS)"
+      text "(text:Cytidine-4TMS.)"
       type "text"
     ]
 
@@ -7401,7 +7401,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Cytosine-2TMS)"
+      text "(text:Cytosine-2TMS.)"
       type "text"
     ]
 
@@ -7468,7 +7468,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Decadienedioic acid-2TMS)"
+      text "(text:Decadienedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -7535,7 +7535,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Decanoic acid-TMS)"
+      text "(text:Decanoic acid-TMS.)"
       type "text"
     ]
 
@@ -7602,7 +7602,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Dehydroquinic acid-5TMS)"
+      text "(text:5-Dehydroquinic acid-5TMS.)"
       type "text"
     ]
 
@@ -7669,7 +7669,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Dehydroquinic acid-meto-4TMS)"
+      text "(text:5-Dehydroquinic acid-meto-4TMS.)"
       type "text"
     ]
 
@@ -7736,7 +7736,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Dehydroshikimic acid-meto-3TMS)"
+      text "(text:3-Dehydroshikimic acid-meto-3TMS.)"
       type "text"
     ]
 
@@ -7803,7 +7803,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxy-glucose-4TMS)"
+      text "(text:2-Deoxy-glucose-4TMS.)"
       type "text"
     ]
 
@@ -7870,7 +7870,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxy-glucose-meto-4TMS)"
+      text "(text:2-Deoxy-glucose-meto-4TMS.)"
       type "text"
     ]
 
@@ -7937,7 +7937,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Deoxytetronic acid-3TMS)"
+      text "(text:2-Deoxytetronic acid-3TMS.)"
       type "text"
     ]
 
@@ -8004,7 +8004,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2d-Deoxyuridine-2TMS)"
+      text "(text:2d-Deoxyuridine-2TMS.)"
       type "text"
     ]
 
@@ -8071,7 +8071,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2d-Deoxyuridine-3TMS)"
+      text "(text:2d-Deoxyuridine-3TMS.)"
       type "text"
     ]
 
@@ -8138,7 +8138,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroorotic acid-3TMS)"
+      text "(text:Dihydroorotic acid-3TMS.)"
       type "text"
     ]
 
@@ -8205,7 +8205,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydrouracil-2TMS)"
+      text "(text:Dihydrouracil-2TMS.)"
       type "text"
     ]
 
@@ -8272,7 +8272,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydrouracil-TMS)"
+      text "(text:Dihydrouracil-TMS.)"
       type "text"
     ]
 
@@ -8339,7 +8339,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone phosphate-meto-3TMS)"
+      text "(text:Dihydroxyacetone phosphate-meto-3TMS.)"
       type "text"
     ]
 
@@ -8406,7 +8406,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-13C3-meto-2TMS)"
+      text "(text:Dihydroxyacetone-13C3-meto-2TMS.)"
       type "text"
     ]
 
@@ -8473,7 +8473,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-2TMS)"
+      text "(text:Dihydroxyacetone-2TMS.)"
       type "text"
     ]
 
@@ -8540,7 +8540,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dihydroxyacetone-meto-2TMS)"
+      text "(text:Dihydroxyacetone-meto-2TMS.)"
       type "text"
     ]
 
@@ -8607,7 +8607,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,4-Dihydroxybenzylamine-4TMS)"
+      text "(text:3,4-Dihydroxybenzylamine-4TMS.)"
       type "text"
     ]
 
@@ -8674,7 +8674,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,4-Dihydroxymandelic acid-4TMS)"
+      text "(text:3,4-Dihydroxymandelic acid-4TMS.)"
       type "text"
     ]
 
@@ -8741,7 +8741,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dimethylglycine-TMS)"
+      text "(text:Dimethylglycine-TMS.)"
       type "text"
     ]
 
@@ -8808,7 +8808,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Docosahexaenoic acid-TMS)"
+      text "(text:Docosahexaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -8875,7 +8875,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Docosapentaenoic acid-TMS)"
+      text "(text:Docosapentaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -8942,7 +8942,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dodecanedioic acid-2TMS)"
+      text "(text:Dodecanedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -9009,7 +9009,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopa-13C6-4TMS)"
+      text "(text:Dopa-13C6-4TMS.)"
       type "text"
     ]
 
@@ -9076,7 +9076,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopa-4TMS)"
+      text "(text:Dopa-4TMS.)"
       type "text"
     ]
 
@@ -9143,7 +9143,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopamine-3TMS)"
+      text "(text:Dopamine-3TMS.)"
       type "text"
     ]
 
@@ -9210,7 +9210,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Dopamine-4TMS)"
+      text "(text:Dopamine-4TMS.)"
       type "text"
     ]
 
@@ -9277,7 +9277,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Eicosapentaenoic acid-TMS)"
+      text "(text:Eicosapentaenoic acid-TMS.)"
       type "text"
     ]
 
@@ -9344,7 +9344,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Elaidic acid-TMS)"
+      text "(text:Elaidic acid-TMS.)"
       type "text"
     ]
 
@@ -9411,7 +9411,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Epinephrine-3TMS)"
+      text "(text:Epinephrine-3TMS.)"
       type "text"
     ]
 
@@ -9478,7 +9478,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Epinephrine-4TMS)"
+      text "(text:Epinephrine-4TMS.)"
       type "text"
     ]
 
@@ -9545,7 +9545,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3,6-Epoxydodecanedioic acid-2TMS)"
+      text "(text:3,6-Epoxydodecanedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -9612,7 +9612,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:meso-Erythritol-4TMS)"
+      text "(text:meso-Erythritol-4TMS.)"
       type "text"
     ]
 
@@ -9679,7 +9679,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Erythrose 4-phosphate-meto-4TMS)"
+      text "(text:Erythrose 4-phosphate-meto-4TMS.)"
       type "text"
     ]
 
@@ -9746,7 +9746,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Erythrulose-meto-3TMS)"
+      text "(text:Erythrulose-meto-3TMS.)"
       type "text"
     ]
 
@@ -9813,7 +9813,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ethylhydracrylic acid-2TMS)"
+      text "(text:Ethylhydracrylic acid-2TMS.)"
       type "text"
     ]
 
@@ -9880,7 +9880,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ethylmalonic acid-2TMS)"
+      text "(text:Ethylmalonic acid-2TMS.)"
       type "text"
     ]
 
@@ -9947,7 +9947,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fendiline-TMS)"
+      text "(text:Fendiline-TMS.)"
       type "text"
     ]
 
@@ -10014,7 +10014,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fendiline)"
+      text "(text:Fendiline.)"
       type "text"
     ]
 
@@ -10081,7 +10081,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose 1-phosphate-meto-6TMS)"
+      text "(text:Fructose 1-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -10148,7 +10148,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose 6-phosphate-meto-6TMS)"
+      text "(text:Fructose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -10215,7 +10215,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose-5TMS)"
+      text "(text:Fructose-5TMS.)"
       type "text"
     ]
 
@@ -10282,7 +10282,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fructose-meto-5TMS)"
+      text "(text:Fructose-meto-5TMS.)"
       type "text"
     ]
 
@@ -10349,7 +10349,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fucose-4TMS)"
+      text "(text:Fucose-4TMS.)"
       type "text"
     ]
 
@@ -10416,7 +10416,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fucose-meto-4TMS)"
+      text "(text:Fucose-meto-4TMS.)"
       type "text"
     ]
 
@@ -10483,7 +10483,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fumaric acid-13C4-2TMS)"
+      text "(text:Fumaric acid-13C4-2TMS.)"
       type "text"
     ]
 
@@ -10550,7 +10550,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Fumaric acid-2TMS)"
+      text "(text:Fumaric acid-2TMS.)"
       type "text"
     ]
 
@@ -10617,7 +10617,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Furoic acid-TMS)"
+      text "(text:2-Furoic acid-TMS.)"
       type "text"
     ]
 
@@ -10684,7 +10684,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactitol-6TMS)"
+      text "(text:Galactitol-6TMS.)"
       type "text"
     ]
 
@@ -10751,7 +10751,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactosamine-5TMS)"
+      text "(text:Galactosamine-5TMS.)"
       type "text"
     ]
 
@@ -10818,7 +10818,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactose-5TMS)"
+      text "(text:Galactose-5TMS.)"
       type "text"
     ]
 
@@ -10885,7 +10885,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galactose-meto-5TMS)"
+      text "(text:Galactose-meto-5TMS.)"
       type "text"
     ]
 
@@ -10952,7 +10952,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galacturonic acid-5TMS)"
+      text "(text:Galacturonic acid-5TMS.)"
       type "text"
     ]
 
@@ -11019,7 +11019,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Galacturonic acid-meto-5TMS)"
+      text "(text:Galacturonic acid-meto-5TMS.)"
       type "text"
     ]
 
@@ -11086,7 +11086,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucaric acid-6TMS)"
+      text "(text:Glucaric acid-6TMS.)"
       type "text"
     ]
 
@@ -11153,7 +11153,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Gluconic acid-6TMS)"
+      text "(text:Gluconic acid-6TMS.)"
       type "text"
     ]
 
@@ -11220,7 +11220,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucono-1,4-lactone-4TMS)"
+      text "(text:Glucono-1,4-lactone-4TMS.)"
       type "text"
     ]
 
@@ -11287,7 +11287,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucono-1,5-lactone-4TMS)"
+      text "(text:Glucono-1,5-lactone-4TMS.)"
       type "text"
     ]
 
@@ -11354,7 +11354,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucosamine-5TMS)"
+      text "(text:Glucosamine-5TMS.)"
       type "text"
     ]
 
@@ -11421,7 +11421,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucose 6-phosphate-meto-6TMS)"
+      text "(text:Glucose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -11488,7 +11488,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucose-5TMS)"
+      text "(text:Glucose-5TMS.)"
       type "text"
     ]
 
@@ -11555,7 +11555,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucose-meto-5TMS)"
+      text "(text:Glucose-meto-5TMS.)"
       type "text"
     ]
 
@@ -11622,7 +11622,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid lactone-3TMS)"
+      text "(text:Glucuronic acid lactone-3TMS.)"
       type "text"
     ]
 
@@ -11689,7 +11689,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid-5TMS)"
+      text "(text:Glucuronic acid-5TMS.)"
       type "text"
     ]
 
@@ -11756,7 +11756,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glucuronic acid-meto-5TMS)"
+      text "(text:Glucuronic acid-meto-5TMS.)"
       type "text"
     ]
 
@@ -11823,7 +11823,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaconic acid-2TMS)"
+      text "(text:Glutaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -11890,7 +11890,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaconic acid-3TMS)"
+      text "(text:Glutaconic acid-3TMS.)"
       type "text"
     ]
 
@@ -11957,7 +11957,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid 5-methylester-2TMS)"
+      text "(text:Glutamic acid 5-methylester-2TMS.)"
       type "text"
     ]
 
@@ -12024,7 +12024,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid-13C5-3TMS)"
+      text "(text:Glutamic acid-13C5-3TMS.)"
       type "text"
     ]
 
@@ -12091,7 +12091,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamic acid-3TMS)"
+      text "(text:Glutamic acid-3TMS.)"
       type "text"
     ]
 
@@ -12158,7 +12158,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamine-3TMS)"
+      text "(text:Glutamine-3TMS.)"
       type "text"
     ]
 
@@ -12225,7 +12225,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutamine-4TMS)"
+      text "(text:Glutamine-4TMS.)"
       type "text"
     ]
 
@@ -12292,7 +12292,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glutaric acid-2TMS)"
+      text "(text:Glutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -12359,7 +12359,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceraldehyde 3-phosphate-meto-3TMS)"
+      text "(text:Glyceraldehyde 3-phosphate-meto-3TMS.)"
       type "text"
     ]
 
@@ -12426,7 +12426,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceraldehyde-meto-2TMS)"
+      text "(text:Glyceraldehyde-meto-2TMS.)"
       type "text"
     ]
 
@@ -12493,7 +12493,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyceric acid-3TMS)"
+      text "(text:Glyceric acid-3TMS.)"
       type "text"
     ]
 
@@ -12560,7 +12560,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol 2-phosphate-4TMS)"
+      text "(text:Glycerol 2-phosphate-4TMS.)"
       type "text"
     ]
 
@@ -12627,7 +12627,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol 3-phosphate-4TMS)"
+      text "(text:Glycerol 3-phosphate-4TMS.)"
       type "text"
     ]
 
@@ -12694,7 +12694,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycerol-3TMS)"
+      text "(text:Glycerol-3TMS.)"
       type "text"
     ]
 
@@ -12761,7 +12761,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycine-2TMS)"
+      text "(text:Glycine-2TMS.)"
       type "text"
     ]
 
@@ -12828,7 +12828,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycine-3TMS)"
+      text "(text:Glycine-3TMS.)"
       type "text"
     ]
 
@@ -12895,7 +12895,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycolic acid-2TMS)"
+      text "(text:Glycolic acid-2TMS.)"
       type "text"
     ]
 
@@ -12962,7 +12962,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycyl-Glycine-3TMS)"
+      text "(text:Glycyl-Glycine-3TMS.)"
       type "text"
     ]
 
@@ -13029,7 +13029,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glycyl-Glycine-4TMS)"
+      text "(text:Glycyl-Glycine-4TMS.)"
       type "text"
     ]
 
@@ -13096,7 +13096,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyoxylic acid-meto-TMS)"
+      text "(text:Glyoxylic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -13163,7 +13163,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Glyoxylic acid-oxime-2TMS)"
+      text "(text:Glyoxylic acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -13230,7 +13230,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Guanine-3TMS)"
+      text "(text:Guanine-3TMS.)"
       type "text"
     ]
 
@@ -13297,7 +13297,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Guanosine-5TMS)"
+      text "(text:Guanosine-5TMS.)"
       type "text"
     ]
 
@@ -13364,7 +13364,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:1-Hexadecanol-TMS)"
+      text "(text:1-Hexadecanol-TMS.)"
       type "text"
     ]
 
@@ -13431,7 +13431,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hexanoylglycine-2TMS)"
+      text "(text:Hexanoylglycine-2TMS.)"
       type "text"
     ]
 
@@ -13498,7 +13498,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hexanoylglycine-TMS)"
+      text "(text:Hexanoylglycine-TMS.)"
       type "text"
     ]
 
@@ -13565,7 +13565,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hexenedioic acid-2TMS)"
+      text "(text:2-Hexenedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -13632,7 +13632,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hippuric acid-2TMS)"
+      text "(text:Hippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -13699,7 +13699,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hippuric acid-TMS)"
+      text "(text:Hippuric acid-TMS.)"
       type "text"
     ]
 
@@ -13766,7 +13766,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histamine-3TMS)"
+      text "(text:Histamine-3TMS.)"
       type "text"
     ]
 
@@ -13833,7 +13833,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histidine-3TMS)"
+      text "(text:Histidine-3TMS.)"
       type "text"
     ]
 
@@ -13900,7 +13900,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histidinol-2TMS)"
+      text "(text:Histidinol-2TMS.)"
       type "text"
     ]
 
@@ -13967,7 +13967,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Histidinol-3TMS)"
+      text "(text:Histidinol-3TMS.)"
       type "text"
     ]
 
@@ -14034,7 +14034,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homocysteine-3TMS)"
+      text "(text:Homocysteine-3TMS.)"
       type "text"
     ]
 
@@ -14101,7 +14101,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homocystine-4TMS)"
+      text "(text:Homocystine-4TMS.)"
       type "text"
     ]
 
@@ -14168,7 +14168,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homogentisic acid-3TMS)"
+      text "(text:Homogentisic acid-3TMS.)"
       type "text"
     ]
 
@@ -14235,7 +14235,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homoserine-2TMS)"
+      text "(text:Homoserine-2TMS.)"
       type "text"
     ]
 
@@ -14302,7 +14302,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homoserine-3TMS)"
+      text "(text:Homoserine-3TMS.)"
       type "text"
     ]
 
@@ -14369,7 +14369,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Homovanillic acid-2TMS)"
+      text "(text:Homovanillic acid-2TMS.)"
       type "text"
     ]
 
@@ -14436,7 +14436,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroquinone-2TMS)"
+      text "(text:Hydroquinone-2TMS.)"
       type "text"
     ]
 
@@ -14503,7 +14503,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:7-Hydroxoctanoic acid-2TMS)"
+      text "(text:7-Hydroxoctanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -14570,7 +14570,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxy-3-methylglutaric acid-3TMS)"
+      text "(text:3-Hydroxy-3-methylglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -14637,7 +14637,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxy-3-methylvaleric acid-2TMS)"
+      text "(text:2-Hydroxy-3-methylvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -14704,7 +14704,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxy-kynurenine-3TMS)"
+      text "(text:3-Hydroxy-kynurenine-3TMS.)"
       type "text"
     ]
 
@@ -14771,7 +14771,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Hydroxy-tryptophan-4TMS)"
+      text "(text:5-Hydroxy-tryptophan-4TMS.)"
       type "text"
     ]
 
@@ -14838,7 +14838,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyadipic acid-3TMS)"
+      text "(text:2-Hydroxyadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -14905,7 +14905,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyadipic acid-3TMS)"
+      text "(text:3-Hydroxyadipic acid-3TMS.)"
       type "text"
     ]
 
@@ -14972,7 +14972,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyanthranilic acid-2TMS)"
+      text "(text:3-Hydroxyanthranilic acid-2TMS.)"
       type "text"
     ]
 
@@ -15039,7 +15039,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyanthranilic acid-3TMS)"
+      text "(text:3-Hydroxyanthranilic acid-3TMS.)"
       type "text"
     ]
 
@@ -15106,7 +15106,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybenzoic acid-13C6-2TMS)"
+      text "(text:4-Hydroxybenzoic acid-13C6-2TMS.)"
       type "text"
     ]
 
@@ -15173,7 +15173,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxybenzoic acid-2TMS)"
+      text "(text:3-Hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -15240,7 +15240,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybenzoic acid-2TMS)"
+      text "(text:4-Hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -15307,7 +15307,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxybutyric acid-2TMS)"
+      text "(text:2-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -15374,7 +15374,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxybutyric acid-2TMS)"
+      text "(text:3-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -15441,7 +15441,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxybutyric acid-2TMS)"
+      text "(text:4-Hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -15508,7 +15508,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxybutyric acid-d3-2TMS)"
+      text "(text:2-Hydroxybutyric acid-d3-2TMS.)"
       type "text"
     ]
 
@@ -15575,7 +15575,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxydodecanedioic acid-3TMS)"
+      text "(text:3-Hydroxydodecanedioic acid-3TMS.)"
       type "text"
     ]
 
@@ -15642,7 +15642,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyglutaric acid-3TMS)"
+      text "(text:2-Hydroxyglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -15709,7 +15709,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyglutaric acid-3TMS)"
+      text "(text:3-Hydroxyglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -15776,7 +15776,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyhippuric acid-2TMS)"
+      text "(text:2-Hydroxyhippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -15843,7 +15843,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyhippuric acid-3TMS)"
+      text "(text:2-Hydroxyhippuric acid-3TMS.)"
       type "text"
     ]
 
@@ -15910,7 +15910,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisobutyric acid-2TMS)"
+      text "(text:2-Hydroxyisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -15977,7 +15977,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyisobutyric acid-2TMS)"
+      text "(text:3-Hydroxyisobutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -16044,7 +16044,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisocaproic acid-2TMS)"
+      text "(text:2-Hydroxyisocaproic acid-2TMS.)"
       type "text"
     ]
 
@@ -16111,7 +16111,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyisovaleric acid-2TMS)"
+      text "(text:2-Hydroxyisovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -16178,7 +16178,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyisovaleric acid-2TMS)"
+      text "(text:3-Hydroxyisovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -16245,7 +16245,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroxylamine-3TMS)"
+      text "(text:Hydroxylamine-3TMS.)"
       type "text"
     ]
 
@@ -16312,7 +16312,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hydroxylysine [2 isomers]-4TMS)"
+      text "(text:Hydroxylysine [2 isomers]-4TMS.)"
       type "text"
     ]
 
@@ -16379,7 +16379,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Hydroxymethyl-2-furoic acid-2TMS)"
+      text "(text:5-Hydroxymethyl-2-furoic acid-2TMS.)"
       type "text"
     ]
 
@@ -16446,7 +16446,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-[3-Hydroxyphenyl]-3-hydroxypropionic acid-3TMS)"
+      text "(text:3-[3-Hydroxyphenyl]-3-hydroxypropionic acid-3TMS.)"
       type "text"
     ]
 
@@ -16513,7 +16513,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:2-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -16580,7 +16580,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:3-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -16647,7 +16647,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenylacetic acid-2TMS)"
+      text "(text:4-Hydroxyphenylacetic acid-2TMS.)"
       type "text"
     ]
 
@@ -16714,7 +16714,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenyllactic acid-3TMS)"
+      text "(text:4-Hydroxyphenyllactic acid-3TMS.)"
       type "text"
     ]
 
@@ -16781,7 +16781,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyphenylpyruvic acid-meto-2TMS)"
+      text "(text:4-Hydroxyphenylpyruvic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -16848,7 +16848,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:4-Hydroxyproline-3TMS)"
+      text "(text:4-Hydroxyproline-3TMS.)"
       type "text"
     ]
 
@@ -16915,7 +16915,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxypropionic acid-2TMS)"
+      text "(text:3-Hydroxypropionic acid-2TMS.)"
       type "text"
     ]
 
@@ -16982,7 +16982,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxypyruvic acid-meto-2TMS)"
+      text "(text:3-Hydroxypyruvic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -17049,7 +17049,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Hydroxysebacic acid -3TMS)"
+      text "(text:2-Hydroxysebacic acid -3TMS.)"
       type "text"
     ]
 
@@ -17116,7 +17116,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxysebacic acid -3TMS)"
+      text "(text:3-Hydroxysebacic acid -3TMS.)"
       type "text"
     ]
 
@@ -17183,7 +17183,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Hydroxyvaleric acid-2TMS)"
+      text "(text:3-Hydroxyvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -17250,7 +17250,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hypotaurine-3TMS)"
+      text "(text:Hypotaurine-3TMS.)"
       type "text"
     ]
 
@@ -17317,7 +17317,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Hypoxanthine-2TMS)"
+      text "(text:Hypoxanthine-2TMS.)"
       type "text"
     ]
 
@@ -17384,7 +17384,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indol-3-acetic acid-2TMS)"
+      text "(text:Indol-3-acetic acid-2TMS.)"
       type "text"
     ]
 
@@ -17451,7 +17451,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indol-3-acetic acid-TMS)"
+      text "(text:Indol-3-acetic acid-TMS.)"
       type "text"
     ]
 
@@ -17518,7 +17518,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Indolelactic acid-3TMS)"
+      text "(text:Indolelactic acid-3TMS.)"
       type "text"
     ]
 
@@ -17585,7 +17585,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inosine monophosphate-5TMS)"
+      text "(text:Inosine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -17652,7 +17652,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inosine-4TMS)"
+      text "(text:Inosine-4TMS.)"
       type "text"
     ]
 
@@ -17719,7 +17719,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inositol phosphate-7TMS)"
+      text "(text:Inositol phosphate-7TMS.)"
       type "text"
     ]
 
@@ -17786,7 +17786,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Inositol-6TMS)"
+      text "(text:Inositol-6TMS.)"
       type "text"
     ]
 
@@ -17853,7 +17853,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isobutyrylglycine-2TMS)"
+      text "(text:Isobutyrylglycine-2TMS.)"
       type "text"
     ]
 
@@ -17920,7 +17920,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isobutyrylglycine-TMS)"
+      text "(text:Isobutyrylglycine-TMS.)"
       type "text"
     ]
 
@@ -17987,7 +17987,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isocitric acid-4TMS)"
+      text "(text:Isocitric acid-4TMS.)"
       type "text"
     ]
 
@@ -18054,7 +18054,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isoleucine-2TMS)"
+      text "(text:Isoleucine-2TMS.)"
       type "text"
     ]
 
@@ -18121,7 +18121,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:allo-Isoleucine-2TMS)"
+      text "(text:allo-Isoleucine-2TMS.)"
       type "text"
     ]
 
@@ -18188,7 +18188,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isoleucine-TMS)"
+      text "(text:Isoleucine-TMS.)"
       type "text"
     ]
 
@@ -18255,7 +18255,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isoleucine-d10-2TMS)"
+      text "(text:Isoleucine-d10-2TMS.)"
       type "text"
     ]
 
@@ -18322,7 +18322,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isomaltose-meto-8TMS)"
+      text "(text:Isomaltose-meto-8TMS.)"
       type "text"
     ]
 
@@ -18389,7 +18389,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Isopropylmalic acid-3TMS)"
+      text "(text:2-Isopropylmalic acid-3TMS.)"
       type "text"
     ]
 
@@ -18456,7 +18456,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isovalerylglycine-2TMS)"
+      text "(text:Isovalerylglycine-2TMS.)"
       type "text"
     ]
 
@@ -18523,7 +18523,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Isovalerylglycine-TMS)"
+      text "(text:Isovalerylglycine-TMS.)"
       type "text"
     ]
 
@@ -18590,7 +18590,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Juniperic acid-2TMS)"
+      text "(text:Juniperic acid-2TMS.)"
       type "text"
     ]
 
@@ -18657,7 +18657,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Keto-isovaleric acid-2TMS)"
+      text "(text:2-Keto-isovaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -18724,7 +18724,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Keto-isovaleric acid-meto-TMS)"
+      text "(text:2-Keto-isovaleric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -18791,7 +18791,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Keto-isovaleric acid-oxime-2TMS)"
+      text "(text:2-Keto-isovaleric acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -18858,7 +18858,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoadipic acid-meto-2TMS)"
+      text "(text:2-Ketoadipic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -18925,7 +18925,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoadipic acid-oxime-3TMS)"
+      text "(text:2-Ketoadipic acid-oxime-3TMS.)"
       type "text"
     ]
 
@@ -18992,7 +18992,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketobutyric acid-meto-TMS)"
+      text "(text:2-Ketobutyric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -19059,7 +19059,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoglutaric acid-3TMS)"
+      text "(text:2-Ketoglutaric acid-3TMS.)"
       type "text"
     ]
 
@@ -19126,7 +19126,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoglutaric acid-meto-2TMS)"
+      text "(text:2-Ketoglutaric acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -19193,7 +19193,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoglutaric acid-oxime-3TMS)"
+      text "(text:2-Ketoglutaric acid-oxime-3TMS.)"
       type "text"
     ]
 
@@ -19260,7 +19260,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoisocaproic acid-meto-TMS)"
+      text "(text:2-Ketoisocaproic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -19327,7 +19327,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Ketoisocaproic acid-oxime-2TMS)"
+      text "(text:2-Ketoisocaproic acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -19394,7 +19394,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenic acid-2TMS)"
+      text "(text:Kynurenic acid-2TMS.)"
       type "text"
     ]
 
@@ -19461,7 +19461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenine-2TMS)"
+      text "(text:Kynurenine-2TMS.)"
       type "text"
     ]
 
@@ -19528,7 +19528,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenine-3TMS)"
+      text "(text:Kynurenine-3TMS.)"
       type "text"
     ]
 
@@ -19595,7 +19595,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Kynurenine-d6-3TMS)"
+      text "(text:Kynurenine-d6-3TMS.)"
       type "text"
     ]
 
@@ -19662,7 +19662,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactic acid-13C3-2TMS)"
+      text "(text:Lactic acid-13C3-2TMS.)"
       type "text"
     ]
 
@@ -19729,7 +19729,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactic acid-2TMS)"
+      text "(text:Lactic acid-2TMS.)"
       type "text"
     ]
 
@@ -19796,7 +19796,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactitol-9TMS)"
+      text "(text:Lactitol-9TMS.)"
       type "text"
     ]
 
@@ -19863,7 +19863,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lactose-meto-8TMS)"
+      text "(text:Lactose-meto-8TMS.)"
       type "text"
     ]
 
@@ -19930,7 +19930,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lauric acid-TMS)"
+      text "(text:Lauric acid-TMS.)"
       type "text"
     ]
 
@@ -19997,7 +19997,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lauric acid-d3-TMS)"
+      text "(text:Lauric acid-d3-TMS.)"
       type "text"
     ]
 
@@ -20064,7 +20064,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Leucine-2TMS)"
+      text "(text:Leucine-2TMS.)"
       type "text"
     ]
 
@@ -20131,7 +20131,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Linoleic acid-TMS)"
+      text "(text:Linoleic acid-TMS.)"
       type "text"
     ]
 
@@ -20198,7 +20198,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lipoic acid-TMS)"
+      text "(text:Lipoic acid-TMS.)"
       type "text"
     ]
 
@@ -20265,7 +20265,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lysine-3TMS)"
+      text "(text:Lysine-3TMS.)"
       type "text"
     ]
 
@@ -20332,7 +20332,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lysine-4TMS)"
+      text "(text:Lysine-4TMS.)"
       type "text"
     ]
 
@@ -20399,7 +20399,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lyxose-4TMS)"
+      text "(text:Lyxose-4TMS.)"
       type "text"
     ]
 
@@ -20466,7 +20466,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Lyxose-meto-4TMS)"
+      text "(text:Lyxose-meto-4TMS.)"
       type "text"
     ]
 
@@ -20533,7 +20533,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maleic acid-2TMS)"
+      text "(text:Maleic acid-2TMS.)"
       type "text"
     ]
 
@@ -20600,7 +20600,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malic acid-13C4-3TMS)"
+      text "(text:Malic acid-13C4-3TMS.)"
       type "text"
     ]
 
@@ -20667,7 +20667,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malic acid-3TMS)"
+      text "(text:Malic acid-3TMS.)"
       type "text"
     ]
 
@@ -20734,7 +20734,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Malonic acid-2TMS)"
+      text "(text:Malonic acid-2TMS.)"
       type "text"
     ]
 
@@ -20801,7 +20801,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maltitol-9TMS)"
+      text "(text:Maltitol-9TMS.)"
       type "text"
     ]
 
@@ -20868,7 +20868,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Maltose-meto-8TMS)"
+      text "(text:Maltose-meto-8TMS.)"
       type "text"
     ]
 
@@ -20935,7 +20935,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mandelic acid-2TMS)"
+      text "(text:Mandelic acid-2TMS.)"
       type "text"
     ]
 
@@ -21002,7 +21002,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannitol-6TMS)"
+      text "(text:Mannitol-6TMS.)"
       type "text"
     ]
 
@@ -21069,7 +21069,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannose 6-phosphate-meto-6TMS)"
+      text "(text:Mannose 6-phosphate-meto-6TMS.)"
       type "text"
     ]
 
@@ -21136,7 +21136,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannose-5TMS)"
+      text "(text:Mannose-5TMS.)"
       type "text"
     ]
 
@@ -21203,7 +21203,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mannose-meto-5TMS)"
+      text "(text:Mannose-meto-5TMS.)"
       type "text"
     ]
 
@@ -21270,7 +21270,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Margaric acid-TMS)"
+      text "(text:Margaric acid-TMS.)"
       type "text"
     ]
 
@@ -21337,7 +21337,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Melatonin-2TMS)"
+      text "(text:Melatonin-2TMS.)"
       type "text"
     ]
 
@@ -21404,7 +21404,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Melatonin-TMS)"
+      text "(text:Melatonin-TMS.)"
       type "text"
     ]
 
@@ -21471,7 +21471,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mesaconic acid-2TMS)"
+      text "(text:Mesaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -21538,7 +21538,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methionine sulfone-2TMS)"
+      text "(text:Methionine sulfone-2TMS.)"
       type "text"
     ]
 
@@ -21605,7 +21605,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methionine-2TMS)"
+      text "(text:Methionine-2TMS.)"
       type "text"
     ]
 
@@ -21672,7 +21672,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methoprene acid-TMS)"
+      text "(text:Methoprene acid-TMS.)"
       type "text"
     ]
 
@@ -21739,7 +21739,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methoxy-4-hydroxybenzoic acid-2TMS)"
+      text "(text:3-Methoxy-4-hydroxybenzoic acid-2TMS.)"
       type "text"
     ]
 
@@ -21806,7 +21806,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Methoxytryptamine-2TMS)"
+      text "(text:5-Methoxytryptamine-2TMS.)"
       type "text"
     ]
 
@@ -21873,7 +21873,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Methoxytryptamine-3TMS)"
+      text "(text:5-Methoxytryptamine-3TMS.)"
       type "text"
     ]
 
@@ -21940,7 +21940,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl arachidonate)"
+      text "(text:Methyl arachidonate.)"
       type "text"
     ]
 
@@ -22007,7 +22007,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl arachisate)"
+      text "(text:Methyl arachisate.)"
       type "text"
     ]
 
@@ -22074,7 +22074,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl behenate)"
+      text "(text:Methyl behenate.)"
       type "text"
     ]
 
@@ -22141,7 +22141,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl butanoate)"
+      text "(text:Methyl butanoate.)"
       type "text"
     ]
 
@@ -22208,7 +22208,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caprate)"
+      text "(text:Methyl caprate.)"
       type "text"
     ]
 
@@ -22275,7 +22275,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caproate)"
+      text "(text:Methyl caproate.)"
       type "text"
     ]
 
@@ -22342,7 +22342,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl caprylate)"
+      text "(text:Methyl caprylate.)"
       type "text"
     ]
 
@@ -22409,7 +22409,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cerotate)"
+      text "(text:Methyl cerotate.)"
       type "text"
     ]
 
@@ -22476,7 +22476,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-10-heptadecenoate)"
+      text "(text:Methyl cis-10-heptadecenoate.)"
       type "text"
     ]
 
@@ -22543,7 +22543,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-10-pentadecenoate)"
+      text "(text:Methyl cis-10-pentadecenoate.)"
       type "text"
     ]
 
@@ -22610,7 +22610,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11,14,17-Icosatrienoate)"
+      text "(text:Methyl cis-11,14,17-Icosatrienoate.)"
       type "text"
     ]
 
@@ -22677,7 +22677,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11,14-Icosadienoate )"
+      text "(text:Methyl cis-11,14-Icosadienoate.)"
       type "text"
     ]
 
@@ -22744,7 +22744,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-11-icosenoate )"
+      text "(text:Methyl cis-11-icosenoate.)"
       type "text"
     ]
 
@@ -22811,7 +22811,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-12-Octadecenoate)"
+      text "(text:Methyl cis-12-Octadecenoate.)"
       type "text"
     ]
 
@@ -22878,7 +22878,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-13,16-Docosadienate)"
+      text "(text:Methyl cis-13,16-Docosadienate.)"
       type "text"
     ]
 
@@ -22945,7 +22945,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-4,7,10,13,16,19-Docosahexaenoate)"
+      text "(text:Methyl cis-4,7,10,13,16,19-Docosahexaenoate.)"
       type "text"
     ]
 
@@ -23012,7 +23012,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-5,8,11,14,17-Icosapentaenoate)"
+      text "(text:Methyl cis-5,8,11,14,17-Icosapentaenoate.)"
       type "text"
     ]
 
@@ -23079,7 +23079,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-7,10,13,16,19-docosapentaenoate)"
+      text "(text:Methyl cis-7,10,13,16,19-docosapentaenoate.)"
       type "text"
     ]
 
@@ -23146,7 +23146,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-7-octadecenoate )"
+      text "(text:Methyl cis-7-octadecenoate.)"
       type "text"
     ]
 
@@ -23213,7 +23213,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl cis-vaccenate)"
+      text "(text:Methyl cis-vaccenate.)"
       type "text"
     ]
 
@@ -23280,7 +23280,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl eicosa-8,11,14-trienoate)"
+      text "(text:Methyl eicosa-8,11,14-trienoate.)"
       type "text"
     ]
 
@@ -23347,7 +23347,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl elaidate)"
+      text "(text:Methyl elaidate.)"
       type "text"
     ]
 
@@ -23414,7 +23414,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl erucate)"
+      text "(text:Methyl erucate.)"
       type "text"
     ]
 
@@ -23481,7 +23481,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl ganma-linolenate )"
+      text "(text:Methyl ganma-linolenate.)"
       type "text"
     ]
 
@@ -23548,7 +23548,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl heneicosanoate)"
+      text "(text:Methyl heneicosanoate.)"
       type "text"
     ]
 
@@ -23615,7 +23615,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl hentriacontanoate )"
+      text "(text:Methyl hentriacontanoate.)"
       type "text"
     ]
 
@@ -23682,7 +23682,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl heptacosanoate)"
+      text "(text:Methyl heptacosanoate.)"
       type "text"
     ]
 
@@ -23749,7 +23749,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl laurate)"
+      text "(text:Methyl laurate.)"
       type "text"
     ]
 
@@ -23816,7 +23816,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl lignocerate)"
+      text "(text:Methyl lignocerate.)"
       type "text"
     ]
 
@@ -23883,7 +23883,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linoleate)"
+      text "(text:Methyl linoleate.)"
       type "text"
     ]
 
@@ -23950,7 +23950,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linolelaidate)"
+      text "(text:Methyl linolelaidate.)"
       type "text"
     ]
 
@@ -24017,7 +24017,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl linolenate)"
+      text "(text:Methyl linolenate.)"
       type "text"
     ]
 
@@ -24084,7 +24084,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl margarate)"
+      text "(text:Methyl margarate.)"
       type "text"
     ]
 
@@ -24151,7 +24151,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl melissate)"
+      text "(text:Methyl melissate.)"
       type "text"
     ]
 
@@ -24218,7 +24218,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl myristate)"
+      text "(text:Methyl myristate.)"
       type "text"
     ]
 
@@ -24285,7 +24285,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl myristoleate )"
+      text "(text:Methyl myristoleate.)"
       type "text"
     ]
 
@@ -24352,7 +24352,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nervonate)"
+      text "(text:Methyl nervonate.)"
       type "text"
     ]
 
@@ -24419,7 +24419,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nonacosanonate)"
+      text "(text:Methyl nonacosanonate.)"
       type "text"
     ]
 
@@ -24486,7 +24486,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl nonadecanoate)"
+      text "(text:Methyl nonadecanoate.)"
       type "text"
     ]
 
@@ -24553,7 +24553,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl octacosanoate)"
+      text "(text:Methyl octacosanoate.)"
       type "text"
     ]
 
@@ -24620,7 +24620,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl oleate)"
+      text "(text:Methyl oleate.)"
       type "text"
     ]
 
@@ -24687,7 +24687,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl palmitate)"
+      text "(text:Methyl palmitate.)"
       type "text"
     ]
 
@@ -24754,7 +24754,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl palmitoleate)"
+      text "(text:Methyl palmitoleate.)"
       type "text"
     ]
 
@@ -24821,7 +24821,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl pentacosanoate)"
+      text "(text:Methyl pentacosanoate.)"
       type "text"
     ]
 
@@ -24888,7 +24888,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl pentadecanoate)"
+      text "(text:Methyl pentadecanoate.)"
       type "text"
     ]
 
@@ -24955,7 +24955,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl petroselate)"
+      text "(text:Methyl petroselate.)"
       type "text"
     ]
 
@@ -25022,7 +25022,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl stearate)"
+      text "(text:Methyl stearate.)"
       type "text"
     ]
 
@@ -25089,7 +25089,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl tricosanoate)"
+      text "(text:Methyl tricosanoate.)"
       type "text"
     ]
 
@@ -25156,7 +25156,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl tridecanoate)"
+      text "(text:Methyl tridecanoate.)"
       type "text"
     ]
 
@@ -25223,7 +25223,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methyl undecanoate)"
+      text "(text:Methyl undecanoate.)"
       type "text"
     ]
 
@@ -25290,7 +25290,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methyl-2-oxovaleric acid-meto-TMS)"
+      text "(text:3-Methyl-2-oxovaleric acid-meto-TMS.)"
       type "text"
     ]
 
@@ -25357,7 +25357,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methyl-3-hydroxybutyric acid-2TMS)"
+      text "(text:2-Methyl-3-hydroxybutyric acid-2TMS.)"
       type "text"
     ]
 
@@ -25424,7 +25424,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methyl-3-hydroxyvaleric acid-2TMS)"
+      text "(text:2-Methyl-3-hydroxyvaleric acid-2TMS.)"
       type "text"
     ]
 
@@ -25491,7 +25491,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methyladipic acid-2TMS)"
+      text "(text:3-Methyladipic acid-2TMS.)"
       type "text"
     ]
 
@@ -25558,7 +25558,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylcitric acid-4TMS)"
+      text "(text:Methylcitric acid-4TMS.)"
       type "text"
     ]
 
@@ -25625,7 +25625,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylcrotonoylglycine-2TMS)"
+      text "(text:3-Methylcrotonoylglycine-2TMS.)"
       type "text"
     ]
 
@@ -25692,7 +25692,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylcrotonoylglycine-TMS)"
+      text "(text:3-Methylcrotonoylglycine-TMS.)"
       type "text"
     ]
 
@@ -25759,7 +25759,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid[E]-2TMS)"
+      text "(text:3-Methylglutaconic acid[E]-2TMS.)"
       type "text"
     ]
 
@@ -25826,7 +25826,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid[Z]-2TMS)"
+      text "(text:3-Methylglutaconic acid[Z]-2TMS.)"
       type "text"
     ]
 
@@ -25893,7 +25893,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaconic acid-2TMS)"
+      text "(text:3-Methylglutaconic acid-2TMS.)"
       type "text"
     ]
 
@@ -25960,7 +25960,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Methylglutaric acid-2TMS)"
+      text "(text:3-Methylglutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -26027,7 +26027,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:7-Methylguanine-2TMS)"
+      text "(text:7-Methylguanine-2TMS.)"
       type "text"
     ]
 
@@ -26094,7 +26094,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methylhippuric acid-2TMS)"
+      text "(text:2-Methylhippuric acid-2TMS.)"
       type "text"
     ]
 
@@ -26161,7 +26161,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Methylhippuric acid-TMS)"
+      text "(text:2-Methylhippuric acid-TMS.)"
       type "text"
     ]
 
@@ -26228,7 +26228,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylmalonic acid-2TMS)"
+      text "(text:Methylmalonic acid-2TMS.)"
       type "text"
     ]
 
@@ -26295,7 +26295,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Methylsuccinic acid-2TMS)"
+      text "(text:Methylsuccinic acid-2TMS.)"
       type "text"
     ]
 
@@ -26362,7 +26362,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5d-Methylthioadenosine-2TMS)"
+      text "(text:5d-Methylthioadenosine-2TMS.)"
       type "text"
     ]
 
@@ -26429,7 +26429,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5d-Methylthioadenosine-3TMS)"
+      text "(text:5d-Methylthioadenosine-3TMS.)"
       type "text"
     ]
 
@@ -26496,7 +26496,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Metoprolol-2TMS)"
+      text "(text:Metoprolol-2TMS.)"
       type "text"
     ]
 
@@ -26563,7 +26563,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Metoprolol-TMS)"
+      text "(text:Metoprolol-TMS.)"
       type "text"
     ]
 
@@ -26630,7 +26630,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Mevalonic lactone-TMS)"
+      text "(text:Mevalonic lactone-TMS.)"
       type "text"
     ]
 
@@ -26697,7 +26697,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Monostearin-2TMS)"
+      text "(text:Monostearin-2TMS.)"
       type "text"
     ]
 
@@ -26764,7 +26764,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Myristic acid-TMS)"
+      text "(text:Myristic acid-TMS.)"
       type "text"
     ]
 
@@ -26831,7 +26831,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Naproxen-TMS)"
+      text "(text:Naproxen-TMS.)"
       type "text"
     ]
 
@@ -26898,7 +26898,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Niacinamide-TMS)"
+      text "(text:Niacinamide-TMS.)"
       type "text"
     ]
 
@@ -26965,7 +26965,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Nicotinic acid-TMS)"
+      text "(text:Nicotinic acid-TMS.)"
       type "text"
     ]
 
@@ -27032,7 +27032,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:p-Nitrophenol-TMS)"
+      text "(text:p-Nitrophenol-TMS.)"
       type "text"
     ]
 
@@ -27099,7 +27099,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Nonanoic acid-TMS)"
+      text "(text:Nonanoic acid-TMS.)"
       type "text"
     ]
 
@@ -27166,7 +27166,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norepinephrine-5TMS)"
+      text "(text:Norepinephrine-5TMS.)"
       type "text"
     ]
 
@@ -27233,7 +27233,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norvaline-2TMS)"
+      text "(text:Norvaline-2TMS.)"
       type "text"
     ]
 
@@ -27300,7 +27300,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Norvaline-TMS)"
+      text "(text:Norvaline-TMS.)"
       type "text"
     ]
 
@@ -27367,7 +27367,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octadecanol-TMS)"
+      text "(text:Octadecanol-TMS.)"
       type "text"
     ]
 
@@ -27434,7 +27434,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octanoic acid-TMS)"
+      text "(text:Octanoic acid-TMS.)"
       type "text"
     ]
 
@@ -27501,7 +27501,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octenedioic acid-2TMS)"
+      text "(text:Octenedioic acid-2TMS.)"
       type "text"
     ]
 
@@ -27568,7 +27568,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Octenoic acid-TMS)"
+      text "(text:2-Octenoic acid-TMS.)"
       type "text"
     ]
 
@@ -27635,7 +27635,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Octopamine-4TMS)"
+      text "(text:Octopamine-4TMS.)"
       type "text"
     ]
 
@@ -27702,7 +27702,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oleamide-TMS)"
+      text "(text:Oleamide-TMS.)"
       type "text"
     ]
 
@@ -27769,7 +27769,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oleic acid-TMS)"
+      text "(text:Oleic acid-TMS.)"
       type "text"
     ]
 
@@ -27836,7 +27836,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-3TMS)"
+      text "(text:Ornithine-3TMS.)"
       type "text"
     ]
 
@@ -27903,7 +27903,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-4TMS)"
+      text "(text:Ornithine-4TMS.)"
       type "text"
     ]
 
@@ -27970,7 +27970,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ornithine-d7-4TMS)"
+      text "(text:Ornithine-d7-4TMS.)"
       type "text"
     ]
 
@@ -28037,7 +28037,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Orotic acid-3TMS)"
+      text "(text:Orotic acid-3TMS.)"
       type "text"
     ]
 
@@ -28104,7 +28104,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalacetic acid-3TMS)"
+      text "(text:Oxalacetic acid-3TMS.)"
       type "text"
     ]
 
@@ -28171,7 +28171,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalacetic acid-meto-2TMS)"
+      text "(text:Oxalacetic acid-meto-2TMS.)"
       type "text"
     ]
 
@@ -28238,7 +28238,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalic acid-13C2-2TMS)"
+      text "(text:Oxalic acid-13C2-2TMS.)"
       type "text"
     ]
 
@@ -28305,7 +28305,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Oxalic acid-2TMS)"
+      text "(text:Oxalic acid-2TMS.)"
       type "text"
     ]
 
@@ -28372,7 +28372,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:5-Oxoproline-2TMS)"
+      text "(text:5-Oxoproline-2TMS.)"
       type "text"
     ]
 
@@ -28439,7 +28439,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Palmitic acid-TMS)"
+      text "(text:Palmitic acid-TMS.)"
       type "text"
     ]
 
@@ -28506,7 +28506,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Palmitoleic acid-TMS)"
+      text "(text:Palmitoleic acid-TMS.)"
       type "text"
     ]
 
@@ -28573,7 +28573,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pantothenic acid-3TMS)"
+      text "(text:Pantothenic acid-3TMS.)"
       type "text"
     ]
 
@@ -28640,7 +28640,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:ParaXanthine-TMS)"
+      text "(text:ParaXanthine-TMS.)"
       type "text"
     ]
 
@@ -28707,7 +28707,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenol-TMS)"
+      text "(text:Phenol-TMS.)"
       type "text"
     ]
 
@@ -28774,7 +28774,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylacetic acid-TMS)"
+      text "(text:Phenylacetic acid-TMS.)"
       type "text"
     ]
 
@@ -28841,7 +28841,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylalanine-2TMS)"
+      text "(text:Phenylalanine-2TMS.)"
       type "text"
     ]
 
@@ -28908,7 +28908,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Phenyllactic acid-2TMS)"
+      text "(text:2-Phenyllactic acid-2TMS.)"
       type "text"
     ]
 
@@ -28975,7 +28975,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Phenyllactic acid-2TMS)"
+      text "(text:3-Phenyllactic acid-2TMS.)"
       type "text"
     ]
 
@@ -29042,7 +29042,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phenylpyruvic acid-meto-TMS)"
+      text "(text:Phenylpyruvic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -29109,7 +29109,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phospho-Serine-4TMS)"
+      text "(text:O-Phospho-Serine-4TMS.)"
       type "text"
     ]
 
@@ -29176,7 +29176,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phosphoenolpyruvic acid-3TMS)"
+      text "(text:Phosphoenolpyruvic acid-3TMS.)"
       type "text"
     ]
 
@@ -29243,7 +29243,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phosphoethanolamine-3TMS)"
+      text "(text:O-Phosphoethanolamine-3TMS.)"
       type "text"
     ]
 
@@ -29310,7 +29310,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:O-Phosphoethanolamine-4TMS)"
+      text "(text:O-Phosphoethanolamine-4TMS.)"
       type "text"
     ]
 
@@ -29377,7 +29377,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:6-Phosphogluconic acid-7TMS)"
+      text "(text:6-Phosphogluconic acid-7TMS.)"
       type "text"
     ]
 
@@ -29444,7 +29444,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Phosphoglyceric acid -4TMS)"
+      text "(text:2-Phosphoglyceric acid -4TMS.)"
       type "text"
     ]
 
@@ -29511,7 +29511,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Phosphoglyceric acid-4TMS)"
+      text "(text:3-Phosphoglyceric acid-4TMS.)"
       type "text"
     ]
 
@@ -29578,7 +29578,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Phosphoric acid-3TMS)"
+      text "(text:Phosphoric acid-3TMS.)"
       type "text"
     ]
 
@@ -29645,7 +29645,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pimelic acid-2TMS)"
+      text "(text:Pimelic acid-2TMS.)"
       type "text"
     ]
 
@@ -29712,7 +29712,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Porphobilinogen-4TMS)"
+      text "(text:Porphobilinogen-4TMS.)"
       type "text"
     ]
 
@@ -29779,7 +29779,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Proline-2TMS)"
+      text "(text:Proline-2TMS.)"
       type "text"
     ]
 
@@ -29846,7 +29846,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Propionylglycine-2TMS)"
+      text "(text:Propionylglycine-2TMS.)"
       type "text"
     ]
 
@@ -29913,7 +29913,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Propionylglycine-TMS)"
+      text "(text:Propionylglycine-TMS.)"
       type "text"
     ]
 
@@ -29980,7 +29980,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-3-hydroxy-pentanoic acid-2TMS)"
+      text "(text:2-Propyl-3-hydroxy-pentanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -30047,7 +30047,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-5-hydroxy-pentanoic acid-2TMS)"
+      text "(text:2-Propyl-5-hydroxy-pentanoic acid-2TMS.)"
       type "text"
     ]
 
@@ -30114,7 +30114,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propyl-glutaric acid-2TMS)"
+      text "(text:2-Propyl-glutaric acid-2TMS.)"
       type "text"
     ]
 
@@ -30181,7 +30181,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:2-Propylhydroxyglutaric acid-oxime-2TMS)"
+      text "(text:2-Propylhydroxyglutaric acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -30248,7 +30248,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Protocatechuic acid-3TMS)"
+      text "(text:Protocatechuic acid-3TMS.)"
       type "text"
     ]
 
@@ -30315,7 +30315,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Psicose-5TMS)"
+      text "(text:Psicose-5TMS.)"
       type "text"
     ]
 
@@ -30382,7 +30382,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Psicose-meto-5TMS)"
+      text "(text:Psicose-meto-5TMS.)"
       type "text"
     ]
 
@@ -30449,7 +30449,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Putrescine-4TMS)"
+      text "(text:Putrescine-4TMS.)"
       type "text"
     ]
 
@@ -30516,7 +30516,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxal-meto-2TMS)"
+      text "(text:Pyridoxal-meto-2TMS.)"
       type "text"
     ]
 
@@ -30583,7 +30583,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxamine-3TMS)"
+      text "(text:Pyridoxamine-3TMS.)"
       type "text"
     ]
 
@@ -30650,7 +30650,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxamine-4TMS)"
+      text "(text:Pyridoxamine-4TMS.)"
       type "text"
     ]
 
@@ -30717,7 +30717,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyridoxine-3TMS)"
+      text "(text:Pyridoxine-3TMS.)"
       type "text"
     ]
 
@@ -30784,7 +30784,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyrogallol-3TMS)"
+      text "(text:Pyrogallol-3TMS.)"
       type "text"
     ]
 
@@ -30851,7 +30851,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyruvic acid-2TMS)"
+      text "(text:Pyruvic acid-2TMS.)"
       type "text"
     ]
 
@@ -30918,7 +30918,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyruvic acid-meto-TMS)"
+      text "(text:Pyruvic acid-meto-TMS.)"
       type "text"
     ]
 
@@ -30985,7 +30985,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Pyruvic acid-oxime-2TMS)"
+      text "(text:Pyruvic acid-oxime-2TMS.)"
       type "text"
     ]
 
@@ -31052,7 +31052,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Quinolinic acid-2TMS)"
+      text "(text:Quinolinic acid-2TMS.)"
       type "text"
     ]
 
@@ -31119,7 +31119,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Rhamnose-4TMS)"
+      text "(text:Rhamnose-4TMS.)"
       type "text"
     ]
 
@@ -31186,7 +31186,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Rhamnose-meto-4TMS)"
+      text "(text:Rhamnose-meto-4TMS.)"
       type "text"
     ]
 
@@ -31253,7 +31253,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribitol-5TMS)"
+      text "(text:Ribitol-5TMS.)"
       type "text"
     ]
 
@@ -31320,7 +31320,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribonic acid-5TMS)"
+      text "(text:Ribonic acid-5TMS.)"
       type "text"
     ]
 
@@ -31387,7 +31387,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribonolactone-3TMS)"
+      text "(text:Ribonolactone-3TMS.)"
       type "text"
     ]
 
@@ -31454,7 +31454,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose 5-phosphate-meto-5TMS)"
+      text "(text:Ribose 5-phosphate-meto-5TMS.)"
       type "text"
     ]
 
@@ -31521,7 +31521,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-13C5-meto-4TMS)"
+      text "(text:Ribose-13C5-meto-4TMS.)"
       type "text"
     ]
 
@@ -31588,7 +31588,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-4TMS)"
+      text "(text:Ribose-4TMS.)"
       type "text"
     ]
 
@@ -31655,7 +31655,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribose-meto-4TMS)"
+      text "(text:Ribose-meto-4TMS.)"
       type "text"
     ]
 
@@ -31722,7 +31722,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose 5-phosphate-meto-5TMS)"
+      text "(text:Ribulose 5-phosphate-meto-5TMS.)"
       type "text"
     ]
 
@@ -31789,7 +31789,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose-4TMS)"
+      text "(text:Ribulose-4TMS.)"
       type "text"
     ]
 
@@ -31856,7 +31856,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ribulose-meto-4TMS)"
+      text "(text:Ribulose-meto-4TMS.)"
       type "text"
     ]
 
@@ -31923,7 +31923,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Saccharopine-4TMS)"
+      text "(text:Saccharopine-4TMS.)"
       type "text"
     ]
 
@@ -31990,7 +31990,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Saccharopine-5TMS)"
+      text "(text:Saccharopine-5TMS.)"
       type "text"
     ]
 
@@ -32057,7 +32057,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sarcosine-2TMS)"
+      text "(text:Sarcosine-2TMS.)"
       type "text"
     ]
 
@@ -32124,7 +32124,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sarcosine-d3-2TMS)"
+      text "(text:Sarcosine-d3-2TMS.)"
       type "text"
     ]
 
@@ -32191,7 +32191,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sebacic acid-2TMS)"
+      text "(text:Sebacic acid-2TMS.)"
       type "text"
     ]
 
@@ -32258,7 +32258,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sedoheptulose 7-phosphate-meto-7TMS)"
+      text "(text:Sedoheptulose 7-phosphate-meto-7TMS.)"
       type "text"
     ]
 
@@ -32325,7 +32325,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Serine-2TMS)"
+      text "(text:Serine-2TMS.)"
       type "text"
     ]
 
@@ -32392,7 +32392,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Serine-3TMS)"
+      text "(text:Serine-3TMS.)"
       type "text"
     ]
 
@@ -32459,7 +32459,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Shikimic acid-4TMS)"
+      text "(text:Shikimic acid-4TMS.)"
       type "text"
     ]
 
@@ -32526,7 +32526,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbitol-6TMS)"
+      text "(text:Sorbitol-6TMS.)"
       type "text"
     ]
 
@@ -32593,7 +32593,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbose-5TMS)"
+      text "(text:Sorbose-5TMS.)"
       type "text"
     ]
 
@@ -32660,7 +32660,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sorbose-meto-5TMS)"
+      text "(text:Sorbose-meto-5TMS.)"
       type "text"
     ]
 
@@ -32727,7 +32727,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Spermidine-5TMS)"
+      text "(text:Spermidine-5TMS.)"
       type "text"
     ]
 
@@ -32794,7 +32794,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Spermine-6TMS)"
+      text "(text:Spermine-6TMS.)"
       type "text"
     ]
 
@@ -32861,7 +32861,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Stearic acid-TMS)"
+      text "(text:Stearic acid-TMS.)"
       type "text"
     ]
 
@@ -32928,7 +32928,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberic acid-2TMS)"
+      text "(text:Suberic acid-2TMS.)"
       type "text"
     ]
 
@@ -32995,7 +32995,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberylglycine-2TMS)"
+      text "(text:Suberylglycine-2TMS.)"
       type "text"
     ]
 
@@ -33062,7 +33062,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Suberylglycine-3TMS)"
+      text "(text:Suberylglycine-3TMS.)"
       type "text"
     ]
 
@@ -33129,7 +33129,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinic acid-2TMS)"
+      text "(text:Succinic acid-2TMS.)"
       type "text"
     ]
 
@@ -33196,7 +33196,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinylacetone-meto-TMS)"
+      text "(text:Succinylacetone-meto-TMS.)"
       type "text"
     ]
 
@@ -33263,7 +33263,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Succinylacetone-ox-origin fragment)"
+      text "(text:Succinylacetone-ox-origin fragment.)"
       type "text"
     ]
 
@@ -33330,7 +33330,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Sucrose-8TMS)"
+      text "(text:Sucrose-8TMS.)"
       type "text"
     ]
 
@@ -33397,7 +33397,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:3-Sulfinoalanine-3TMS)"
+      text "(text:3-Sulfinoalanine-3TMS.)"
       type "text"
     ]
 
@@ -33464,7 +33464,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tagatose-5TMS)"
+      text "(text:Tagatose-5TMS.)"
       type "text"
     ]
 
@@ -33531,7 +33531,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tagatose-meto-5TMS)"
+      text "(text:Tagatose-meto-5TMS.)"
       type "text"
     ]
 
@@ -33598,7 +33598,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tartaric acid-4TMS)"
+      text "(text:Tartaric acid-4TMS.)"
       type "text"
     ]
 
@@ -33665,7 +33665,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Taurine-13C2-3TMS)"
+      text "(text:Taurine-13C2-3TMS.)"
       type "text"
     ]
 
@@ -33732,7 +33732,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Taurine-3TMS)"
+      text "(text:Taurine-3TMS.)"
       type "text"
     ]
 
@@ -33799,7 +33799,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Theophylline-TMS)"
+      text "(text:Theophylline-TMS.)"
       type "text"
     ]
 
@@ -33866,7 +33866,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thiodiglycolic acid-2TMS)"
+      text "(text:Thiodiglycolic acid-2TMS.)"
       type "text"
     ]
 
@@ -33933,7 +33933,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threitol-4TMS)"
+      text "(text:Threitol-4TMS.)"
       type "text"
     ]
 
@@ -34000,7 +34000,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threo-b-hydroxyaspartic acid-4TMS)"
+      text "(text:Threo-b-hydroxyaspartic acid-4TMS.)"
       type "text"
     ]
 
@@ -34067,7 +34067,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threonic acid-4TMS)"
+      text "(text:Threonic acid-4TMS.)"
       type "text"
     ]
 
@@ -34134,7 +34134,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Threonine-3TMS)"
+      text "(text:Threonine-3TMS.)"
       type "text"
     ]
 
@@ -34201,7 +34201,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymidine monophosphate-3TMS)"
+      text "(text:Thymidine monophosphate-3TMS.)"
       type "text"
     ]
 
@@ -34268,7 +34268,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymidine-2TMS)"
+      text "(text:Thymidine-2TMS.)"
       type "text"
     ]
 
@@ -34335,7 +34335,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymidine-3TMS)"
+      text "(text:Thymidine-3TMS.)"
       type "text"
     ]
 
@@ -34402,7 +34402,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Thymine-2TMS)"
+      text "(text:Thymine-2TMS.)"
       type "text"
     ]
 
@@ -34469,7 +34469,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tiglylglycine-2TMS)"
+      text "(text:Tiglylglycine-2TMS.)"
       type "text"
     ]
 
@@ -34536,7 +34536,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tiglylglycine-TMS)"
+      text "(text:Tiglylglycine-TMS.)"
       type "text"
     ]
 
@@ -34603,7 +34603,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trehalose 6-phosphate-9TMS)"
+      text "(text:Trehalose 6-phosphate-9TMS.)"
       type "text"
     ]
 
@@ -34670,7 +34670,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trehalose-8TMS)"
+      text "(text:Trehalose-8TMS.)"
       type "text"
     ]
 
@@ -34737,7 +34737,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tricarballylic acid-3TMS)"
+      text "(text:Tricarballylic acid-3TMS.)"
       type "text"
     ]
 
@@ -34804,7 +34804,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Trichloroacetic acid-TMS)"
+      text "(text:Trichloroacetic acid-TMS.)"
       type "text"
     ]
 
@@ -34871,7 +34871,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Triethanolamine-3TMS)"
+      text "(text:Triethanolamine-3TMS.)"
       type "text"
     ]
 
@@ -34938,7 +34938,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tropic acid-2TMS)"
+      text "(text:Tropic acid-2TMS.)"
       type "text"
     ]
 
@@ -35005,7 +35005,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptamine-2TMS)"
+      text "(text:Tryptamine-2TMS.)"
       type "text"
     ]
 
@@ -35072,7 +35072,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptamine-3TMS)"
+      text "(text:Tryptamine-3TMS.)"
       type "text"
     ]
 
@@ -35139,7 +35139,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptophan-13C11-3TMS)"
+      text "(text:Tryptophan-13C11-3TMS.)"
       type "text"
     ]
 
@@ -35206,7 +35206,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tryptophan-3TMS)"
+      text "(text:Tryptophan-3TMS.)"
       type "text"
     ]
 
@@ -35273,7 +35273,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyramine-3TMS)"
+      text "(text:Tyramine-3TMS.)"
       type "text"
     ]
 
@@ -35340,7 +35340,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyrosine-13C6-3TMS)"
+      text "(text:Tyrosine-13C6-3TMS.)"
       type "text"
     ]
 
@@ -35407,7 +35407,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Tyrosine-3TMS)"
+      text "(text:Tyrosine-3TMS.)"
       type "text"
     ]
 
@@ -35474,7 +35474,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uracil-2TMS)"
+      text "(text:Uracil-2TMS.)"
       type "text"
     ]
 
@@ -35541,7 +35541,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Urea-2TMS)"
+      text "(text:Urea-2TMS.)"
       type "text"
     ]
 
@@ -35608,7 +35608,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidopropionic acid-2TMS)"
+      text "(text:Ureidopropionic acid-2TMS.)"
       type "text"
     ]
 
@@ -35675,7 +35675,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidopropionic acid-3TMS)"
+      text "(text:Ureidopropionic acid-3TMS.)"
       type "text"
     ]
 
@@ -35742,7 +35742,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Ureidosuccinic acid-3TMS)"
+      text "(text:Ureidosuccinic acid-3TMS.)"
       type "text"
     ]
 
@@ -35809,7 +35809,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uric acid-4TMS)"
+      text "(text:Uric acid-4TMS.)"
       type "text"
     ]
 
@@ -35876,7 +35876,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uridine monophosphate-5TMS)"
+      text "(text:Uridine monophosphate-5TMS.)"
       type "text"
     ]
 
@@ -35943,7 +35943,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uridine-3TMS)"
+      text "(text:Uridine-3TMS.)"
       type "text"
     ]
 
@@ -36010,7 +36010,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Uridine-4TMS)"
+      text "(text:Uridine-4TMS.)"
       type "text"
     ]
 
@@ -36077,7 +36077,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Urocanic acid-2TMS)"
+      text "(text:Urocanic acid-2TMS.)"
       type "text"
     ]
 
@@ -36144,7 +36144,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Urocanic acid-TMS)"
+      text "(text:Urocanic acid-TMS.)"
       type "text"
     ]
 
@@ -36211,7 +36211,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valine-2TMS)"
+      text "(text:Valine-2TMS.)"
       type "text"
     ]
 
@@ -36278,7 +36278,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valine-d8-2TMS)"
+      text "(text:Valine-d8-2TMS.)"
       type "text"
     ]
 
@@ -36345,7 +36345,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Valproic acid-TMS)"
+      text "(text:Valproic acid-TMS.)"
       type "text"
     ]
 
@@ -36412,7 +36412,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Vanillylamine-3TMS)"
+      text "(text:Vanillylamine-3TMS.)"
       type "text"
     ]
 
@@ -36479,7 +36479,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Vanilmandelic acid-3TMS)"
+      text "(text:Vanilmandelic acid-3TMS.)"
       type "text"
     ]
 
@@ -36546,7 +36546,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthine-3TMS)"
+      text "(text:Xanthine-3TMS.)"
       type "text"
     ]
 
@@ -36613,7 +36613,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthosine monophosphate-6TMS)"
+      text "(text:Xanthosine monophosphate-6TMS.)"
       type "text"
     ]
 
@@ -36680,7 +36680,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xanthosine-5TMS)"
+      text "(text:Xanthosine-5TMS.)"
       type "text"
     ]
 
@@ -36747,7 +36747,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylitol-5TMS)"
+      text "(text:Xylitol-5TMS.)"
       type "text"
     ]
 
@@ -36814,7 +36814,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylose-4TMS)"
+      text "(text:Xylose-4TMS.)"
       type "text"
     ]
 
@@ -36881,7 +36881,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylose-meto-4TMS)"
+      text "(text:Xylose-meto-4TMS.)"
       type "text"
     ]
 
@@ -36948,7 +36948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(Name:Xylulose-meto-4TMS)"
+      text "(text:Xylulose-meto-4TMS.)"
       type "text"
     ]
 

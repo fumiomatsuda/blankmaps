@@ -94,7 +94,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-99-7)(CID:5793)(kegg:C00031)(InChi:WQZGKKKJIJFFOK-GASJEMHNSA-N)(text:Glucose)"
+      text "(CAS:50-99-7.)(CAS:2280-44-6.)(CID:5793.)(kegg:C00031)(InChi:WQZGKKKJIJFFOK-GASJEMHNSA-N)(CHEBI:4167)(text:Glucose.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00031"
@@ -157,7 +157,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -220,7 +220,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:CHEBI:15713)(text:UTP)(text:Uridine triphosphate)(text:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -283,7 +283,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -346,7 +346,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -409,7 +409,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:CHEBI:16027)(text:AMP)(text:Adenosine monophosphate)(text:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -472,7 +472,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:133-89-1)(CID:3331)(kegg:C00029)(InChi:HSCJRCZFDFQWRP-JZMIEXBBSA-N)(CHEBI:CHEBI:46229)(text:UDP-glucose)(text:Uridine 5'-diphosphate glucose)(text:UDP-Glc)"
+      text "(CAS:133-89-1.)(CID:8629.)(kegg:C00029)(InChi:HSCJRCZFDFQWRP-JZMIEXBBSA-N)(CHEBI:46229)(text:UDP-glucose.)(text:Uridine 5d-diphosphate glucose.)(text:UDP-Glc.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00029"
@@ -535,7 +535,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50319-10-3)(CID:65533)(kegg:C00103)(InChi:HXXFSFRBOHSIMQ-VFUOTHLCSA-N)(CHEBI:CHEBI:29042)(text:Glucose 1-phosphate)(text:D-Glucose 1-phosphate)(text:G1P)"
+      text "(CAS:52-90-4.)(CAS:4371-52-2.)(CAS:154605-72-8.)(CAS:1404190-35-7.)(CAS:62488-11-3.)(CID:65533.)(kegg:C00103)(InChi:HXXFSFRBOHSIMQ-VFUOTHLCSA-N)(CHEBI:29042)(text:Glucose 1-phosphate.)(text:D-Glucose 1-phosphate.)(text:G1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00103"
@@ -598,7 +598,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-73-5)(CID:5958)(kegg:C00092)(InChi:NBSCHQHZLSJFNQ-GASJEMHNSA-N)(text:Glucose 6-phosphate)(text:D-Glucose 6-phosphate)(text:G6P)"
+      text "(CAS:57-50-1.)(CAS:100405-08-1.)(CAS:104242-10-6.)(CAS:131932-12-2.)(CAS:146054-35-5.)(CAS:146187-04-4.)(CAS:151756-02-4.)(CAS:220376-22-7.)(CAS:29253-78-9.)(CAS:29764-06-5.)(CAS:30027-72-6.)(CAS:47167-52-2.)(CAS:47185-09-1.)(CAS:47257-91-0.)(CAS:50857-68-6.)(CAS:51909-69-4.)(CAS:64533-66-0.)(CAS:65545-99-5.)(CAS:75398-84-4.)(CAS:76056-38-7.)(CAS:78654-77-0.)(CAS:80165-03-3.)(CAS:8027-47-2.)(CAS:8030-20-4.)(CAS:85456-51-5.)(CAS:86101-30-6.)(CAS:87430-66-8.)(CAS:92004-84-7.)(CAS:635681-90-2.)(CAS:786702-63-4.)(CAS:12040-73-2.)(CAS:1159795-78-4.)(CAS:1206156-82-2.)(CAS:880257-62-5.)(CAS:1192061-43-0.)(CAS:1481578-88-4.)(CAS:1566560-95-9.)(CAS:25702-74-3.)(CAS:92004-84-7.)(CID:5958.)(kegg:C00092)(InChi:NBSCHQHZLSJFNQ-GASJEMHNSA-N)(CHEBI:4170)(text:Glucose 6-phosphate.)(text:D-Glucose 6-phosphate.)(text:G6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00092"
@@ -661,7 +661,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -724,7 +724,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -787,7 +787,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -850,7 +850,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -913,7 +913,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:921-62-0)(CID:91493)(kegg:C00345)(InChi:BIRSGZKFKXLSJQ-SQOUGZDYSA-N)(text:6-Phosphogluconic acid)(text:6PG)"
+      text "(CAS:921-62-0.)(CID:91493.)(kegg:C00345)(InChi:BIRSGZKFKXLSJQ-SQOUGZDYSA-N)(CHEBI:48928)(text:6-Phosphogluconic acid.)(text:6PG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00345"
@@ -976,7 +976,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4151-19-3)(CID:439184)(kegg:C00199)(InChi:FNZLKVNUWIIPSJ-UHNVWZDZSA-N)(CHEBI:CHEBI:17363)(text:Ribulose 5-phosphate)(text:D-Ribulose 5-phosphate)(text:Ru5P)"
+      text "(CAS:551-85-9.)(CID:439184.)(kegg:C00199)(InChi:FNZLKVNUWIIPSJ-UHNVWZDZSA-N)(CHEBI:17363)(text:Ribulose 5-phosphate.)(text:D-Ribulose 5-phosphate.)(text:Ru5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00199"
@@ -1039,7 +1039,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3615-55-2)(CID:77982)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:CHEBI:52742)(text:Ribose 5-phosphate)(text:D-Ribose 5-phosphate)(text:R5P)"
+      text "(CAS:63-38-7.)(CID:439167.)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:52742)(text:Ribose 5-phosphate.)(text:D-Ribose 5-phosphate.)(text:R5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00117"
@@ -1149,7 +1149,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -1212,7 +1212,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -1275,7 +1275,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3458-28-4)(CID:18950)(kegg:C00159)(InChi:WQZGKKKJIJFFOK-QTVWNMPRSA-N)(text:Mannose)(text:D-Mannose)"
+      text "(CAS:3458-28-4.)(CAS:31103-86-3.)(CID:18950.)(kegg:C00159)(InChi:WQZGKKKJIJFFOK-QTVWNMPRSA-N)(CHEBI:4208)(text:Mannose.)(text:D-Mannose.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00159"
@@ -1338,7 +1338,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:3909)(kegg:C00636)(InChi:HXXFSFRBOHSIMQ-RWOPYEJCSA-N)(CHEBI:CHEBI:18205)(text:Mannose 1-phosphate)(text:D-Mannose 1-phosphate)(text:M1P)"
+      text "(CAS:27251-84-9.)(CID:439279.)(kegg:C00636)(InChi:HXXFSFRBOHSIMQ-RWOPYEJCSA-N)(CHEBI:18205)(CHEBI:35374)(text:Mannose 1-phosphate.)(text:D-Mannose 1-phosphate.)(text:M1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00636"
@@ -1401,7 +1401,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:15978-08-02)(CID:65246)(kegg:C01094)(InChi:RHKKZBWRNHGJEZ-VRPWFDPXSA-N)(text:Fructose 1-phosphate)(text:D-Fructose 1-phosphate)(text:F1P)"
+      text "(CAS:15978-08-2.)(CID:439394.)(kegg:C01094)(InChi:RHKKZBWRNHGJEZ-VRPWFDPXSA-N)(CHEBI:37515)(text:Fructose 1-phosphate.)(text:D-Fructose 1-phosphate.)(text:F1P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01094"
@@ -1464,7 +1464,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:643-13-0)(CID:69507)(kegg:C00085)(InChi:BGWGXPAPYGQALX-VRPWFDPXSA-N)(CHEBI:CHEBI:61553)(text:Fructose 6-phosphate)(text:D-Fructose 6-phosphate)(text:F6P)"
+      text "(CAS:0132-06-9.)(CID:69507.)(kegg:C00085)(InChi:GSXOAOHZAIYLCY-HSUXUTPPSA-N)(CHEBI:61553)(text:Fructose 6-phosphate.)(text:D-Fructose 6-phosphate.)(text:F6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00085"
@@ -1527,7 +1527,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -1637,7 +1637,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:585-18-2)(CID:122357)(kegg:C00279)(InChi:NGHMDNPXVRFFGS-IUYQGCFVSA-N)(CHEBI:CHEBI:48153)(text:Erythrose 4-phosphate)(text:D-Erythrose 4-phosphate)(text:E4P)"
+      text "(CAS:585-18-2.)(CID:122357.)(kegg:C00279)(InChi:NGHMDNPXVRFFGS-IUYQGCFVSA-N)(CHEBI:48153)(text:Erythrose 4-phosphate.)(text:D-Erythrose 4-phosphate.)(text:E4P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00279"
@@ -1700,7 +1700,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3615-55-2)(CID:77982)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:CHEBI:52742)(text:Ribose 5-phosphate)(text:D-Ribose 5-phosphate)(text:R5P)"
+      text "(CAS:63-38-7.)(CID:439167.)(kegg:C00117)(InChi:KTVPXOYAKDPRHY-SOOFDHNKSA-N)(CHEBI:52742)(text:Ribose 5-phosphate.)(text:D-Ribose 5-phosphate.)(text:R5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00117"
@@ -1763,7 +1763,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60802-29-1)(CID:3530)(kegg:C00231)(InChi:FNZLKVNUWIIPSJ-RFZPGFLSSA-L)(CHEBI:CHEBI:57737)(text:Xu5P)(text:Xylu5P)(text:D-Xylulose 5-phosphate)(text:Xylulose 5-phosphate)(text:X5P)"
+      text "(CAS:4212-65-1.)(CID:439190.)(kegg:C00231)(InChi:FNZLKVNUWIIPSJ-RFZPGFLSSA-L)(CHEBI:16332)(text:Xu5P.)(text:Xylu5P.)(text:D-Xylulose 5-phosphate.)(text:Xylulose 5-phosphate.)(text:X5P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00231"
@@ -1826,7 +1826,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -1983,10 +1983,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3416-24-8)(CID:441477)(kegg:C08349)(kegg:C00329)(InChi:MSWZFWKMSRAUBD-QZABAPFNSA-N)(CHEBI:CHEBI:16261)(text:Glucosamine)(text:D-Glucosamine)"
+      text "(CAS:14257-69-3.)(CID:441477.)(kegg:C08349)(InChi:MSWZFWKMSRAUBD-QZABAPFNSA-N)(CHEBI:28393)(text:Glucosamine.)(text:D-Glucosamine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00329"
+    url "https://www.genome.jp/dbget-bin/www_bget?C08349"
   ]
   node [
     id 33
@@ -2093,7 +2093,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -2203,7 +2203,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -2266,7 +2266,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:488-69-7)(CID:172313)(kegg:C00354)(InChi:RNBGYGVWRKECFJ-VRPWFDPXSA-N)(text:Fructose 1,6-bisphosphate)(text:D-Fructose 1,6-bisphosphate)(text:FBP)"
+      text "(CAS:488-69-7.)(CID:172313.)(kegg:C00354)(InChi:RNBGYGVWRKECFJ-VRPWFDPXSA-N)(CHEBI:16905)(CHEBI:37736)(text:Fructose 1,6-bisphosphate.)(text:D-Fructose 1,6-bisphosphate.)(text:FBP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00354"
@@ -2423,7 +2423,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-35-7)(CID:165007)(kegg:C05382)(InChi:JDTUMPKOJBQPKX-GBNDHIKLSA-N)(CHEBI:CHEBI:15721)(text:Sedoheptulose 7-phosphate)(text:D-Sedoheputulose 7-phosphate)(text:S7P)"
+      text "(CAS:2646-35-7.)(CID:7756.)(kegg:C05382)(InChi:JDTUMPKOJBQPKX-GBNDHIKLSA-N)(CHEBI:15721)(text:Sedoheptulose 7-phosphate.)(text:D-Sedoheputulose 7-phosphate.)(text:S7P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05382"
@@ -2580,7 +2580,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:CHEBI:18012)(text:Fumaric acid)(text:Fum)(text:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -2784,7 +2784,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -2847,7 +2847,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -2910,7 +2910,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -2973,7 +2973,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1957/4/5)(CID:3411)(kegg:C00111)(InChi:GNGACRATGGDKBX-UHFFFAOYSA-N)(CHEBI:CHEBI:16108)(text:Dihydroxyacetone phosphate)(text:DHAP)"
+      text "(CAS:66-22-8.)(CAS:144104-68-7.)(CAS:42910-77-0.)(CAS:4433-21-0.)(CAS:4433-24-3.)(CAS:766-19-8.)(CAS:138285-60-6.)(CAS:153445-42-2.)(CAS:51953-19-6.)(CAS:24897-50-5.)(CID:3411.)(kegg:C00111)(InChi:GNGACRATGGDKBX-UHFFFAOYSA-N)(CHEBI:16108)(text:Dihydroxyacetone phosphate.)(text:DHAP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00111"
@@ -3036,7 +3036,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7664-38-2)(CID:1004)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:CHEBI:26078)(text:Phosphoric acid)"
+      text "(CAS:7664-38-2.)(CID:1004.)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:26078)(text:Phosphoric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00009"
@@ -3099,7 +3099,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0142-10-9)(CID:729)(kegg:C00118)(InChi:LXJXRIRHZLFYRP-VKHMYHEASA-N)(CHEBI:CHEBI:29052)(text:Glyceraldehyde 3-phosphate)(text:GAP)(text:DL-Glyceraldehyde 3-phosphate)"
+      text "(CAS:62-49-7.)(CAS:139741-81-4.)(CAS:2087491-45-8.)(CAS:5413-08-1.)(CID:729.)(kegg:C00118)(InChi:LXJXRIRHZLFYRP-VKHMYHEASA-N)(CHEBI:29052)(text:Glyceraldehyde 3-phosphate.)(text:GAP.)(text:DL-Glyceraldehyde 3-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00118"
@@ -3162,7 +3162,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -3272,7 +3272,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -3335,7 +3335,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:CHEBI:17115)(text:Serine)(text:L-Serine)(text:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -3398,7 +3398,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:38168-82-0)(CID:683)(kegg:C00236)(InChi:LJQLQCAXBUHEAZ-UWTATZPHSA-N)(CHEBI:CHEBI:16001)(text:1,3-Bisphosphoglyceric acid)"
+      text "(CAS:38168-82-0.)(CID:439191.)(kegg:C00236)(InChi:LJQLQCAXBUHEAZ-UWTATZPHSA-N)(CHEBI:16001)(text:1,3-Bisphosphoglyceric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00236"
@@ -3461,7 +3461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -3524,7 +3524,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:135-16-0)(CID:3401)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:CHEBI:20506)(text:CH2-THF)(text:Tetrahydrofolic acid)"
+      text "(CAS:27576-49-4.)(CAS:3123-67-9.)(CAS:18441-12-8.)(CAS:7227-60-3.)(CAS:20236-92-4.)(CAS:90191-82-5.)(CAS:29698-71-3.)(CID:3401.)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:20506)(text:CH2-THF.)(text:Tetrahydrofolic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00101"
@@ -3587,7 +3587,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -3650,7 +3650,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-85-5)(CID:171548)(kegg:C00120)(InChi:YBJHBAHKTGYVGT-ZKWXMUAHSA-N)(CHEBI:CHEBI:15956)(text:Biotin)"
+      text "(CAS:3615-55-2.)(CID:171548.)(kegg:C00120)(InChi:YBJHBAHKTGYVGT-ZKWXMUAHSA-N)(CHEBI:15956)(text:Biotin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00120"
@@ -3713,7 +3713,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -3776,7 +3776,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -3839,7 +3839,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:123-31-9)(CID:785)(kegg:C00530)(InChi:QIGBRXMKCJKVMJ-UHFFFAOYSA-N)(CHEBI:CHEBI:17594)(text:Hydroquinone)"
+      text "(CAS:123-31-9.)(CID:785.)(kegg:C00530)(InChi:QIGBRXMKCJKVMJ-UHFFFAOYSA-N)(CHEBI:17594)(text:Hydroquinone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00530"
@@ -3902,7 +3902,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -3965,7 +3965,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -4028,7 +4028,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -4091,7 +4091,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -4154,7 +4154,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -4217,7 +4217,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:407-41-0)(CID:7059387)(kegg:C01005)(InChi:BZQFBWGGLXLEPQ-REOHCLBHSA-N)(CHEBI:CHEBI:15811)(text:O-Phospho-Serine)(text:Phosphoserine)(text:O-Phospho-L-serine)(text:O-Phospho-Ser)"
+      text "(CAS:407-41-0.)(CID:68841.)(kegg:C01005)(InChi:BZQFBWGGLXLEPQ-REOHCLBHSA-N)(CHEBI:15811)(text:O-Phospho-Serine.)(text:Phosphoserine.)(text:O-Phospho-L-serine.)(text:O-Phospho-Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01005"
@@ -4280,7 +4280,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-87-0)(CID:1052)(kegg:C00534)(InChi:NHZMQXZHNVQTQA-UHFFFAOYSA-N)(CHEBI:CHEBI:16410)(text:Pyridoxamine)"
+      text "(CAS:85-87-0.)(CID:1052.)(kegg:C00534)(InChi:NHZMQXZHNVQTQA-UHFFFAOYSA-N)(CHEBI:16410)(text:Pyridoxamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00534"
@@ -4343,7 +4343,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3913-50-6)(CID:6103)(kegg:C03232)(InChi:LFLUCDOSQPJJBE-UHFFFAOYSA-N)(CHEBI:CHEBI:30933)(text:3-Phosphohydroxypyruvate)"
+      text "(CAS:3913-50-6.)(CID:105.)(kegg:C03232)(InChi:LFLUCDOSQPJJBE-UHFFFAOYSA-N)(CHEBI:30933)(text:3-Phosphohydroxypyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03232"
@@ -4406,7 +4406,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:439278)(kegg:C00631)(kegg:C00597)(InChi:GXIURPTVHJPJLF-UWTATZPHSA-N)(CHEBI:CHEBI:17835)(text:3-Phosphoglyceric acid_2-Phosphoglyceric acid)"
+      text "(CAS:0820-11-1.)(CID:439278.)(kegg:C00631)(kegg:C00597)(InChi:GXIURPTVHJPJLF-UWTATZPHSA-N)(CHEBI:17835)(CHEBI:17050)(text:3-Phosphoglyceric acid_2-Phosphoglyceric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00597"
@@ -4469,7 +4469,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0820-11-1)(CID:724)(kegg:C00197)(kegg:C00597)(InChi:OSJPPGNTCRNQQC-UWTATZPHSA-N)(CHEBI:CHEBI:17794)(text:3-Phosphoglyceric acid)(text:3-Phospho-D-glyceric acid)(text:3-PGA)(text:3PG)"
+      text "(CAS:0820-11-1.)(CID:724.)(kegg:C00197)(kegg:C00597)(InChi:OSJPPGNTCRNQQC-UWTATZPHSA-N)(CHEBI:17794)(text:3-Phosphoglyceric acid.)(text:3-Phospho-D-glyceric acid.)(text:3-PGA.)(text:3PG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00597"
@@ -4532,7 +4532,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -4595,7 +4595,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-17-8)(CID:643976)(kegg:C00061)(InChi:FVTCRASFADXXNN-SCRDCRAPSA-N)(CHEBI:CHEBI:17621)(text:FMN)(text:Flavin mononucleotide)"
+      text "(CAS:146-17-8.)(CID:643976.)(kegg:C00061)(InChi:FVTCRASFADXXNN-SCRDCRAPSA-N)(CHEBI:17621)(text:FMN.)(text:Flavin mononucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00061"
@@ -4658,7 +4658,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-23-6)(CID:1054)(kegg:C00314)(InChi:LXNHXLLTXMVWPM-UHFFFAOYSA-N)(CHEBI:CHEBI:16709)(text:Pyridoxine)"
+      text "(CAS:65-23-6.)(CID:1054.)(kegg:C00314)(InChi:LXNHXLLTXMVWPM-UHFFFAOYSA-N)(CHEBI:16709)(text:Pyridoxine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00314"
@@ -4721,7 +4721,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:79-83-4)(CID:6613)(kegg:C00864)(InChi:GHOKWGTUZJEAQD-ZETCQYMHSA-N)(text:Pantothenic acid)(text:Pantothenate)"
+      text "(CAS:79-83-4.)(CID:6613.)(kegg:C00864)(InChi:GHOKWGTUZJEAQD-UHFFFAOYSA-N)(CHEBI:7916)(text:Pantothenic acid.)(text:Pantothenate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00864"
@@ -4784,7 +4784,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:CHEBI:15996)(text:GTP)(text:Guanosine triphosphate)(text:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -4847,7 +4847,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1200-22-2)(CID:6112)(kegg:C16241)(InChi:AGBQKNBQESQNJD-SSDOTTSWSA-N)(CHEBI:CHEBI:30314)(text:Lipoic acid)"
+      text "(CAS:1200-22-2.)(CID:6112.)(kegg:C16241)(InChi:AGBQKNBQESQNJD-SSDOTTSWSA-N)(CHEBI:30314)(text:Lipoic acid.)(text:[R]-Lipoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C16241"
@@ -4910,7 +4910,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2553-59-5)(CID:59)(kegg:C00631)(InChi:GXIURPTVHJPJLF-UHFFFAOYSA-N)(CHEBI:CHEBI:24344)(text:2-Phosphoglyceric acid)(text:2PG)(text:2-Phospho-D-glyceric acid)(text:2-PGA)"
+      text "(CAS:2553-59-5.)(CID:59.)(kegg:C00631)(InChi:GXIURPTVHJPJLF-UHFFFAOYSA-N)(CHEBI:17835)(text:2-Phosphoglyceric acid.)(text:2PG.)(text:2-Phospho-D-glyceric acid.)(text:2-PGA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00631"
@@ -4973,7 +4973,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -5036,7 +5036,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:CHEBI:17552)(text:GDP)(text:Guanosine diphosphate)(text:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -5099,7 +5099,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-47-4)(CID:6176)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:CHEBI:17677)(text:CTP)(text:Cytidine triphosphate)(text:Cytidine 5'-triphosphate)"
+      text "(CAS:65-47-4.)(CAS:1259312-99-6.)(CAS:1613528-28-1.)(CID:6176.)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:17677)(text:CTP.)(text:Cytidine triphosphate.)(text:Cytidine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00063"
@@ -5162,7 +5162,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -5225,7 +5225,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:25191-14-4)(CID:6804)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:CHEBI:17345)(text:GMP)(text:Guanosine monophosphate)(text:Guanosine 5'-monophosphate)"
+      text "(CAS:85-32-5.)(CID:135398631.)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:17345)(text:GMP.)(text:Guanosine monophosphate.)(text:Guanosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00144"
@@ -5288,7 +5288,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0365-08-02)(CID:64968)(kegg:C00459)(InChi:NHVNXKFIZYSCEB-XLPZGREQSA-N)(CHEBI:CHEBI:18077)(text:TTP)(text:Thymidine triphosphate)(text:Deoxythymidine 5'-triphosphate)(text:dTTP)"
+      text "(CAS:365-08-2.)(CID:64968.)(kegg:C00459)(InChi:NHVNXKFIZYSCEB-XLPZGREQSA-N)(CHEBI:18077)(text:dTTP.)(text:Deoxythymidine triphosphate.)(text:Deoxythymidine 5d-triphosphate.)(text:TTP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00459"
@@ -5351,7 +5351,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:34393-59-4)(CID:6132)(kegg:C00112)(InChi:ZWIADYZPOWUWEW-XVFCMESISA-N)(CHEBI:CHEBI:17239)(text:CDP)(text:Cytidine diphosphate)(text:Cytidine 5'-diphosphate)"
+      text "(CAS:118-92-3.)(CAS:80206-34-4.)(CAS:1321-11-5.)(CID:6132.)(kegg:C00112)(InChi:ZWIADYZPOWUWEW-XVFCMESISA-N)(CHEBI:17239)(text:CDP.)(text:Cytidine diphosphate.)(text:Cytidine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00112"
@@ -5414,7 +5414,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:CHEBI:15713)(text:UTP)(text:Uridine triphosphate)(text:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -5477,7 +5477,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0138-08-09)(CID:1005)(kegg:C00074)(InChi:DTBNBXWJWCWCIK-UHFFFAOYSA-N)(text:Phosphoenolpyruvic acid)(text:PEP)"
+      text "(CAS:1428525-25-0.)(CAS:1703051-92-6.)(CAS:6730-29-6.)(CAS:53262-66-1.)(CID:1005.)(kegg:C00074)(InChi:DTBNBXWJWCWCIK-UHFFFAOYSA-N)(CHEBI:44897)(text:Phosphoenolpyruvic acid.)(text:PEP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00074"
@@ -5540,7 +5540,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -5603,7 +5603,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:CHEBI:16027)(text:AMP)(text:Adenosine monophosphate)(text:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -5666,7 +5666,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7665-99-8)(CID:24316)(kegg:C00942)(InChi:ZOOGRGPOEVQQDX-UUOKFMHZSA-N)(CHEBI:CHEBI:16356)(text:cGMP)(text:Guanosine 3',5'-cyclic monophosphate)"
+      text "(CAS:7665-99-8.)(CID:135398570.)(kegg:C00942)(InChi:ZOOGRGPOEVQQDX-UUOKFMHZSA-N)(CHEBI:16356)(text:cGMP.)(text:Guanosine 3d,5d-cyclic monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00942"
@@ -5717,22 +5717,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:491-97-4)(CID:164628)(kegg:C00363)(InChi:UJLXYODCHAELLY-XLPZGREQSA-N)(CHEBI:CHEBI:18075)(text:TDP)(text:Thymidine diphosphate)(text:Deoxythymidine 5'-diphosphate)(text:dTDP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00363"
   ]
   node [
     id 95
@@ -5792,7 +5776,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:26628-47-7)(CID:6131)(kegg:C00055)(InChi:IERHLVCPSMICTF-XVFCMESISA-N)(CHEBI:CHEBI:17361)(text:CMP)(text:Cytidine monophosphate)(text:Cytidine-5'-monophosphate)"
+      text "(CAS:63-37-6.)(CAS:162756-87-8.)(CAS:55679-92-0.)(CAS:293738-08-6.)(CAS:690254-82-1.)(CAS:30811-80-4.)(CID:6131.)(kegg:C00055)(InChi:IERHLVCPSMICTF-XVFCMESISA-N)(CHEBI:17361)(text:CMP.)(text:Cytidine monophosphate.)(text:Cytidine-5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00055"
@@ -5843,22 +5827,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:491-97-4)(CID:164628)(kegg:C00363)(InChi:UJLXYODCHAELLY-XLPZGREQSA-N)(CHEBI:CHEBI:18075)(text:TDP)(text:Thymidine diphosphate)(text:Deoxythymidine 5'-diphosphate)(text:dTDP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00363"
   ]
   node [
     id 97
@@ -5918,7 +5886,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -5981,7 +5949,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -6044,7 +6012,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -6107,7 +6075,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-92-4)(CID:6076)(kegg:C00575)(InChi:IVOMOUWHDPKRLL-KQYNXXCUSA-N)(CHEBI:CHEBI:17489)(text:cAMP)(text:Adenosine 3',5'-cyclic monophosphate)"
+      text "(CAS:60-92-4.)(CID:6076.)(kegg:C00575)(InChi:IVOMOUWHDPKRLL-KQYNXXCUSA-N)(CHEBI:17489)(text:cAMP.)(text:Adenosine 3d,5d-cyclic monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00575"
@@ -6158,22 +6126,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0365-07-01)(CID:9700)(kegg:C00364)(InChi:GYOZYWVXFNDGLU-XLPZGREQSA-N)(CHEBI:CHEBI:17013)(text:TMP)(text:Thymidine monophosphate)(text:Deoxythymidine 5'-monophosphate)(text:dTMP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00364"
   ]
   node [
     id 102
@@ -6233,9 +6185,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:#######)(CID:151152)(InChi:JPIJQSOTBSSVTP-GBXIJSLDSA-N)(CHEBI:CHEBI:49059)(text:cCMP)"
+      text "(CAS:3616-08-8.)(CID:4193.)(kegg:C00941)(InChi:WCPTXJJVVDAEMW-XVFCMESISA-N)(CHEBI:17065)(text:cCMP.)"
       type "text"
     ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00941"
   ]
   node [
     id 103
@@ -6295,7 +6248,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-97-9)(CID:6030)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:CHEBI:16695)(text:UMP)(text:Uridine monophosphate)(text:Uridine 5'-monophosphate)"
+      text "(CAS:135-16-0.)(CID:6030.)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:16695)(text:UMP.)(text:Uridine monophosphate.)(text:Uridine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00105"
@@ -6358,7 +6311,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:302-72-7)(CID:602)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-REOHCLBHSA-N)(CHEBI:CHEBI:16977)(text:Alanine)(text:Ala)"
+      text "(CAS:302-72-7.)(CAS:338-69-2.)(CAS:56-41-8.)(CID:602.)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-UHFFFAOYSA-N)(CHEBI:16977)(text:Alanine.)(text:Ala.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00041"
@@ -6421,7 +6374,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:CHEBI:32816)(text:Pyruvic acid)(text:Pyruvate)(text:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -6484,7 +6437,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -6547,7 +6500,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -6610,7 +6563,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:79-33-4)(CID:107689)(kegg:C00186)(InChi:JVTAAEKCZFNVCJ-REOHCLBHSA-N)(CHEBI:CHEBI:422)(text:Lactic acid)(text:Lac)"
+      text "(CAS:79-33-4.)(CID:107689.)(kegg:C00186)(InChi:JVTAAEKCZFNVCJ-REOHCLBHSA-N)(CHEBI:16651)(CHEBI:422)(text:Lactic acid.)(text:Lac.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00186"
@@ -6767,7 +6720,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:CHEBI:15346)(text:CoA)(text:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -6830,7 +6783,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:CHEBI:32816)(text:Pyruvic acid)(text:Pyruvate)(text:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -6893,7 +6846,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -6956,7 +6909,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -7019,7 +6972,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -7129,7 +7082,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -7192,7 +7145,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:CHEBI:15351)(text:Acetyl coenzyme A)(text:AcetylCOA)(text:Acetyl-Coenzyme A)(text:Ace-CoA)(text:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -7255,7 +7208,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:CHEBI:15346)(text:CoA)(text:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -7318,7 +7271,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:CHEBI:16027)(text:AMP)(text:Adenosine monophosphate)(text:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -7381,7 +7334,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -7444,7 +7397,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -7507,7 +7460,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -7570,7 +7523,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -7633,7 +7586,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -7696,7 +7649,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-47-3)(CID:6267)(kegg:C00152)(InChi:DCXYFEDJOCDNAF-REOHCLBHSA-N)(CHEBI:CHEBI:17196)(text:Asparagine)(text:Asn)"
+      text "(CAS:70-47-3.)(CID:6267.)(kegg:C00152)(InChi:DCXYFEDJOCDNAF-REOHCLBHSA-N)(CHEBI:17196)(text:Asparagine.)(text:Asn.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00152"
@@ -7759,7 +7712,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -7822,7 +7775,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -7885,7 +7838,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -7995,7 +7948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:77-92-9)(CID:311)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:CHEBI:30769)(text:Citric acid)(text:Citrate)(text:Cit)"
+      text "(CAS:77-92-9.)(CID:311.)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:16947)(CHEBI:30769)(text:Citric acid.)(text:Citrate.)(text:Cit.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00158"
@@ -8058,7 +8011,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:77-92-9)(CID:311)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:CHEBI:30769)(text:Citric acid)(text:Citrate)(text:Cit)"
+      text "(CAS:77-92-9.)(CID:311.)(kegg:C00158)(InChi:KRKNYBCHXYNGOX-UHFFFAOYSA-N)(CHEBI:16947)(CHEBI:30769)(text:Citric acid.)(text:Citrate.)(text:Cit.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00158"
@@ -8168,7 +8121,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -8231,7 +8184,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-42-7)(CID:970)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(text:Oxalacetic acid)(text:Oxaloacetate)(text:Oxaloacetic acid)(text:OAA)"
+      text "(CAS:328-42-7.)(CID:970.)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(CHEBI:30744)(text:Oxalacetic acid.)(text:Oxaloacetate.)(text:OAA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00036"
@@ -8294,7 +8247,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -8357,7 +8310,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -8420,7 +8373,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:CHEBI:30797)(text:Malic acid)(text:Mal)(text:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -8483,7 +8436,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -8546,7 +8499,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4023-65-8)(CAS:585-84-2)(CID:643757)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:CHEBI:32805)(text:cis-aconitate)(text:Aconitic acid)"
+      text "(CAS:585-84-2.)(CID:643757.)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:16383)(CHEBI:32805)(text:cis-aconitate.)(text:Aconitic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00417"
@@ -8609,7 +8562,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4023-65-8)(CAS:585-84-2)(CID:643757)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:CHEBI:32805)(text:cis-aconitate)(text:Aconitic acid)"
+      text "(CAS:585-84-2.)(CID:643757.)(kegg:C00417)(InChi:GTZCVFVGUGFEME-IWQZZHSRSA-N)(CHEBI:16383)(CHEBI:32805)(text:cis-aconitate.)(text:Aconitic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00417"
@@ -8672,7 +8625,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:CHEBI:15351)(text:Acetyl coenzyme A)(text:AcetylCOA)(text:Acetyl-Coenzyme A)(text:Ace-CoA)(text:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -8735,7 +8688,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:CHEBI:30797)(text:Malic acid)(text:Mal)(text:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -8798,7 +8751,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:541-50-4)(CID:3534)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:CHEBI:15344)(text:Acetoacetic acid)"
+      text "(CAS:541-50-4.)(CID:96.)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:13705)(CHEBI:15344)(text:Acetoacetic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00164"
@@ -8861,7 +8814,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:CHEBI:18012)(text:Fumaric acid)(text:Fum)(text:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -8924,7 +8877,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:320-77-4)(CID:1198)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:CHEBI:30887)(text:Isocitric acid)(text:IsoCit)(text:Isocitrate)"
+      text "(CAS:320-77-4.)(CID:1198.)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:16087)(CHEBI:30887)(text:Isocitric acid.)(text:IsoCit.)(text:Isocitrate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00311"
@@ -8987,7 +8940,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -9050,7 +9003,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1553-55-5)(CID:3649)(kegg:C00356)(InChi:CABVTRNMFUVUDM-VRHQGPGLSA-N)(CHEBI:CHEBI:15467)(text:HMG-CoA)(text:3-Hydroxy-3-methylglutaryl-CoA)"
+      text "(CAS:1553-55-5.)(CID:445127.)(kegg:C00356)(InChi:CABVTRNMFUVUDM-VRHQGPGLSA-N)(CHEBI:15467)(text:HMG-CoA.)(text:3-Hydroxy-3-methylglutaryl-CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00356"
@@ -9113,7 +9066,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:503-49-1)(CID:1662)(kegg:C03761)(InChi:NPOAOTPXWNWTSH-UHFFFAOYSA-N)(CHEBI:CHEBI:16831)(text:3-Hydroxy-3-methylglutaric acid)"
+      text "(CAS:503-49-1.)(CID:1662.)(kegg:C03761)(InChi:NPOAOTPXWNWTSH-UHFFFAOYSA-N)(CHEBI:16831)(text:3-Hydroxy-3-methylglutaric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03761"
@@ -9176,7 +9129,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -9239,7 +9192,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -9302,7 +9255,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:320-77-4)(CID:1198)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:CHEBI:30887)(text:Isocitric acid)(text:IsoCit)(text:Isocitrate)"
+      text "(CAS:320-77-4.)(CID:1198.)(kegg:C00311)(InChi:ODBLHEXUDAPZAU-UHFFFAOYSA-N)(CHEBI:16087)(CHEBI:30887)(text:Isocitric acid.)(text:IsoCit.)(text:Isocitrate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00311"
@@ -9365,7 +9318,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -9416,6 +9369,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CAS:56275-39-9.)(CID:3680.)(kegg:C00390)(CHEBI:ChEBI:17976)(text:QH2.)(text:Ubiquinol.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00390"
   ]
   node [
     id 155
@@ -9463,6 +9432,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CAS:1339-63-5.)(CID:3689.)(kegg:C00399)(InChi:SQQWBSBBCSFQGC-UHFFFAOYSA-N)(CHEBI:ChEBI:16389)(text:Q.)(text:Ubiquinone.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C00399"
   ]
   node [
     id 156
@@ -9522,7 +9507,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-15-6)(CID:1110)(kegg:C00042)(InChi:KDYFGRWQOYBRFD-UHFFFAOYSA-N)(CHEBI:CHEBI:15741)(text:Succinic acid)(text:Suc)(text:Succinate)"
+      text "(CAS:110-15-6.)(CAS:623158-99-6.)(CAS:2087491-34-5.)(CID:1110.)(kegg:C00042)(InChi:KDYFGRWQOYBRFD-UHFFFAOYSA-N)(CHEBI:15741)(text:Succinic acid.)(text:Suc.)(text:Succinate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00042"
@@ -9585,7 +9570,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:CHEBI:15346)(text:CoA)(text:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -9648,7 +9633,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:604-98-8)(CID:92133)(kegg:C00091)(InChi:VNOYUJKHFWYWIR-ITIYDSSPSA-N)(CHEBI:CHEBI:15380)(text:Succinyl coenzyme A)(text:Succinyl-CoA)(text:Suc-CoA)(text:SuccinylCoA)"
+      text "(CAS:57-13-6.)(CAS:30535-50-3.)(CAS:860639-56-1.)(CAS:118548-06-4.)(CAS:1202865-46-0.)(CAS:1228376-38-2.)(CAS:1637232-71-3.)(CAS:2060607-07-8.)(CAS:923953-70-2.)(CAS:4744-36-9.)(CAS:173994-65-5.)(CAS:174693-33-5.)(CAS:173144-80-4.)(CAS:175276-38-7.)(CAS:37955-36-5.)(CID:92133.)(kegg:C00091)(InChi:VNOYUJKHFWYWIR-ITIYDSSPSA-N)(CHEBI:15380)(text:Succinyl coenzyme A.)(text:Succinyl-CoA.)(text:Suc-CoA.)(text:SuccinylCoA.)(text:Succinyl CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00091"
@@ -9711,7 +9696,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:CHEBI:15346)(text:CoA)(text:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -9774,7 +9759,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -9837,7 +9822,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -9900,7 +9885,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -9963,7 +9948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -10026,7 +10011,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:4374)(kegg:C01143)(InChi:SIGQQUBJQXSAMW-ZCFIWIBFSA-N)(CHEBI:CHEBI:15899)(text:Mevalonate pyrophosphate)"
+      text "(CID:439418.)(kegg:C01143)(InChi:SIGQQUBJQXSAMW-ZCFIWIBFSA-N)(CHEBI:15899)(text:Mevalonate pyrophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01143"
@@ -10089,7 +10074,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:CHEBI:15996)(text:GTP)(text:Guanosine triphosphate)(text:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -10152,7 +10137,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:CHEBI:17552)(text:GDP)(text:Guanosine diphosphate)(text:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -10215,7 +10200,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -10278,7 +10263,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -10341,7 +10326,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -10404,7 +10389,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -10467,7 +10452,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -10530,7 +10515,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:358-71-4)(CID:3429)(kegg:C00129)(InChi:NUHSROFQTUXZQQ-UHFFFAOYSA-N)(CHEBI:CHEBI:16584)(text:IPP)(text:Isopentenyl diphosphate)(text:)"
+      text "(CAS:61-90-5.)(CAS:7005-03-0.)(CAS:21675-61-6.)(CAS:25248-98-0.)(CAS:71000-80-1.)(CID:1195.)(kegg:C00129)(InChi:NUHSROFQTUXZQQ-UHFFFAOYSA-N)(CHEBI:16584)(text:IPP.)(text:Isopentenyl diphosphate.)(text:.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00129"
@@ -10593,7 +10578,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13095-48-2)(CID:439939)(kegg:C03196)(InChi:HWXBTNAVRSUOJR-VKHMYHEASA-N)(CHEBI:CHEBI:32797)(text:2-Hydroxyglutaric acid)"
+      text "(CAS:13095-48-2.)(CID:439939.)(kegg:C03196)(InChi:HWXBTNAVRSUOJR-VKHMYHEASA-N)(CHEBI:32797)(text:2-Hydroxyglutaric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03196"
@@ -10656,7 +10641,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -10719,7 +10704,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -10782,7 +10767,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:7664-38-2)(CID:1004)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:CHEBI:26078)(text:Phosphoric acid)"
+      text "(CAS:7664-38-2.)(CID:1004.)(kegg:C00009)(InChi:NBIIXXVUZAFLBC-UHFFFAOYSA-N)(CHEBI:26078)(text:Phosphoric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00009"
@@ -10845,7 +10830,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-14-5)(CID:643975)(kegg:C00016)(InChi:VWWQXMAJTJZDQX-UYBVJOGSSA-N)(CHEBI:CHEBI:16238)(text:FAD)(text:Flavin adenine dinucleotide)"
+      text "(CAS:146-14-5.)(CID:643975.)(kegg:C00016)(InChi:VWWQXMAJTJZDQX-UYBVJOGSSA-N)(CHEBI:16238)(text:FAD.)(text:Flavin adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00016"
@@ -10908,7 +10893,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:66-72-8)(CID:1050)(kegg:C00250)(InChi:RADKZDMFGJYCBB-UHFFFAOYSA-N)(CHEBI:CHEBI:17310)(text:Pyridoxal)"
+      text "(CAS:66-72-8.)(CID:1050.)(kegg:C00250)(InChi:RADKZDMFGJYCBB-UHFFFAOYSA-N)(CHEBI:17310)(text:Pyridoxal.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00250"
@@ -10971,7 +10956,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:CHEBI:15428)(text:Glycine)(text:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -11034,7 +11019,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:150-97-0)(CID:3708)(kegg:C00418)(InChi:KJTLQQUUPVSXIM-ZCFIWIBFSA-N)(CHEBI:CHEBI:17710)(text:Mevalonate)"
+      text "(CAS:17817-88-8.)(CID:439230.)(kegg:C00418)(InChi:KJTLQQUUPVSXIM-ZCFIWIBFSA-N)(CHEBI:17710)(CHEBI:36464)(text:Mevalonate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00418"
@@ -11097,7 +11082,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:CHEBI:67040)(text:SAM)(text:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -11160,7 +11145,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:81-25-4)(CID:221493)(kegg:C00695)(InChi:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(CHEBI:CHEBI:16359)(HMDB:HMDB0000619)(text:CA)(text:Cholic acid)(text:Cholate)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol)"
+      text "(CAS:81-25-4.)(CID:221493.)(kegg:C00695)(InChi:BHQCQFFYRZLCQQ-OELDTZBJSA-N)(CHEBI:16359)(HMDB:HMDB0000619)(text:CA.)(text:Cholic acid.)(text:Cholate.)(text:5beta-cholanic acid-3alpha,7alpha,12alpha-triol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00695"
@@ -11223,7 +11208,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:358-72-5)(kegg:C00235)(InChi:CBIDRCWHNCKSTO-UHFFFAOYSA-N)(CHEBI:CHEBI:16057)(text:DMAPP)(text:Dimethylallyl diphosphate)"
+      text "(CAS:358-72-5.)(CID:647.)(kegg:C00235)(InChi:CBIDRCWHNCKSTO-UHFFFAOYSA-N)(CHEBI:16057)(text:DMAPP.)(text:Dimethylallyl diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00235"
@@ -11333,7 +11318,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-88-5)(CID:5997)(kegg:C00187)(InChi:HVYWMOMLDIMFJA-DPAQBDIFSA-N)(CHEBI:CHEBI:16113)(text:Cholesterol)"
+      text "(CAS:57-88-5.)(CID:5997.)(kegg:C00187)(InChi:HVYWMOMLDIMFJA-DPAQBDIFSA-N)(CHEBI:16113)(text:Cholesterol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00187"
@@ -11396,7 +11381,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -11459,7 +11444,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:CHEBI:15428)(text:Glycine)(text:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -11522,7 +11507,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:#######)(CID:668)(kegg:C00334)(InChi:BTCSSZJGUNDROE-UHFFFAOYSA-N)(CHEBI:CHEBI:16865)(text:GABA)(text:4-Aminobutyric acid)(text:Gamma-Aminobutyric acid)"
+      text "(CAS:56-12-2.)(CID:119.)(kegg:C00334)(InChi:BTCSSZJGUNDROE-UHFFFAOYSA-N)(CHEBI:16865)(CHEBI:30566)(text:GABA.)(text:4-Aminobutyric acid.)(text:Gamma-Aminobutyric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00334"
@@ -11585,7 +11570,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:CHEBI:16027)(text:AMP)(text:Adenosine monophosphate)(text:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -11648,7 +11633,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -11711,7 +11696,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-60-1)(CID:1045)(kegg:C00134)(InChi:KIDHWZJUCRJVML-UHFFFAOYSA-N)(CHEBI:CHEBI:17148)(text:Putrescine)"
+      text "(CAS:358-71-4.)(CID:1045.)(kegg:C00134)(InChi:KIDHWZJUCRJVML-UHFFFAOYSA-N)(CHEBI:17148)(text:Putrescine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00134"
@@ -11774,7 +11759,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-35-4)(CID:5810)(kegg:C01157)(InChi:PMMYEEVYMWASQN-DMTCNVIQSA-N)(CHEBI:CHEBI:18095)(text:4-Hydroxyproline)"
+      text "(CAS:51-35-4.)(CID:5810.)(kegg:C01157)(InChi:PMMYEEVYMWASQN-DMTCNVIQSA-N)(CHEBI:18095)(text:4-Hydroxyproline.)(text:Hydroxyproline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01157"
@@ -11837,7 +11822,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -11900,7 +11885,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -11963,7 +11948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:22365-13-5)(CID:4368)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:CHEBI:15625)(text:Deoxy-SAM)(text:S-Adenosylmethioninamine)"
+      text "(CAS:22365-13-5.)(CID:439415.)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:15625)(text:Deoxy-SAM.)(text:S-Adenosylmethioninamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01137"
@@ -12120,7 +12105,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13254-53-0)(CID:6144)(kegg:C03287)(InChi:PJRXVIJAERNUIP-VKHMYHEASA-N)(CHEBI:CHEBI:17798)(text:gamma-Glutamyl-5-phosphate)(text:L-Glutamyl 5-phosphate)"
+      text "(CAS:13254-53-0.)(CID:193475.)(kegg:C03287)(InChi:PJRXVIJAERNUIP-VKHMYHEASA-N)(CHEBI:17798)(text:gamma-Glutamyl-5-phosphate.)(text:L-Glutamyl 5-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03287"
@@ -12183,7 +12168,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-26-8)(CID:6262)(kegg:C00077)(InChi:AHLPHDHHMVZTML-BYPYZUCNSA-N)(CHEBI:CHEBI:15729)(text:Ornithine)(text:Ornitine)(text:L-Ornithine)(text:Orn)"
+      text "(CAS:138-08-09.)(CAS:101015-20-7.)(CAS:53230-12-9.)(CAS:80206-33-3.)(CAS:1309961-12-3.)(CAS:923-14-8.)(CID:6262.)(kegg:C00077)(InChi:AHLPHDHHMVZTML-BYPYZUCNSA-N)(CHEBI:15729)(text:Ornithine.)(text:Ornitine.)(text:L-Ornithine.)(text:Orn.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00077"
@@ -12246,7 +12231,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -12356,7 +12341,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:74-79-3)(CID:6322)(kegg:C00062)(InChi:ODKSFYDXXFIFQN-BYPYZUCNSA-N)(CHEBI:CHEBI:16467)(text:Arginine)(text:L-Arginine)(text:Arg)"
+      text "(CAS:74-79-3.)(CAS:142-49-4.)(CAS:7004-12-8.)(CAS:667422-95-9.)(CAS:1332377-47-5.)(CAS:154605-63-7.)(CAS:154605-67-1.)(CAS:4455-52-1.)(CAS:25212-18-4.)(CID:6322.)(kegg:C00062)(InChi:ODKSFYDXXFIFQN-BYPYZUCNSA-N)(CHEBI:16467)(text:Arginine.)(text:L-Arginine.)(text:Arg.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00062"
@@ -12419,7 +12404,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-27-5)(CID:588)(kegg:C00791)(InChi:DDRJAANPRJIHGJ-UHFFFAOYSA-N)(CHEBI:CHEBI:16737)(text:Creatinine)"
+      text "(CAS:60-27-5.)(CID:588.)(kegg:C00791)(InChi:DDRJAANPRJIHGJ-UHFFFAOYSA-N)(CHEBI:16737)(text:Creatinine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00791"
@@ -12482,7 +12467,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:147-85-3)(CID:145742)(kegg:C00148)(InChi:ONIBWKKTOPOVIA-BYPYZUCNSA-N)(CHEBI:CHEBI:17203)(text:Proline)(text:L-Proline)(text:Pro)"
+      text "(CAS:147-85-3.)(CID:145742.)(kegg:C00148)(InChi:ONIBWKKTOPOVIA-BYPYZUCNSA-N)(CHEBI:17203)(text:Proline.)(text:L-Proline.)(text:Pro.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00148"
@@ -12545,7 +12530,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -12608,7 +12593,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -12671,7 +12656,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-00-1)(CID:586)(kegg:C00300)(InChi:CVSVTCORWBXHQV-UHFFFAOYSA-N)(CHEBI:CHEBI:16919)(text:Creatine)"
+      text "(CAS:57-00-1.)(CID:586.)(kegg:C00300)(InChi:CVSVTCORWBXHQV-UHFFFAOYSA-N)(CHEBI:16919)(text:Creatine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00300"
@@ -12734,7 +12719,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -12797,7 +12782,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2387-71-5)(CID:16950)(kegg:C03406)(InChi:KDZOASGQNOPSCU-WDSKDSINSA-N)(text:Argininosuccinic acid)(text:L-Argininosuccinate)(text:Argininosuccinate)"
+      text "(CAS:2387-71-5.)(CID:16950.)(kegg:C03406)(InChi:KDZOASGQNOPSCU-WDSKDSINSA-N)(text:Argininosuccinic acid.)(text:L-Argininosuccinate.)(text:Argininosuccinate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03406"
@@ -12860,7 +12845,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -12970,7 +12955,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -13033,7 +13018,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:CHEBI:18012)(text:Fumaric acid)(text:Fum)(text:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -13096,7 +13081,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:57-13-6)(CID:1176)(kegg:C00086)(InChi:XSQUKJJJFZCRTK-UHFFFAOYSA-N)(CHEBI:CHEBI:16199)(text:Urea)"
+      text "(CAS:60-18-4.)(CAS:140-43-2.)(CAS:1991-85-1.)(CAS:46209-14-7.)(CAS:55520-40-6.)(CAS:1207451-88-4.)(CAS:25619-78-7.)(CID:1176.)(kegg:C00086)(InChi:XSQUKJJJFZCRTK-UHFFFAOYSA-N)(CHEBI:16199)(text:Urea.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00086"
@@ -13159,7 +13144,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:590-55-6)(CID:3469)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:CHEBI:17672)(text:Carbamoylphosphate)"
+      text "(CAS:590-55-6.)(CID:278.)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:17672)(text:Carbamoylphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00169"
@@ -13222,7 +13207,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -13285,7 +13270,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:372-75-8)(CID:9750)(kegg:C00327)(InChi:RHGKLRLOHDJJDR-BYPYZUCNSA-N)(CHEBI:CHEBI:16349)(text:Citrulline)(text:L-Citrulline)"
+      text "(CAS:372-75-8.)(CID:9750.)(kegg:C00327)(InChi:RHGKLRLOHDJJDR-BYPYZUCNSA-N)(CHEBI:16349)(text:Citrulline.)(text:L-Citrulline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00327"
@@ -13348,7 +13333,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -13411,7 +13396,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -13474,7 +13459,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:506-13-8)(CID:10466)(kegg:C18218)(InChi:UGAGPNKCDRTDHP-UHFFFAOYSA-N)(CHEBI:CHEBI:55328)(text:Juniperic acid)"
+      text "(CAS:506-13-8.)(CID:10466.)(kegg:C18218)(InChi:UGAGPNKCDRTDHP-UHFFFAOYSA-N)(CHEBI:55328)(text:Juniperic acid.)(text:16-Hydroxypalmitate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C18218"
@@ -13537,7 +13522,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-92-5)(CID:8221)(kegg:D01924)(InChi:GLDOVTGHNKAZLK-UHFFFAOYSA-N)(text:Octadecanol)"
+      text "(CAS:112-92-5.)(CID:8221.)(kegg:D01924)(InChi:GLDOVTGHNKAZLK-UHFFFAOYSA-N)(CHEBI:32154)(text:Octadecanol.)(text:Stearyl alcohol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?D01924"
@@ -13600,7 +13585,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -13710,7 +13695,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:118-00-3)(CID:6802)(kegg:C00387)(InChi:NYHBQMYGNKIUIF-UUOKFMHZSA-N)(CHEBI:CHEBI:16750)(text:Guanosine)"
+      text "(CAS:118-00-3.)(CID:135398635.)(kegg:C00387)(InChi:NYHBQMYGNKIUIF-UUOKFMHZSA-N)(CHEBI:16750)(text:Guanosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00387"
@@ -13773,7 +13758,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -13836,7 +13821,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -13899,7 +13884,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -13962,7 +13947,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -14025,7 +14010,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-39-8)(CID:6133)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:CHEBI:15713)(text:UTP)(text:Uridine triphosphate)(text:Uridine 5'-triphosphate)"
+      text "(CAS:63-68-3.)(CAS:24425-78-3.)(CAS:7005-18-7.)(CAS:1437749-32-0.)(CAS:1437749-60-4.)(CAS:1437749-65-9.)(CAS:1437749-75-1.)(CAS:1437749-80-8.)(CAS:1437769-00-0.)(CAS:1437870-94-4.)(CAS:1437870-95-5.)(CAS:1437870-97-7.)(CAS:1437870-98-8.)(CAS:1437871-20-9.)(CAS:1463481-01-7.)(CAS:1463481-06-2.)(CAS:1463481-15-3.)(CAS:1463481-19-7.)(CAS:1463481-23-3.)(CAS:1463481-27-7.)(CAS:1463481-31-3.)(CAS:1463481-37-9.)(CAS:1463481-41-5.)(CAS:1463481-46-0.)(CAS:1463481-51-7.)(CAS:1463481-58-4.)(CAS:1463481-73-3.)(CAS:1463481-80-2.)(CAS:1463481-89-1.)(CAS:1463610-75-4.)(CAS:1463610-76-5.)(CAS:1466415-57-5.)(CAS:3654-96-4.)(CAS:26062-47-5.)(CAS:58576-49-1.)(CID:6133.)(kegg:C00075)(InChi:PGAVKCOVUIYSFO-XVFCMESISA-N)(CHEBI:15713)(text:UTP.)(text:Uridine triphosphate.)(text:Uridine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00075"
@@ -14135,7 +14120,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -14198,7 +14183,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:52-90-4)(CID:5862)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:CHEBI:17561)(text:Cysteine)(text:L-Cysteine)(text:Cys)"
+      text "(CAS:56-73-5.)(CAS:299-31-0.)(CAS:3415-10-9.)(CAS:3458-17-1.)(CID:5862.)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:17561)(text:Cysteine.)(text:L-Cysteine.)(text:Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00097"
@@ -14261,7 +14246,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-97-9)(CID:6030)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:CHEBI:16695)(text:UMP)(text:Uridine monophosphate)(text:Uridine 5'-monophosphate)"
+      text "(CAS:135-16-0.)(CID:6030.)(kegg:C00105)(InChi:DJJCXFVJDGTHFX-XVFCMESISA-N)(CHEBI:16695)(text:UMP.)(text:Uridine monophosphate.)(text:Uridine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00105"
@@ -14324,7 +14309,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:66-22-8)(CID:1174)(kegg:C00106)(InChi:ISAKRJDGNUQOIC-UHFFFAOYSA-N)(CHEBI:CHEBI:17568)(text:Uracil)"
+      text "(CAS:59-56-3.)(CAS:27133-73-9.)(CAS:28875-57-2.)(CAS:29698-82-6.)(CAS:3616-38-4.)(CAS:50319-10-3.)(CAS:7279-37-0.)(CAS:779262-37-2.)(CID:1174.)(kegg:C00106)(InChi:ISAKRJDGNUQOIC-UHFFFAOYSA-N)(CHEBI:17568)(text:Uracil.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00106"
@@ -14387,7 +14372,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -14497,7 +14482,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:523-98-8)(CID:122280)(kegg:C00655)(InChi:DCTLYFZHFGENCW-UUOKFMHZSA-N)(CHEBI:CHEBI:15652)(text:XMP)(text:Xanthosine monophosphate)"
+      text "(CAS:523-98-8.)(CID:73323.)(kegg:C00655)(InChi:DCTLYFZHFGENCW-UUOKFMHZSA-N)(CHEBI:15652)(text:XMP.)(text:Xanthosine 5d-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00655"
@@ -14548,22 +14533,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0365-07-01)(CID:9700)(kegg:C00364)(InChi:GYOZYWVXFNDGLU-XLPZGREQSA-N)(CHEBI:CHEBI:17013)(text:TMP)(text:Thymidine monophosphate)(text:Deoxythymidine 5'-monophosphate)(text:dTMP)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00364"
   ]
   node [
     id 239
@@ -14623,7 +14592,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -14721,6 +14690,21 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_1.)"
+      type "text"
+    ]
   ]
   node [
     id 242
@@ -14780,7 +14764,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-19-8)(CID:6083)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:CHEBI:16027)(text:AMP)(text:Adenosine monophosphate)(text:Adenosine 5'-monophosphate)"
+      text "(CAS:61-19-8.)(CID:6083.)(kegg:C00020)(InChi:UDMBCSSLTHHNCD-KQYNXXCUSA-N)(CHEBI:16027)(text:AMP.)(text:Adenosine monophosphate.)(text:Adenosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00020"
@@ -14843,7 +14827,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:CHEBI:67040)(text:SAM)(text:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -14906,7 +14890,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:CHEBI:18012)(text:Fumaric acid)(text:Fum)(text:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -14969,7 +14953,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24880-45-3)(CID:5497182)(kegg:C16513)(InChi:YUFFSWGQGVEMMI-JLNKQSITSA-N)(CHEBI:CHEBI:53488)(text:Docosapentaenoic acid)"
+      text "(CAS:24880-45-3.)(CID:5497182.)(kegg:C16513)(InChi:YUFFSWGQGVEMMI-JLNKQSITSA-N)(CHEBI:53488)(text:Docosapentaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C16513"
@@ -15032,7 +15016,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:CHEBI:15428)(text:Glycine)(text:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -15095,7 +15079,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:636-58-8)(CID:123938)(kegg:C00669)(InChi:RITKHVBHSGLULN-WHFBIAKZSA-N)(text:5-Glutamylcysteine)(text:Gamma-L-Glutamylcysteine)(text:Gamma-Glu-Cys)"
+      text "(CAS:636-58-8.)(CID:123938.)(kegg:C00669)(InChi:RITKHVBHSGLULN-WHFBIAKZSA-N)(CHEBI:17515)(text:5-Glutamylcysteine.)(text:Gamma-L-Glutamylcysteine.)(text:Gamma-Glu-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00669"
@@ -15146,22 +15130,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:0143/7/7)(CID:3893)(kegg:C02679)(InChi:POULHZVOKOAJMA-UHFFFAOYSA-N)(CHEBI:CHEBI:30805)(text:Lauric acid)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C02679"
   ]
   node [
     id 249
@@ -15221,7 +15189,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -15284,7 +15252,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-96-8)(CID:6029)(kegg:C00299)(InChi:DRTQHJPVMGBUCF-XVFCMESISA-N)(CHEBI:CHEBI:16704)(text:Uridine)"
+      text "(CAS:58-96-8.)(CID:6029.)(kegg:C00299)(InChi:DRTQHJPVMGBUCF-XVFCMESISA-N)(CHEBI:16704)(text:Uridine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00299"
@@ -15347,7 +15315,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-89-5)(CID:5789)(kegg:C00214)(InChi:IQFYYKKMVGJFEH-XLPZGREQSA-N)(CHEBI:CHEBI:17748)(text:Thymidine)"
+      text "(CAS:50-89-5.)(CID:5789.)(kegg:C00214)(InChi:IQFYYKKMVGJFEH-XLPZGREQSA-N)(CHEBI:17748)(text:Thymidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00214"
@@ -15551,7 +15519,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:CHEBI:17115)(text:Serine)(text:L-Serine)(text:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -15614,7 +15582,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-33-3)(CID:3931)(kegg:C01595)(InChi:OYHQOLUKZRVURQ-HZJYTTRNSA-N)(CHEBI:CHEBI:17351)(text:Linoleic acid)"
+      text "(CAS:60-33-3.)(CID:5280450.)(kegg:C01595)(InChi:OYHQOLUKZRVURQ-HZJYTTRNSA-N)(CHEBI:17351)(text:Linoleic acid.)(text:Linoleate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01595"
@@ -15677,7 +15645,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -15740,7 +15708,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-40-5)(CID:764)(kegg:C00242)(InChi:UYTPUPDQBNUYGX-UHFFFAOYSA-N)(CHEBI:CHEBI:16235)(text:Guanine)"
+      text "(CAS:73-40-5.)(CID:135398634.)(kegg:C00242)(InChi:UYTPUPDQBNUYGX-UHFFFAOYSA-N)(CHEBI:16235)(text:Guanine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00242"
@@ -15803,7 +15771,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:506-32-1)(CID:444899)(kegg:C00219)(InChi:YZXBAPSDXZZRGB-DOFZRALJSA-N)(CHEBI:CHEBI:15843)(text:Arachidonic acid)"
+      text "(CAS:506-32-1.)(CID:444899.)(kegg:C00219)(InChi:YZXBAPSDXZZRGB-DOFZRALJSA-N)(CHEBI:15843)(text:Arachidonic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00219"
@@ -15866,7 +15834,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6217-54-5)(CID:3144)(kegg:C06429)(InChi:MBMBGCFOFBJSGT-KUBAVDMBSA-N)(CHEBI:CHEBI:28125)(text:Docosahexaenoic acid)"
+      text "(CAS:6217-54-5.)(CID:445580.)(kegg:C06429)(InChi:MBMBGCFOFBJSGT-KUBAVDMBSA-N)(CHEBI:28125)(text:Docosahexaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06429"
@@ -15976,7 +15944,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -16039,7 +16007,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-80-5)(CID:64959)(kegg:C01762)(InChi:UBORTCNDUKBEOP-UUOKFMHZSA-N)(CHEBI:CHEBI:18107)(text:Xanthosine)"
+      text "(CAS:146-80-5.)(CID:64959.)(kegg:C01762)(InChi:UBORTCNDUKBEOP-UUOKFMHZSA-N)(CHEBI:18107)(text:Xanthosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01762"
@@ -16102,7 +16070,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:10417-94-4)(CID:3209)(kegg:C06428)(InChi:JAZBEHYOTPTENJ-JLNKQSITSA-N)(CHEBI:CHEBI:28364)(text:Eicosapentaenoic acid)"
+      text "(CAS:10417-94-4.)(CID:446284.)(kegg:C06428)(InChi:JAZBEHYOTPTENJ-JLNKQSITSA-N)(CHEBI:28364)(text:Eicosapentaenoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06428"
@@ -16151,6 +16119,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C22_1.)"
       type "text"
     ]
   ]
@@ -16212,7 +16195,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -16275,7 +16258,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:131-99-7)(CID:8582)(kegg:C00130)(InChi:GRSZFWQUAKGDAV-KQYNXXCUSA-N)(CHEBI:CHEBI:17202)(text:IMP)(text:Inosine monophosphate)(text:Inosine 5'-monophosphate)"
+      text "(CAS:59-23-4.)(CID:135398640.)(kegg:C00130)(InChi:GRSZFWQUAKGDAV-KQYNXXCUSA-N)(CHEBI:17202)(text:IMP.)(text:Inosine monophosphate.)(text:Inosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00130"
@@ -16338,7 +16321,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-24-5)(CID:190)(kegg:C00147)(InChi:GFFGJBXGBJISGV-UHFFFAOYSA-N)(CHEBI:CHEBI:16708)(text:Adenine)"
+      text "(CAS:73-24-5.)(CID:190.)(kegg:C00147)(InChi:GFFGJBXGBJISGV-UHFFFAOYSA-N)(CHEBI:16708)(text:Adenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00147"
@@ -16401,7 +16384,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:334-48-5)(CID:2969)(kegg:C01571)(InChi:GHVNFZFCNZKVNT-UHFFFAOYSA-N)(CHEBI:CHEBI:30813)(text:Decanoic acid)"
+      text "(CAS:334-48-5.)(CID:2969.)(kegg:C01571)(InChi:GHVNFZFCNZKVNT-UHFFFAOYSA-N)(CHEBI:30813)(text:Decanoic acid.)(text:Decanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01571"
@@ -16558,7 +16541,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-79-8)(CID:637517)(kegg:C01712)(InChi:ZQPPMHVWECSIRJ-MDZDMXLPSA-N)(CHEBI:CHEBI:27997)(text:Elaidic acid)"
+      text "(CAS:112-79-8.)(CID:637517.)(kegg:C01712)(InChi:ZQPPMHVWECSIRJ-MDZDMXLPSA-N)(CHEBI:27997)(text:Elaidic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01712"
@@ -16621,7 +16604,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:25191-14-4)(CID:6804)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:CHEBI:17345)(text:GMP)(text:Guanosine monophosphate)(text:Guanosine 5'-monophosphate)"
+      text "(CAS:85-32-5.)(CID:135398631.)(kegg:C00144)(InChi:RQFCJASXJCIDSX-UUOKFMHZSA-N)(CHEBI:17345)(text:GMP.)(text:Guanosine monophosphate.)(text:Guanosine 5d-monophosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00144"
@@ -16731,7 +16714,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -16888,7 +16871,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -16951,7 +16934,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-98-0)(CID:6031)(kegg:C00015)(InChi:XCCTYIAWTASOJW-XVFCMESISA-N)(CHEBI:CHEBI:17659)(text:UDP)(text:Uridine diphosphate)(text:Uridine 5'-diphosphate)"
+      text "(CAS:58-98-0.)(CID:6031.)(kegg:C00015)(InChi:XCCTYIAWTASOJW-XVFCMESISA-N)(CHEBI:17659)(text:UDP.)(text:Uridine diphosphate.)(text:Uridine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00015"
@@ -17061,7 +17044,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -17218,7 +17201,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:69-89-6)(CID:1188)(kegg:C00385)(InChi:LRFVTYWOQMYALW-UHFFFAOYSA-N)(CHEBI:CHEBI:17712)(text:Xanthine)"
+      text "(CAS:69-89-6.)(CID:1188.)(kegg:C00385)(InChi:LRFVTYWOQMYALW-UHFFFAOYSA-N)(CHEBI:17712)(CHEBI:48517)(text:Xanthine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00385"
@@ -17281,7 +17264,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:141-43-5)(CID:700)(kegg:C00189)(InChi:HZAXFHJVJLSVMW-UHFFFAOYSA-N)(CHEBI:CHEBI:16000)(text:2-Aminoethanol)(text:Ethanolamine)"
+      text "(CAS:141-43-5.)(CID:700.)(kegg:C00189)(InChi:HZAXFHJVJLSVMW-UHFFFAOYSA-N)(CHEBI:16000)(text:2-Aminoethanol.)(text:Ethanolamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00189"
@@ -17377,6 +17360,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_2.)"
       type "text"
     ]
   ]
@@ -17485,7 +17483,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1146963-51-0)(CID:6830)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:CHEBI:15996)(text:GTP)(text:Guanosine triphosphate)(text:Guanosine 5'-triphosphate)"
+      text "(CAS:86-01-1.)(CAS:36051-31-7.)(CAS:56001-37-7.)(CID:135398633.)(kegg:C00044)(InChi:XKMLYUALXHKNFT-UUOKFMHZSA-N)(CHEBI:15996)(text:GTP.)(text:Guanosine triphosphate.)(text:Guanosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00044"
@@ -17536,6 +17534,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CID:10467.)(CID:4383090.)(kegg:C06425)(CHEBI:28822)(HMDB:HMDB0002212)(text:C20_0.)(text:Arachidic acid.)(text:Eicosanoic acid.)(text:Icosanoic acid.)(text:Eicosanoate.)(text:Arachidate.)(text:n-Eicosanoic acid.)(text:Arachic acid.)(text:Isoarachidic acid.)(text:18-methyl-nonadecanoic acid.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C06425"
   ]
   node [
     id 291
@@ -17595,7 +17609,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:544-63-8)(CID:11005)(kegg:C06424)(InChi:TUNFSRHWOTWDNC-UHFFFAOYSA-N)(CHEBI:CHEBI:28875)(text:Myristic acid)"
+      text "(CID:11005.)(CID:520298.)(kegg:C06424)(CHEBI:28875)(CHEBI:43722)(HMDB:HMDB0000806)(HMDB:HMDB0031072)(text:C14_0.)(text:Myristic acid.)(text:tetradecanoic acid.)(text:Isomyristic acid.)(text:12-methyl-tridecanoic acid.)(text:12-methyltridecylic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06424"
@@ -17644,6 +17658,21 @@ graph [
         x 0.0
         y 0.0
       ]
+      type "text"
+    ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(text:C20_3.)"
       type "text"
     ]
   ]
@@ -17705,7 +17734,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0506-12-7)(CID:10465)(InChi:KEMQGTRYUADPNZ-UHFFFAOYSA-N)(CHEBI:CHEBI:32365)(text:Margaric acid)"
+      text "(CID:10465.)(CID:22207.)(CID:164860.)(CHEBI:32365)(HMDB:HMDB0002259)(HMDB:HMDB0031067)(HMDB:HMDB0061709)(text:C17_0.)(text:Margaric acid.)(text:heptadecanoic acid.)(text:Anteisoheptadecanoic acid.)(text:14-methyl-hexadecanoic acid.)(text:[+]-14-methyl palmitic acid.)(text:Anteisomargaric acid.)(text:Isoheptadecanoic acid.)(text:15-methyl-hexadecanoic acid.)(text:15-methyl palmitic acid.)(text:Isomargaric acid.)(text:Subtiloheptadecanoic acid.)(text:Methylpalmitic acid.)"
       type "text"
     ]
   ]
@@ -17767,7 +17796,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-71-4)(CID:1135)(kegg:C00178)(InChi:RWQNBRDOKXIBIV-UHFFFAOYSA-N)(CHEBI:CHEBI:17821)(text:Thymine)"
+      text "(CAS:65-71-4.)(CID:1135.)(kegg:C00178)(InChi:RWQNBRDOKXIBIV-UHFFFAOYSA-N)(CHEBI:17821)(text:Thymine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00178"
@@ -17830,7 +17859,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2800-34-2)(CID:3533)(kegg:C00234)(InChi:AUFGTPPARQZWDO-YUZLPWPTSA-N)(text:Formyl-THF)(text:10-Formyltetrahydrofolate)"
+      text "(CAS:2800-34-2.)(CID:135398556.)(kegg:C00234)(InChi:AUFGTPPARQZWDO-YUZLPWPTSA-N)(CHEBI:ChEBI:15637)(text:Formyl-THF.)(text:10-Formyltetrahydrofolate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00234"
@@ -17940,7 +17969,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2394-20-9)(CID:1245)(kegg:C00249)(InChi:CGQCWMIAEPEHNQ-UHFFFAOYSA-N)(CHEBI:CHEBI:20106)(text:Palmitic acid)"
+      text "(CID:985.)(CID:36247.)(kegg:C00249)(CHEBI:15756)(HMDB:HMDB0000220)(HMDB:HMDB0031068)(text:C16_0.)(text:Palmitic acid.)(text:hexadecanoic acid.)(text:Isopalmitic acid.)(text:14-methyl-pentadecanoic acid.)(text:14-methyl pentadecylic acid.)(text:Isohexadecanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00249"
@@ -17991,6 +18020,22 @@ graph [
       ]
       type "text"
     ]
+    labelgraphics1 [
+      alignment "center"
+      anchor "hidden"
+      color "#000000"
+      fontName "Arial"
+      fontSize 12
+      fontStyle "plain"
+      position [
+        localAlign 0.0
+        relHor 0.0
+        relVert 0.0
+      ]
+      text "(CID:8215.)(kegg:C08281)(CHEBI:28941)(HMDB:HMDB0000944)(text:C22_0.)(text:Behenic acid.)(text:docosanoic acid.)(text:Isobehenic acid.)(text:20-methyl-heneicosanoic acid.)(text:20-methyl-henicosanoic acid.)"
+      type "text"
+    ]
+    url "https://www.genome.jp/dbget-bin/www_bget?C08281"
   ]
   node [
     id 299
@@ -18050,7 +18095,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-63-9)(CID:6021)(kegg:C00294)(InChi:UGQMRVRMYYASKQ-KQYNXXCUSA-N)(CHEBI:CHEBI:17596)(text:Inosine)"
+      text "(CAS:58-63-9.)(CID:135398641.)(kegg:C00294)(InChi:UGQMRVRMYYASKQ-KQYNXXCUSA-N)(CHEBI:17596)(text:Inosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00294"
@@ -18113,7 +18158,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-05-0)(CID:8158)(kegg:C01601)(InChi:FBUKVWPVBMHYJY-UHFFFAOYSA-N)(CHEBI:CHEBI:29019)(text:Nonanoic acid)"
+      text "(CAS:112-05-0.)(CID:8158.)(kegg:C01601)(InChi:FBUKVWPVBMHYJY-UHFFFAOYSA-N)(CHEBI:29019)(text:Nonanoic acid.)(text:Noanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01601"
@@ -18176,7 +18221,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:964-26-1)(kegg:C00365)(InChi:JSRLJPSBLDHEIO-SHYZEUOFSA-N)(CHEBI:CHEBI:17622)(text:dUMP)(text:2'-Deoxyuridine 5'-phosphate)"
+      text "(CAS:964-26-1.)(CID:65063.)(kegg:C00365)(InChi:JSRLJPSBLDHEIO-SHYZEUOFSA-N)(CHEBI:17622)(text:dUMP.)(text:2d-Deoxyuridine 5d-phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00365"
@@ -18239,7 +18284,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:373-49-9)(CID:4668)(kegg:C08362)(InChi:SECPZKHBENQXJG-FPLPWBNLSA-N)(CHEBI:CHEBI:28716)(text:Palmitoleic acid)"
+      text "(CAS:373-49-9.)(CID:445638.)(kegg:C08362)(InChi:SECPZKHBENQXJG-FPLPWBNLSA-N)(CHEBI:28716)(text:Palmitoleic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C08362"
@@ -18302,7 +18347,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -18365,7 +18410,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:146-91-8)(CID:8977)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:CHEBI:17552)(text:GDP)(text:Guanosine diphosphate)(text:Guanosine 5'-diphosphate)"
+      text "(CAS:146-91-8.)(CID:135398619.)(kegg:C00035)(InChi:QGWNDRXFNXRZMB-UUOKFMHZSA-N)(CHEBI:17552)(text:GDP.)(text:Guanosine diphosphate.)(text:Guanosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00035"
@@ -18428,7 +18473,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:112-80-1)(CID:445639)(kegg:C00712)(InChi:ZQPPMHVWECSIRJ-KTKRTIGZSA-N)(CHEBI:CHEBI:16196)(text:Oleic acid)"
+      text "(CAS:112-80-1.)(CID:445639.)(kegg:C00712)(InChi:ZQPPMHVWECSIRJ-KTKRTIGZSA-N)(CHEBI:16196)(text:Oleic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00712"
@@ -18491,7 +18536,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -18601,7 +18646,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:524-14-1)(CID:3383)(kegg:C00083)(InChi:LTYOQGRJFJAKNA-DVVLENMVSA-N)(CHEBI:CHEBI:15531)(text:Malonyl CoA)(text:Malonyl coenzyme A)"
+      text "(CAS:150-30-1.)(CAS:30394-07-1.)(CAS:63-91-2.)(CAS:673-06-3.)(CID:3383.)(kegg:C00083)(InChi:LTYOQGRJFJAKNA-DVVLENMVSA-N)(CHEBI:15531)(text:Malonyl CoA.)(text:Malonyl coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00083"
@@ -18664,7 +18709,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -18727,7 +18772,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -18790,7 +18835,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:141-82-2)(CID:867)(kegg:C00383)(InChi:OFOBLEOULBTSOW-UHFFFAOYSA-N)(CHEBI:CHEBI:30794)(text:Malonic acid)"
+      text "(CAS:141-82-2.)(CID:867.)(kegg:C00383)(InChi:OFOBLEOULBTSOW-UHFFFAOYSA-N)(CHEBI:15792)(CHEBI:30794)(text:Malonic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00383"
@@ -18853,7 +18898,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:CHEBI:15351)(text:Acetyl coenzyme A)(text:AcetylCOA)(text:Acetyl-Coenzyme A)(text:Ace-CoA)(text:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -18916,7 +18961,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6915-15-7)(CID:525)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:CHEBI:30797)(text:Malic acid)(text:Mal)(text:Malate)"
+      text "(CAS:97-67-6.)(CID:222656.)(kegg:C00149)(InChi:BJEPYKJPYRNKOW-REOHCLBHSA-N)(CHEBI:15589)(CHEBI:30797)(text:Malic acid.)(text:Mal.)(text:Malate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00149"
@@ -18979,7 +19024,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:85-61-0)(CID:3312)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:CHEBI:15346)(text:CoA)(text:Coenzyme A)"
+      text "(CAS:85-61-0.)(CID:87642.)(kegg:C00010)(InChi:RGJOEKWQDUBAIZ-IBOSZNHHSA-N)(CHEBI:15346)(text:CoA.)(text:Coenzyme A.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00010"
@@ -19042,7 +19087,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -19105,7 +19150,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -19168,7 +19213,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1420-36-6)(CID:3626)(kegg:C00332)(InChi:OJFDKHTZOUZBOS-CITAKDKDSA-N)(CHEBI:CHEBI:15345)(text:Acetoacetyl CoA)(text:Acetoacetyl-Coenzyme A)(text:AcAce-CoA)"
+      text "(CAS:1420-36-6.)(CID:92153.)(kegg:C00332)(InChi:OJFDKHTZOUZBOS-CITAKDKDSA-N)(CHEBI:15345)(text:Acetoacetyl CoA.)(text:Acetoacetyl-Coenzyme A.)(text:AcAce-CoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00332"
@@ -19278,7 +19323,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-89-3)(CID:67678)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:CHEBI:16283)(text:Cystine)(text:L-Cystine)(text:Cys-Cys)"
+      text "(CAS:56-89-3.)(CID:67678.)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:16283)(text:Cystine.)(text:L-Cystine.)(text:Cys-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00491"
@@ -19341,7 +19386,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0124-07-02)(CID:379)(kegg:C06423)(InChi:WWZKQHOCKIZLMA-UHFFFAOYSA-N)(CHEBI:CHEBI:28837)(text:Octanoic acid)(text:FFA 8:0)"
+      text "(CAS:0124-07-02.)(CID:379.)(kegg:C06423)(InChi:WWZKQHOCKIZLMA-UHFFFAOYSA-N)(CHEBI:28837)(text:Octanoic acid.)(text:FFA 8_0.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C06423"
@@ -19404,7 +19449,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-46-3)(CID:6175)(kegg:C00475)(InChi:UHDGCWIWMRVCDJ-XVFCMESISA-N)(CHEBI:CHEBI:17562)(text:Cytidine)"
+      text "(CAS:65-46-3.)(CID:6175.)(kegg:C00475)(InChi:UHDGCWIWMRVCDJ-XVFCMESISA-N)(CHEBI:17562)(text:Cytidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00475"
@@ -19561,7 +19606,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:142-62-1)(CID:8892)(kegg:C01585)(InChi:FUZZWVXGSFPDMH-UHFFFAOYSA-N)(CHEBI:CHEBI:30776)(text:Caproic acid)(text:FFA 6:0)"
+      text "(CAS:142-62-1.)(CID:8892.)(kegg:C01585)(InChi:FUZZWVXGSFPDMH-UHFFFAOYSA-N)(CHEBI:30776)(text:Caproic acid.)(text:FFA 6_0.)(text:Hexanoate.)(text:Hexanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01585"
@@ -19624,7 +19669,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-47-4)(CID:6176)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:CHEBI:17677)(text:CTP)(text:Cytidine triphosphate)(text:Cytidine 5'-triphosphate)"
+      text "(CAS:65-47-4.)(CAS:1259312-99-6.)(CAS:1613528-28-1.)(CID:6176.)(kegg:C00063)(InChi:PCDQPRRSZKQHHS-XVFCMESISA-N)(CHEBI:17677)(text:CTP.)(text:Cytidine triphosphate.)(text:Cytidine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00063"
@@ -19687,7 +19732,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -19750,7 +19795,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:5698-50-0)(CID:6079438)(InChi:BNTPVRGYUHJFHN-HWKANZROSA-N)(text:Octenedioic acid)"
+      text "(CAS:5698-50-0.)(CID:6079438.)(InChi:BNTPVRGYUHJFHN-HWKANZROSA-N)(text:Octenedioic acid.)"
       type "text"
     ]
   ]
@@ -19812,10 +19857,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(kegg:C01530)(text:Stearic acid)"
+      text "(CAS:58-08-2.)(CID:2519.)(kegg:C07481)(InChi:RYYVLZVUVIJVGH-UHFFFAOYSA-N)(CHEBI:27732)(text:Stearic acid.)(text:Caffeine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C01530"
+    url "https://www.genome.jp/dbget-bin/www_bget?C07481"
   ]
   node [
     id 329
@@ -19875,7 +19920,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -19938,7 +19983,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -20001,7 +20046,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -20158,7 +20203,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -20221,7 +20266,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -20284,7 +20329,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:CHEBI:15428)(text:Glycine)(text:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -20347,7 +20392,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13270-65-0)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:CHEBI:17111)(text:PRPP)"
+      text "(CAS:56-81-5.)(CAS:29796-42-7.)(CAS:30049-52-6.)(CAS:37228-54-9.)(CAS:75398-78-6.)(CAS:78630-16-7.)(CAS:8013-25-0.)(CAS:1400594-62-8.)(CAS:1422250-43-8.)(CAS:8043-29-6.)(CAS:25618-55-7.)(CAS:175385-78-1.)(CAS:64333-26-2.)(CAS:280575-69-1.)(CAS:1206185-99-0.)(CAS:1206186-81-3.)(CAS:1312543-37-5.)(CAS:2143496-79-9.)(CAS:70926-61-3.)(CAS:8013-25-0.)(CID:7399.)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:17111)(text:PRPP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00119"
@@ -20410,7 +20455,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -20520,7 +20565,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -20583,7 +20628,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:135-16-0)(CID:3401)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:CHEBI:20506)(text:CH2-THF)(text:Tetrahydrofolic acid)"
+      text "(CAS:27576-49-4.)(CAS:3123-67-9.)(CAS:18441-12-8.)(CAS:7227-60-3.)(CAS:20236-92-4.)(CAS:90191-82-5.)(CAS:29698-71-3.)(CID:3401.)(kegg:C00101)(InChi:MSTNYGQPCMXVAQ-KIYNQFGBSA-N)(CHEBI:20506)(text:CH2-THF.)(text:Tetrahydrofolic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00101"
@@ -20646,7 +20691,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -20709,7 +20754,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-84-8)(CID:5960)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:CHEBI:17053)(text:Aspartic acid)(text:Aspartate)(text:Asp)"
+      text "(CAS:56-84-8.)(CID:5960.)(kegg:C00049)(InChi:CKLJMWTZIZZHCS-REOHCLBHSA-N)(CHEBI:17053)(text:Aspartic acid.)(text:Aspartate.)(text:Asp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00049"
@@ -20772,7 +20817,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -20835,7 +20880,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:20398-34-9)(CID:6022)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:CHEBI:16761)(text:ADP)(text:Adenosine diphosphate)(text:Adenosine 5'-diphosphate)"
+      text "(CAS:58-64-0.)(CID:6022.)(kegg:C00008)(InChi:XTWYTFMLZFPYCI-KQYNXXCUSA-N)(CHEBI:16761)(text:ADP.)(text:Adenosine diphosphate.)(text:Adenosine 5d-diphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00008"
@@ -20898,7 +20943,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:58-61-7)(CID:60961)(kegg:C00212)(InChi:OIRDTQYFTABQOQ-KQYNXXCUSA-N)(CHEBI:CHEBI:16335)(text:Adenosine)"
+      text "(CAS:58-61-7.)(CID:60961.)(kegg:C00212)(InChi:OIRDTQYFTABQOQ-KQYNXXCUSA-N)(CHEBI:16335)(text:Adenosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00212"
@@ -20961,7 +21006,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:13270-65-0)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:CHEBI:17111)(text:PRPP)"
+      text "(CAS:56-81-5.)(CAS:29796-42-7.)(CAS:30049-52-6.)(CAS:37228-54-9.)(CAS:75398-78-6.)(CAS:78630-16-7.)(CAS:8013-25-0.)(CAS:1400594-62-8.)(CAS:1422250-43-8.)(CAS:8043-29-6.)(CAS:25618-55-7.)(CAS:175385-78-1.)(CAS:64333-26-2.)(CAS:280575-69-1.)(CAS:1206185-99-0.)(CAS:1206186-81-3.)(CAS:1312543-37-5.)(CAS:2143496-79-9.)(CAS:70926-61-3.)(CAS:8013-25-0.)(CID:7399.)(kegg:C00119)(InChi:PQGCEDQWHSBAJP-TXICZTDVSA-N)(CHEBI:17111)(text:PRPP.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00119"
@@ -21118,7 +21163,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:5988-19-2)(CID:439216)(kegg:C00337)(InChi:UFIVEPVSAGBUSI-REOHCLBHSA-N)(CHEBI:CHEBI:17025)(text:Dihydroorotic acid)(text:L-Dihydroorotate)(text:Dihydroorotate)"
+      text "(CAS:5988-19-2.)(CID:439216.)(kegg:C00337)(InChi:UFIVEPVSAGBUSI-REOHCLBHSA-N)(CHEBI:17025)(text:Dihydroorotic acid.)(text:L-Dihydroorotate.)(text:Dihydroorotate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00337"
@@ -21181,7 +21226,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3692-69-1)(CID:5893)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:CHEBI:15846)(text:NAD)(text:Nicotinamide adenine dinucleotide)"
+      text "(CAS:53-84-9.)(CID:5893.)(kegg:C00003)(InChi:BAWFJGJZGIEFAR-NNYOXOHSSA-O)(CHEBI:15846)(text:NAD.)(text:Nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00003"
@@ -21244,7 +21289,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:443892-10-2)(CID:439153)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:CHEBI:16908)(text:NADH)(text:Reduced nicotinamide adenine dinucleotide)"
+      text "(CAS:58-68-4.)(CID:439153.)(kegg:C00004)(InChi:BOPGDPNILDQYTO-NNYOXOHSSA-N)(CHEBI:16908)(text:NADH.)(text:Reduced nicotinamide adenine dinucleotide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00004"
@@ -21307,7 +21352,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:65-86-1)(CID:967)(kegg:C00295)(InChi:PXQPEWDEAKTCGB-UHFFFAOYSA-N)(CHEBI:CHEBI:16742)(text:Orotic acid)"
+      text "(CAS:65-86-1.)(CID:967.)(kegg:C00295)(InChi:PXQPEWDEAKTCGB-UHFFFAOYSA-N)(CHEBI:16742)(text:Orotic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00295"
@@ -21370,7 +21415,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:590-55-6)(CID:3469)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:CHEBI:17672)(text:Carbamoylphosphate)"
+      text "(CAS:590-55-6.)(CID:278.)(kegg:C00169)(InChi:FFQKYPRQEYGKAF-UHFFFAOYSA-N)(CHEBI:17672)(text:Carbamoylphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00169"
@@ -21433,7 +21478,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:98-92-0)(CID:936)(kegg:C00153)(InChi:DFPAKSUCGFBDDF-UHFFFAOYSA-N)(CHEBI:CHEBI:17154)(text:Niacinamide)"
+      text "(CAS:98-92-0.)(CID:936.)(kegg:C00153)(InChi:DFPAKSUCGFBDDF-UHFFFAOYSA-N)(CHEBI:17154)(text:Niacinamide.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00153"
@@ -21496,7 +21541,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:59-67-6)(CID:938)(kegg:C00253)(InChi:PVNIIMVLHYAWGP-UHFFFAOYSA-N)(CHEBI:CHEBI:15940)(text:Nicotinic acid)"
+      text "(CAS:59-67-6.)(CID:938.)(kegg:C00253)(InChi:PVNIIMVLHYAWGP-UHFFFAOYSA-N)(CHEBI:15940)(text:Nicotinic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00253"
@@ -21559,7 +21604,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:12040-65-2)(CID:754)(kegg:C00093)(InChi:AWUCVROLDVIAJX-GSVOUGTGSA-N)(CHEBI:CHEBI:15978)(text:Glycerol 3-phosphate)(text:G3P)"
+      text "(CAS:120-80-9.)(CAS:16474-89-8.)(CAS:16474-90-1.)(CAS:37349-32-9.)(CID:754.)(kegg:C00093)(InChi:AWUCVROLDVIAJX-GSVOUGTGSA-N)(CHEBI:15978)(text:Glycerol 3-phosphate.)(text:G3P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00093"
@@ -21622,7 +21667,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-81-5)(CID:753)(kegg:C00116)(InChi:PEDCQBHIVMGVHV-UHFFFAOYSA-N)(CHEBI:CHEBI:15850)(text:Glycerol)"
+      text "(CAS:57-04-5.)(CID:753.)(kegg:C00116)(InChi:PEDCQBHIVMGVHV-UHFFFAOYSA-N)(CHEBI:15850)(text:Glycerol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00116"
@@ -21685,7 +21730,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -21748,7 +21793,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3672-15-9)(CID:65127)(kegg:C00275)(InChi:NBSCHQHZLSJFNQ-QTVWNMPRSA-N)(CHEBI:CHEBI:48066)(text:Mannose 6-phosphate)(text:D-Mannose 6-phosphate)(text:M6P)"
+      text "(CAS:3672-15-9.)(CID:65127.)(kegg:C00275)(InChi:NBSCHQHZLSJFNQ-QTVWNMPRSA-N)(CHEBI:17369)(CHEBI:48066)(text:Mannose 6-phosphate.)(text:D-Mannose 6-phosphate.)(text:M6P.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00275"
@@ -21811,7 +21856,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2646-71-1)(CID:5884)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:CHEBI:16474)(text:NADPH)(text:Reduced nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:2646-71-1.)(CID:5884.)(kegg:C00005)(InChi:ACFIXJIJDZMPPO-NNYOXOHSSA-N)(CHEBI:16474)(text:NADPH.)(text:Reduced nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00005"
@@ -21874,7 +21919,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0156-06-09)(CID:997)(kegg:C00166)(InChi:BTNMPGBKDVTSJY-UHFFFAOYSA-N)(CHEBI:CHEBI:30851)(text:Phenylpyruvic acid)(text:Phenylpyruvate)"
+      text "(CAS:0156-06-09.)(CID:997.)(kegg:C00166)(InChi:BTNMPGBKDVTSJY-UHFFFAOYSA-N)(CHEBI:18005)(CHEBI:30851)(text:Phenylpyruvic acid.)(text:Phenylpyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00166"
@@ -21937,7 +21982,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:150-30-1)(CID:994)(kegg:C00079)(InChi:COLNVLDHVKWLRT-QMMMGPOBSA-N)(CHEBI:CHEBI:17295)(text:Phenylalanine)(text:L-Phenylalanine)(text:Phe)"
+      text "(CAS:63-39-8.)(CAS:266356-22-3.)(CID:994.)(kegg:C00079)(InChi:COLNVLDHVKWLRT-QMMMGPOBSA-N)(CHEBI:17295)(text:Phenylalanine.)(text:L-Phenylalanine.)(text:Phe.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00079"
@@ -22000,7 +22045,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0828-01-03)(CID:3848)(kegg:C05607)(InChi:VOXXWSYKYCBWHO-MRVPVSSYSA-N)(CHEBI:CHEBI:32978)(text:3-Phenyllactic acid)"
+      text "(CAS:7326-19-4.)(CID:7930.)(kegg:C05607)(InChi:VOXXWSYKYCBWHO-MRVPVSSYSA-N)(CHEBI:32978)(text:3-Phenyllactic acid.)(text:Phenyllactate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05607"
@@ -22063,7 +22108,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-22-3)(CID:6305)(kegg:C00078)(InChi:QIVBCDIJIAJPQS-VIFPVBQESA-N)(CHEBI:CHEBI:16828)(text:Tryptophan)(text:L-Tryptophan)(text:Trp)"
+      text "(CID:6305.)(kegg:C00078)(InChi:QIVBCDIJIAJPQS-VIFPVBQESA-N)(CHEBI:16828)(text:Tryptophan.)(text:L-Tryptophan.)(text:Trp.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00078"
@@ -22126,10 +22171,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6205/8/9)(CID:439232)(kegg:C00437)(InChi:JRLGPAXAGHMNOL-LURJTMIESA-N)(CHEBI:CHEBI:16543)(text:5-Hydroxy-tryptophan)(text:N2-Acetyl-L-ornithine)(text:N-Acetyl-ornithine)"
+      text "(CAS:4350-09-8.)(CID:439280.)(kegg:C00643)(InChi:JRLGPAXAGHMNOL-LURJTMIESA-N)(CHEBI:17780)(text:5-Hydroxy-tryptophan.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C00437"
+    url "https://www.genome.jp/dbget-bin/www_bget?C00643"
   ]
   node [
     id 367
@@ -22189,7 +22234,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:71-00-1)(CID:6274)(kegg:C00135)(InChi:HNDVDQJCIGZPNO-YFKPBYRVSA-N)(CHEBI:CHEBI:15971)(text:Histidine)(text:L-Histidine)(text:His)"
+      text "(CAS:131-99-7.)(CAS:138240-72-9.)(CAS:485-83-6.)(CAS:736074-82-1.)(CAS:801187-33-7.)(CAS:1080065-96-8.)(CAS:30918-54-8.)(CAS:25249-22-3.)(CID:6274.)(kegg:C00135)(InChi:HNDVDQJCIGZPNO-YFKPBYRVSA-N)(CHEBI:15971)(text:Histidine.)(text:L-Histidine.)(text:His.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00135"
@@ -22252,7 +22297,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:4836-52-6)(CID:165271)(kegg:C00860)(InChi:ZQISRDCJNBUVMM-YFKPBYRVSA-N)(CHEBI:CHEBI:16255)(text:Histidinol)(text:L-Histidinol)"
+      text "(CAS:4836-52-6.)(CID:165271.)(kegg:C00860)(InChi:ZQISRDCJNBUVMM-YFKPBYRVSA-N)(CHEBI:16255)(text:Histidinol.)(text:L-Histidinol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00860"
@@ -22315,7 +22360,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-54-1)(CID:1150)(kegg:C00398)(InChi:APJYDQYYACXCRM-UHFFFAOYSA-N)(CHEBI:CHEBI:16765)(text:Tryptamine)"
+      text "(CAS:61-54-1.)(CID:1150.)(kegg:C00398)(InChi:APJYDQYYACXCRM-UHFFFAOYSA-N)(CHEBI:16765)(text:Tryptamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00398"
@@ -22378,7 +22423,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-45-6)(CID:774)(kegg:C00388)(InChi:NTYJJOPFIAHURM-UHFFFAOYSA-N)(CHEBI:CHEBI:18295)(text:Histamine)"
+      text "(CAS:51-45-6.)(CID:774.)(kegg:C00388)(InChi:NTYJJOPFIAHURM-UHFFFAOYSA-N)(CHEBI:18295)(text:Histamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00388"
@@ -22441,7 +22486,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:60-18-4)(CID:6057)(kegg:C00082)(InChi:OUYCCCASQSFEME-QMMMGPOBSA-N)(CHEBI:CHEBI:17895)(text:Tyrosine)(text:L-Tyrosine)(text:Tyr)"
+      text "(CAS:73-22-3.)(CAS:6912-86-3.)(CAS:80206-30-0.)(CAS:154635-35-5.)(CID:6057.)(kegg:C00082)(InChi:OUYCCCASQSFEME-QMMMGPOBSA-N)(CHEBI:17895)(text:Tyrosine.)(text:L-Tyrosine.)(text:Tyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00082"
@@ -22504,7 +22549,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:59-92-7)(CID:6047)(kegg:C00355)(InChi:WTDRDQBEARUVNC-LURJTMIESA-N)(CHEBI:CHEBI:15765)(text:Dopa)"
+      text "(CAS:59-92-7.)(CID:6047.)(kegg:C00355)(InChi:WTDRDQBEARUVNC-LURJTMIESA-N)(CHEBI:15765)(text:Dopa.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00355"
@@ -22567,7 +22612,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1022-31-7)(CID:5664)(kegg:C02700)(InChi:BYHJHXPTQMMKCA-QMMMGPOBSA-N)(CHEBI:CHEBI:30249)(text:Formylkynurenine)"
+      text "(CAS:1022-31-7.)(CID:439788.)(kegg:C02700)(InChi:BYHJHXPTQMMKCA-QMMMGPOBSA-N)(CHEBI:30249)(text:Formylkynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02700"
@@ -22630,7 +22675,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:50-67-9)(CID:5202)(kegg:C00780)(InChi:QZAYGJVTTNCVMB-UHFFFAOYSA-N)(CHEBI:CHEBI:28790)(text:Serotonin)"
+      text "(CAS:50-67-9.)(CID:5202.)(kegg:C00780)(InChi:QZAYGJVTTNCVMB-UHFFFAOYSA-N)(CHEBI:28790)(text:Serotonin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00780"
@@ -22693,7 +22738,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:104-98-3)(CID:736715)(kegg:C00785)(InChi:LOIYMIARKYCTBW-OWOJBTEDSA-N)(CHEBI:CHEBI:27248)(text:Urocanic acid)"
+      text "(CAS:104-98-3.)(CID:736715.)(kegg:C00785)(InChi:LOIYMIARKYCTBW-UHFFFAOYSA-N)(CHEBI:27248)(text:Urocanic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00785"
@@ -22756,7 +22801,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:156-39-8)(CID:979)(kegg:C01179)(InChi:KKADPXVIOXHVKN-UHFFFAOYSA-N)(CHEBI:CHEBI:15999)(text:4-Hydroxyphenylpyruvic acid)(text:4-Hydroxyphenylpyruvate)"
+      text "(CAS:156-39-8.)(CID:979.)(kegg:C01179)(InChi:KKADPXVIOXHVKN-UHFFFAOYSA-N)(CHEBI:15999)(text:4-Hydroxyphenylpyruvic acid.)(text:4-Hydroxyphenylpyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01179"
@@ -22819,7 +22864,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0608-07-01)(CID:1833)(kegg:C05659)(InChi:JTEJPPKMYBDEMY-UHFFFAOYSA-N)(CHEBI:CHEBI:2089)(text:5-Methoxytryptamine)"
+      text "(CAS:0608-07-01.)(CID:1833.)(kegg:C05659)(InChi:JTEJPPKMYBDEMY-UHFFFAOYSA-N)(CHEBI:2089)(text:5-Methoxytryptamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05659"
@@ -22882,7 +22927,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:6482-98-0)(CID:9548580)(kegg:C03672)(InChi:JVGVDSSUAVXRDY-UHFFFAOYSA-N)(CHEBI:CHEBI:17385)(text:4-Hydroxyphenyllactic acid)"
+      text "(CAS:6482-98-0.)(CID:6448.)(kegg:C03672)(InChi:JVGVDSSUAVXRDY-UHFFFAOYSA-N)(CHEBI:17385)(text:4-Hydroxyphenyllactic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03672"
@@ -22945,7 +22990,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-67-2)(CID:5610)(kegg:C00483)(InChi:DZGWFCGJZKJUFP-UHFFFAOYSA-N)(CHEBI:CHEBI:15760)(text:Tyramine)"
+      text "(CAS:51-67-2.)(CID:5610.)(kegg:C00483)(InChi:DZGWFCGJZKJUFP-UHFFFAOYSA-N)(CHEBI:15760)(text:Tyramine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00483"
@@ -23008,7 +23053,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-61-6)(CID:681)(kegg:C03758)(InChi:VYFYYTLLBUKUHU-UHFFFAOYSA-N)(CHEBI:CHEBI:18243)(text:Dopamine)"
+      text "(CAS:51-61-6.)(CID:681.)(kegg:C03758)(InChi:VYFYYTLLBUKUHU-UHFFFAOYSA-N)(CHEBI:18243)(text:Dopamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03758"
@@ -23071,7 +23116,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:492-27-3)(CID:3845)(kegg:C01717)(InChi:HCZHHEIFKROPDY-UHFFFAOYSA-N)(CHEBI:CHEBI:18344)(text:Kynurenic acid)(text:Kynurenate)"
+      text "(CAS:492-27-3.)(CID:3845.)(kegg:C01717)(InChi:HCZHHEIFKROPDY-UHFFFAOYSA-N)(CHEBI:18344)(text:Kynurenic acid.)(text:Kynurenate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01717"
@@ -23134,7 +23179,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2922-83-0)(CID:161166)(kegg:C00328)(InChi:YGPSJZOEDVAXAB-QMMMGPOBSA-N)(CHEBI:CHEBI:16946)(text:Kynurenine)(text:L-Kynurenine)"
+      text "(CAS:2922-83-0.)(CID:161166.)(kegg:C00328)(InChi:YGPSJZOEDVAXAB-QMMMGPOBSA-N)(CHEBI:16946)(text:Kynurenine.)(text:L-Kynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00328"
@@ -23197,10 +23242,10 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:78263-90-8)(CID:586258)(kegg:C13665)(InChi:WYWNEDARFVJQSG-UHFFFAOYSA-N)(CHEBI:CHEBI:31085)(text:Methylserotonine)"
+      text "(CAS:1134-01-6.)(CID:150855.)(kegg:C06212)(InChi:WYWNEDARFVJQSG-UHFFFAOYSA-N)(CHEBI:48294)(text:Methylserotonine.)"
       type "text"
     ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C13665"
+    url "https://www.genome.jp/dbget-bin/www_bget?C06212"
   ]
   node [
     id 384
@@ -23260,7 +23305,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:17340-16-8)(CID:6455)(kegg:C03680)(InChi:HEXMLHKQVUFYME-UHFFFAOYSA-N)(CHEBI:CHEBI:27384)(text:Imidazolone propionate)(text:4-Imidazolone-5-propanoate)"
+      text "(CAS:17340-16-8.)(CID:6455.)(kegg:C03680)(InChi:HEXMLHKQVUFYME-UHFFFAOYSA-N)(CHEBI:27384)(text:Imidazolone propionate.)(text:4-Imidazolone-5-propanoate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03680"
@@ -23323,7 +23368,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:451-13-8)(CID:780)(kegg:C00544)(InChi:IGMNYECMUMZDDF-UHFFFAOYSA-N)(text:Homogentisic acid)(text:Homogentisate)"
+      text "(CAS:451-13-8.)(CID:780.)(kegg:C00544)(InChi:IGMNYECMUMZDDF-UHFFFAOYSA-N)(CHEBI:16169)(CHEBI:44747)(text:Homogentisic acid.)(text:Homogentisate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00544"
@@ -23386,7 +23431,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:104-14-3)(CID:4581)(kegg:C04227)(InChi:QHGUCRYDKWKLMG-QMMMGPOBSA-N)(text:Octopamine)"
+      text "(CAS:104-14-3.)(CID:4581.)(kegg:C04227)(InChi:QHGUCRYDKWKLMG-QMMMGPOBSA-N)(text:Octopamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C04227"
@@ -23449,7 +23494,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-41-2)(CID:439260)(kegg:C00547)(InChi:SFLSHLFXELFNJZ-QMMMGPOBSA-N)(CHEBI:CHEBI:18357)(text:Norepinephrine)"
+      text "(CAS:51-41-2.)(CID:439260.)(kegg:C00547)(InChi:SFLSHLFXELFNJZ-QMMMGPOBSA-N)(CHEBI:18357)(text:Norepinephrine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00547"
@@ -23512,7 +23557,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:118-92-3)(CID:227)(kegg:C00108)(InChi:RWZYAGGXGHYGMB-UHFFFAOYSA-N)(CHEBI:CHEBI:30754)(text:Anthranilic acid)(text:2-Aminobenzoic acid)"
+      text "(CAS:86-04-4.)(CAS:71833-60-8.)(CAS:42599-71-3.)(CID:227.)(kegg:C00108)(InChi:RWZYAGGXGHYGMB-UHFFFAOYSA-N)(CHEBI:30754)(text:Anthranilic acid.)(text:2-Aminobenzoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00108"
@@ -23575,7 +23620,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2147-61-7)(CID:89)(kegg:C02794)(InChi:VCKPUUFAIGNJHC-UHFFFAOYSA-N)(CHEBI:CHEBI:1547)(text:3-Hydroxy-kynurenine)(text:3-Hydroxykynurenine)"
+      text "(CAS:2147-61-7.)(CID:89.)(kegg:C02794)(InChi:VCKPUUFAIGNJHC-UHFFFAOYSA-N)(CHEBI:1547)(text:3-Hydroxy-kynurenine.)(text:3-Hydroxykynurenine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02794"
@@ -23638,7 +23683,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-31-4)(CID:896)(kegg:C01598)(InChi:DRLFMBDRBRZALE-UHFFFAOYSA-N)(CHEBI:CHEBI:16796)(text:Melatonin)"
+      text "(CAS:73-31-4.)(CID:896.)(kegg:C01598)(InChi:DRLFMBDRBRZALE-UHFFFAOYSA-N)(CHEBI:16796)(text:Melatonin.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01598"
@@ -23701,7 +23746,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:816-90-0)(CID:3728)(kegg:C00439)(InChi:NRXIKWMTVXPVEF-BYPYZUCNSA-N)(CHEBI:CHEBI:7274)(text:Formimino-L-glutamate)"
+      text "(CAS:816-90-0.)(CID:439233.)(kegg:C00439)(InChi:NRXIKWMTVXPVEF-BYPYZUCNSA-N)(CHEBI:18327)(CHEBI:7274)(text:Formimino-L-glutamate.)(text:N-Formimino-L-Glutamate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00439"
@@ -23858,7 +23903,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-43-4)(CID:5816)(kegg:C00788)(InChi:UCTWMZQNUQWSLP-VIFPVBQESA-N)(CHEBI:CHEBI:28918)(text:Epinephrine)"
+      text "(CAS:51-43-4.)(CID:5816.)(kegg:C00788)(InChi:UCTWMZQNUQWSLP-VIFPVBQESA-N)(CHEBI:28918)(text:Epinephrine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00788"
@@ -23921,7 +23966,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:548-93-6)(CID:86)(kegg:C00632)(InChi:WJXSWCUQABXPFS-UHFFFAOYSA-N)(CHEBI:CHEBI:15793)(text:3-Hydroxyanthranilic acid)"
+      text "(CAS:548-93-6.)(CID:86.)(kegg:C00632)(InChi:WJXSWCUQABXPFS-UHFFFAOYSA-N)(CHEBI:15793)(CHEBI:36559)(text:3-Hydroxyanthranilic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00632"
@@ -23984,7 +24029,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -24047,7 +24092,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:110-17-8)(CID:444972)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:CHEBI:18012)(text:Fumaric acid)(text:Fum)(text:Fumarate)"
+      text "(CAS:13270-65-0.)(CAS:97-55-2.)(CAS:7540-64-9.)(CAS:13860-42-9.)(CAS:29321-99-1.)(CAS:62726-16-3.)(CAS:13270-65-0.)(CID:444972.)(kegg:C00122)(InChi:VZCYOOQTPOCHFL-OWOJBTEDSA-N)(CHEBI:18012)(text:Fumaric acid.)(text:Fum.)(text:Fumarate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00122"
@@ -24110,7 +24155,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:541-50-4)(CID:3534)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:CHEBI:15344)(text:Acetoacetic acid)"
+      text "(CAS:541-50-4.)(CID:96.)(kegg:C00164)(InChi:WDJHALXBUFZDSR-UHFFFAOYSA-N)(CHEBI:13705)(CHEBI:15344)(text:Acetoacetic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00164"
@@ -24173,7 +24218,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:89-00-9)(CID:1066)(kegg:C03722)(InChi:GJAWHXHKYYXBSV-UHFFFAOYSA-N)(CHEBI:CHEBI:16675)(text:Quinolinic acid)(text:2,3-Pyridinedicarboxylic acid)"
+      text "(CAS:89-00-9.)(CID:1066.)(kegg:C03722)(InChi:GJAWHXHKYYXBSV-UHFFFAOYSA-N)(CHEBI:16675)(text:Quinolinic acid.)(text:2,3-Pyridinedicarboxylic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03722"
@@ -24236,7 +24281,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:3184-35-8)(CID:71)(kegg:C00322)(InChi:FGSBNBBHOZHUBO-UHFFFAOYSA-N)(CHEBI:CHEBI:15753)(text:2-Ketoadipic acid)"
+      text "(CAS:3184-35-8.)(CID:71.)(kegg:C00322)(InChi:FGSBNBBHOZHUBO-UHFFFAOYSA-N)(CHEBI:15753)(text:2-Ketoadipic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00322"
@@ -24287,22 +24332,6 @@ graph [
       ]
       type "text"
     ]
-    labelgraphics1 [
-      alignment "center"
-      anchor "hidden"
-      color "#000000"
-      fontName "Arial"
-      fontSize 12
-      fontStyle "plain"
-      position [
-        localAlign 0.0
-        relHor 0.0
-        relVert 0.0
-      ]
-      text "(CAS:1460-34-0)(CID:47)(kegg:C03465)(InChi:JVQYSWDUAOAHFM-UHFFFAOYSA-N)(CHEBI:CHEBI:35932)(text:Ketoisoleucine)(text:3-Methyl-2-oxovaleric acid)"
-      type "text"
-    ]
-    url "https://www.genome.jp/dbget-bin/www_bget?C03465"
   ]
   node [
     id 402
@@ -24362,7 +24391,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:63-68-3)(CID:6137)(kegg:C00073)(InChi:FFEARJCKVFRZRR-BYPYZUCNSA-N)(CHEBI:CHEBI:16643)(text:Methionine)(text:L-Methionine)(text:Met)"
+      text "(CAS:1428525-25-0.)(CAS:1129294-89-8.)(CID:6137.)(kegg:C00073)(InChi:FFEARJCKVFRZRR-BYPYZUCNSA-N)(CHEBI:16643)(text:Methionine.)(text:L-Methionine.)(text:Met.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00073"
@@ -24425,7 +24454,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:CHEBI:67040)(text:SAM)(text:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -24488,7 +24517,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:462-94-2)(CID:273)(kegg:C01672)(InChi:VHRGRCVQAFMJIZ-UHFFFAOYSA-N)(CHEBI:CHEBI:18127)(text:Cadaverine)"
+      text "(CAS:462-94-2.)(CID:273.)(kegg:C01672)(InChi:VHRGRCVQAFMJIZ-UHFFFAOYSA-N)(CHEBI:18127)(text:Cadaverine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01672"
@@ -24551,7 +24580,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-19-5)(CID:6288)(kegg:C00188)(InChi:AYFVYJQAPQTCCC-GBXIJSLDSA-N)(CHEBI:CHEBI:16857)(text:Threonine)(text:L-Threonine)(text:Thr)"
+      text "(CAS:72-19-5.)(CID:6288.)(kegg:C00188)(InChi:AYFVYJQAPQTCCC-GBXIJSLDSA-N)(CHEBI:16857)(text:Threonine.)(text:L-Threonine.)(text:Thr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00188"
@@ -24614,7 +24643,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:156-57-0)(CID:6058)(kegg:C01678)(InChi:UFULAYFCSOUIOV-UHFFFAOYSA-N)(CHEBI:CHEBI:17141)(text:Cysteamine)"
+      text "(CAS:60-23-1.)(CID:6058.)(kegg:C01678)(InChi:UFULAYFCSOUIOV-UHFFFAOYSA-N)(CHEBI:17141)(text:Cysteamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01678"
@@ -24677,7 +24706,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -24740,7 +24769,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-18-4)(CID:6287)(kegg:C00183)(InChi:KZSNJWFQEVHDMF-BYPYZUCNSA-N)(CHEBI:CHEBI:16414)(text:Valine)(text:L-Valine)(text:Val)"
+      text "(CAS:72-18-4.)(CID:6287.)(kegg:C00183)(InChi:KZSNJWFQEVHDMF-BYPYZUCNSA-N)(CHEBI:16414)(text:Valine.)(text:L-Valine.)(text:Val.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00183"
@@ -24803,7 +24832,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CID:6318)(kegg:C03508)(InChi:SAUCHDKDCUROAO-VKHMYHEASA-N)(CHEBI:CHEBI:40673)(text:Aminoketobutylate)(text:L-2-Amino-3-oxobutanoic acid)"
+      text "(CID:6318.)(kegg:C03508)(InChi:SAUCHDKDCUROAO-VKHMYHEASA-N)(CHEBI:40673)(text:Aminoketobutylate.)(text:L-2-Amino-3-oxobutanoic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C03508"
@@ -24866,7 +24895,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1118-90-7)(CID:92136)(kegg:C00956)(InChi:OYIFNHCXNCRBQI-BYPYZUCNSA-N)(CHEBI:CHEBI:37023)(text:2-Aminoadipic acid)(text:Amino adipic acid)"
+      text "(CAS:542-32-5.)(CID:92136.)(kegg:C00956)(InChi:OYIFNHCXNCRBQI-BYPYZUCNSA-N)(CHEBI:37023)(text:2-Aminoadipic acid.)(text:Amino adipic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00956"
@@ -24929,7 +24958,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2381-08-0)(CID:109)(InChi:ADVPTQAUNPRNPO-UHFFFAOYSA-N)(text:3-Sulfinoalanine)"
+      text "(CAS:2381-08-0.)(CID:109.)(InChi:ADVPTQAUNPRNPO-UHFFFAOYSA-N)(text:3-Sulfinoalanine.)"
       type "text"
     ]
   ]
@@ -24991,7 +25020,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-40-6)(CID:750)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:CHEBI:15428)(text:Glycine)(text:Gly)"
+      text "(CAS:56-40-6.)(CAS:52955-63-2.)(CAS:57678-19-0.)(CAS:87867-94-5.)(CAS:848646-45-7.)(CAS:1119449-36-3.)(CAS:1173020-11-5.)(CAS:1196157-78-4.)(CAS:1153953-88-8.)(CAS:18875-39-3.)(CAS:25718-94-9.)(CID:750.)(kegg:C00037)(InChi:DHMQDGOQFOQNFH-UHFFFAOYSA-N)(CHEBI:15428)(text:Glycine.)(text:Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00037"
@@ -25054,7 +25083,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:73-32-5)(CID:6306)(kegg:C00407)(InChi:AGPKZVBTJJNPAG-WHFBIAKZSA-N)(CHEBI:CHEBI:17191)(text:Isoleucine)(text:L-Isoleucine)(text:Ile)"
+      text "(CAS:73-32-5.)(CID:6306.)(kegg:C00407)(InChi:AGPKZVBTJJNPAG-WHFBIAKZSA-N)(CHEBI:17191)(text:Isoleucine.)(text:L-Isoleucine.)(text:Ile.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00407"
@@ -25117,7 +25146,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:454-29-5)(CID:778)(kegg:C00155)(InChi:FFFHZYDWPBMWHY-VKHMYHEASA-N)(CHEBI:CHEBI:17588)(text:Homocysteine)(text:DL-Homocysteine)(text:HomoCys)"
+      text "(CAS:6027-13-0.)(CID:91552.)(kegg:C00155)(InChi:FFFHZYDWPBMWHY-UKHMYHEASA-N)(CHEBI:17588)(text:Homocysteine.)(text:DL-Homocysteine.)(text:HomoCys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00155"
@@ -25180,7 +25209,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0759-05-07)(CID:49)(kegg:C00141)(InChi:QHKABHOOEWYVLI-UHFFFAOYSA-N)(CHEBI:CHEBI:16530)(text:2-Keto-isovaleric acid)(text:Alpha-Ketovaline)(text:2-Ketoisovaleric acid)"
+      text "(CAS:71-00-1.)(CAS:150-35-6.)(CAS:155304-24-8.)(CAS:35479-49-3.)(CAS:35558-59-9.)(CAS:45955-20-2.)(CAS:54166-13-1.)(CAS:7006-35-1.)(CAS:736075-03-9.)(CAS:26062-48-6.)(CID:49.)(kegg:C00141)(InChi:QHKABHOOEWYVLI-UHFFFAOYSA-N)(CHEBI:11851)(CHEBI:16530)(text:2-Keto-isovaleric acid.)(text:Alpha-Ketovaline.)(text:2-Ketoisovaleric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00141"
@@ -25243,7 +25272,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:997-68-2)(CID:160556)(kegg:C00449)(InChi:ZDGJAHTZVHVLOT-YUMQZZPRSA-N)(CHEBI:CHEBI:16927)(text:Saccharopine)(text:L-Saccharopine)"
+      text "(CAS:997-68-2.)(CID:160556.)(kegg:C00449)(InChi:ZDGJAHTZVHVLOT-YUMQZZPRSA-N)(CHEBI:16927)(text:Saccharopine.)(text:L-Saccharopine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00449"
@@ -25306,7 +25335,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:52-90-4)(CID:5862)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:CHEBI:17561)(text:Cysteine)(text:L-Cysteine)(text:Cys)"
+      text "(CAS:56-73-5.)(CAS:299-31-0.)(CAS:3415-10-9.)(CAS:3458-17-1.)(CID:5862.)(kegg:C00097)(InChi:XUJNEKJLAYXESH-REOHCLBHSA-N)(CHEBI:17561)(text:Cysteine.)(text:L-Cysteine.)(text:Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00097"
@@ -25369,7 +25398,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:88947-38-0)(CID:7870)(kegg:C05527)(InChi:JXYLQEMXCAAMOL-UHFFFAOYSA-N)(CHEBI:CHEBI:1665)(text:3-Sulfinopyruvate)"
+      text "(CAS:88947-38-0.)(CID:7870.)(kegg:C05527)(InChi:JXYLQEMXCAAMOL-UHFFFAOYSA-N)(CHEBI:1665)(text:3-Sulfinopyruvate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C05527"
@@ -25432,7 +25461,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:61-90-5)(CID:6106)(kegg:C00123)(InChi:ROHFNLRQFUQHCH-YFKPBYRVSA-N)(CHEBI:CHEBI:15603)(text:Leucine)(text:L-Leucine)(text:Leu)"
+      text "(CAS:58-85-5.)(CAS:15720-24-8.)(CAS:22879-79-4.)(CAS:3672-05-7.)(CAS:58073-87-3.)(CAS:56846-45-8.)(CID:6106.)(kegg:C00123)(InChi:ROHFNLRQFUQHCH-YFKPBYRVSA-N)(CHEBI:15603)(text:Leucine.)(text:L-Leucine.)(text:Leu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00123"
@@ -25542,7 +25571,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -25605,7 +25634,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-45-1)(CID:5951)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:CHEBI:17115)(text:Serine)(text:L-Serine)(text:Ser)"
+      text "(CAS:56-45-1.)(CAS:6898-95-9.)(CAS:154605-73-9.)(CAS:25821-52-7.)(CID:5951.)(kegg:C00065)(InChi:MTCFGRXMJLQNBG-REOHCLBHSA-N)(CHEBI:17115)(text:Serine.)(text:L-Serine.)(text:Ser.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00065"
@@ -25668,7 +25697,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:300-84-5)(CID:107812)(kegg:C00519)(InChi:VVIUBCNYACGLLV-UHFFFAOYSA-N)(CHEBI:CHEBI:16668)(text:Hypotaurine)"
+      text "(CAS:300-84-5.)(CID:107812.)(kegg:C00519)(InChi:VVIUBCNYACGLLV-UHFFFAOYSA-N)(CHEBI:16668)(text:Hypotaurine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00519"
@@ -25731,7 +25760,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-88-2)(CID:439258)(kegg:C02291)(InChi:ILRYLPWNYFXEMH-WHFBIAKZSA-N)(CHEBI:CHEBI:17482)(text:Cystathionine)(text:L-Cystathionine)"
+      text "(CAS:56-88-2.)(CID:439258.)(kegg:C02291)(InChi:ILRYLPWNYFXEMH-WHFBIAKZSA-N)(CHEBI:17482)(text:Cystathionine.)(text:L-Cystathionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02291"
@@ -25794,7 +25823,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -25857,7 +25886,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:51-85-4)(CID:2915)(InChi:APQPRKLAWCIJEK-UHFFFAOYSA-N)(CHEBI:CHEBI:78757)(text:Cystamine)"
+      text "(CAS:51-85-4.)(CID:2915.)(InChi:APQPRKLAWCIJEK-UHFFFAOYSA-N)(CHEBI:78757)(text:Cystamine.)"
       type "text"
     ]
   ]
@@ -25919,7 +25948,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-89-3)(CID:67678)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:CHEBI:16283)(text:Cystine)(text:L-Cystine)(text:Cys-Cys)"
+      text "(CAS:56-89-3.)(CID:67678.)(kegg:C00491)(InChi:LEVWYRKDKASIDU-IMJSIDKUSA-N)(CHEBI:16283)(text:Cystine.)(text:L-Cystine.)(text:Cys-Cys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00491"
@@ -25982,7 +26011,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:600-18-0)(CID:58)(kegg:C00109)(InChi:TYEYBOSBBBHJIV-UHFFFAOYSA-N)(CHEBI:CHEBI:30831)(text:2-Ketobutyric acid)"
+      text "(CAS:58-97-9.)(CAS:53624-79-6.)(CAS:81795-92-8.)(CAS:27416-86-0.)(CID:58.)(kegg:C00109)(InChi:TYEYBOSBBBHJIV-UHFFFAOYSA-N)(CHEBI:30831)(text:2-Ketobutyric acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00109"
@@ -26045,7 +26074,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:75899-14-8)(CID:25246222)(kegg:C00021)(InChi:ZJUKTBDSGOFHSH-WFMPWKQPSA-N)(CHEBI:CHEBI:16680)(text:S-Adenosylhomocysteine)(text:S-Adenosyl-L-homocysteine)(text:SAH)"
+      text "(CAS:979-92-0.)(CID:439155.)(kegg:C00021)(InChi:ZJUKTBDSGOFHSH-WFMPWKQPSA-N)(CHEBI:16680)(text:S-Adenosylhomocysteine.)(text:S-Adenosyl-L-homocysteine.)(text:SAH.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00021"
@@ -26108,7 +26137,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:127-17-3)(CID:1060)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:CHEBI:32816)(text:Pyruvic acid)(text:Pyruvate)(text:Pyr)"
+      text "(CAS:127-17-3.)(CID:1060.)(kegg:C00022)(InChi:LCTONWCANYUPML-UHFFFAOYSA-N)(CHEBI:15361)(text:Pyruvic acid.)(text:Pyruvate.)(text:Pyr.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00022"
@@ -26171,7 +26200,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-86-0)(CID:33032)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:CHEBI:16015)(text:Glutamic acid)(text:Glu)"
+      text "(CAS:56-86-0.)(CAS:10549-13-0.)(CAS:138-16-9.)(CAS:6899-05-4.)(CAS:2087491-17-4.)(CAS:25513-46-6.)(CAS:24938-00-9.)(CAS:26717-13-5.)(CAS:84960-48-5.)(CAS:6106-04-3.)(CID:33032.)(kegg:C00025)(InChi:WHUUTDBJXJRKMK-VKHMYHEASA-N)(CHEBI:16015)(text:Glutamic acid.)(text:Glu.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00025"
@@ -26234,7 +26263,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1259312-93-0)(CID:5957)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:CHEBI:15422)(text:ATP)(text:Adenosine triphosphate)(text:Adenosine 5'-triphosphate)"
+      text "(CAS:56-65-5.)(CID:5957.)(kegg:C00002)(InChi:ZKHQWZAMYRWXGA-KQYNXXCUSA-N)(CHEBI:15422)(text:ATP.)(text:Adenosine triphosphate.)(text:Adenosine 5d-triphosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00002"
@@ -26297,7 +26326,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:107-35-7)(CID:1123)(kegg:C00245)(InChi:XOAAWQZATWQOTB-UHFFFAOYSA-N)(CHEBI:CHEBI:15891)(text:Taurine)"
+      text "(CAS:107-35-7.)(CID:1123.)(kegg:C00245)(InChi:XOAAWQZATWQOTB-UHFFFAOYSA-N)(CHEBI:15891)(text:Taurine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00245"
@@ -26407,7 +26436,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:498-40-8)(CID:72886)(kegg:C00506)(InChi:XVOYSCVBGLVSOL-REOHCLBHSA-N)(CHEBI:CHEBI:17285)(text:Cysteic acid)(text:L-Cysteic acid)"
+      text "(CAS:13100-82-8.)(CID:72886.)(kegg:C00506)(InChi:XVOYSCVBGLVSOL-UHFFFAOYSA-N)(CHEBI:17285)(text:Cysteic acid.)(text:L-Cysteic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00506"
@@ -26470,7 +26499,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1118-90-7)(CID:17917)(kegg:C04076)(InChi:GFXYTQPNNXGICT-YFKPBYRVSA-N)(CHEBI:CHEBI:17917)(text:Allysine)(text:2-Aminoadipate 6-semialdehyde)"
+      text "(CAS:1118-90-7.)(CID:17917.)(kegg:C04076)(InChi:GFXYTQPNNXGICT-YFKPBYRVSA-N)(CHEBI:17917)(text:Allysine.)(text:2-Aminoadipate 6-semialdehyde.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C04076"
@@ -26533,7 +26562,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:816-66-0)(CID:70)(kegg:C00233)(InChi:BKAJNAXTPSGJCU-UHFFFAOYSA-N)(text:2-Ketoisocaproic acid)"
+      text "(CAS:816-66-0.)(CID:70.)(kegg:C00233)(InChi:BKAJNAXTPSGJCU-UHFFFAOYSA-N)(CHEBI:ChEBI:17865)(CHEBI:48430)(text:2-Ketoisocaproic acid.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00233"
@@ -26643,7 +26672,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-50-7)(CID:51)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:CHEBI:30915)(text:2-Ketoglutaric acid)(text:2-Oxoglutarate)(text:2KG)"
+      text "(CAS:328-50-7.)(CAS:27175-99-1.)(CAS:34410-46-3.)(CAS:17091-15-5.)(CAS:22202-68-2.)(CAS:997-43-3.)(CID:51.)(kegg:C00026)(InChi:KPGXRSRHYNQIFN-UHFFFAOYSA-N)(CHEBI:30915)(text:2-Ketoglutaric acid.)(text:2-Oxoglutarate.)(text:2KG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00026"
@@ -26706,7 +26735,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-87-1)(CID:5962)(kegg:C00047)(InChi:KDXKERNSBIXSRK-YFKPBYRVSA-N)(CHEBI:CHEBI:18019)(text:Lysine)(text:L-Lysine)(text:Lys)"
+      text "(CAS:56-87-1.)(CAS:48050-57-3.)(CAS:6899-06-5.)(CAS:280114-50-3.)(CAS:1150316-18-9.)(CAS:1153953-95-7.)(CAS:2087491-46-9.)(CAS:2139267-51-7.)(CAS:12798-06-0.)(CAS:20166-34-1.)(CAS:25104-18-1.)(CAS:26714-32-9.)(CAS:923-27-3.)(CID:5962.)(kegg:C00047)(InChi:KDXKERNSBIXSRK-YFKPBYRVSA-N)(CHEBI:18019)(text:Lysine.)(text:L-Lysine.)(text:Lys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00047"
@@ -26769,7 +26798,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:CHEBI:15351)(text:Acetyl coenzyme A)(text:AcetylCOA)(text:Acetyl-Coenzyme A)(text:Ace-CoA)(text:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -26832,7 +26861,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:71-44-3)(CID:1103)(kegg:C00750)(InChi:PFNFFQXMRSDOHW-UHFFFAOYSA-N)(CHEBI:CHEBI:15746)(text:Spermine)"
+      text "(CAS:71-44-3.)(CID:1103.)(kegg:C00750)(InChi:PFNFFQXMRSDOHW-UHFFFAOYSA-N)(CHEBI:15746)(text:Spermine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00750"
@@ -26895,7 +26924,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:124-20-9)(CID:1102)(kegg:C00315)(InChi:ATHGHQPFGPMSJY-UHFFFAOYSA-N)(CHEBI:CHEBI:16610)(text:Spermidine)"
+      text "(CAS:124-20-9.)(CID:1102.)(kegg:C00315)(InChi:ATHGHQPFGPMSJY-UHFFFAOYSA-N)(CHEBI:16610)(text:Spermidine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00315"
@@ -26958,7 +26987,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:22365-13-5)(CID:4368)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:CHEBI:15625)(text:Deoxy-SAM)(text:S-Adenosylmethioninamine)"
+      text "(CAS:22365-13-5.)(CID:439415.)(kegg:C01137)(InChi:ZUNBITIXDCPNSD-LSRJEVITSA-N)(CHEBI:15625)(text:Deoxy-SAM.)(text:S-Adenosylmethioninamine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01137"
@@ -27021,7 +27050,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:68-94-0)(CID:790)(kegg:C00262)(InChi:FDGQSTZJBFJUBT-UHFFFAOYSA-N)(CHEBI:CHEBI:17368)(text:Hypoxanthine)"
+      text "(CAS:68-94-0.)(CID:135398638.)(kegg:C00262)(InChi:FDGQSTZJBFJUBT-UHFFFAOYSA-N)(CHEBI:17368)(text:Hypoxanthine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00262"
@@ -27084,7 +27113,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:302-72-7)(CID:602)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-REOHCLBHSA-N)(CHEBI:CHEBI:16977)(text:Alanine)(text:Ala)"
+      text "(CAS:302-72-7.)(CAS:338-69-2.)(CAS:56-41-8.)(CID:602.)(kegg:C00041)(InChi:QNAYBMKLOCPYGJ-UHFFFAOYSA-N)(CHEBI:16977)(text:Alanine.)(text:Ala.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00041"
@@ -27147,7 +27176,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:305-84-0)(CID:439224)(kegg:C00386)(InChi:CQOVPNPJLQNMDC-ZETCQYMHSA-N)(CHEBI:CHEBI:15727)(text:Carnosine)"
+      text "(CAS:305-84-0.)(CID:439224.)(kegg:C00386)(InChi:CQOVPNPJLQNMDC-ZETCQYMHSA-N)(CHEBI:15727)(text:Carnosine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00386"
@@ -27210,7 +27239,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:72-89-9)(CID:444493)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:CHEBI:15351)(text:Acetyl coenzyme A)(text:AcetylCOA)(text:Acetyl-Coenzyme A)(text:Ace-CoA)(text:AcetylCoA)"
+      text "(CAS:72-89-9.)(CID:444493.)(kegg:C00024)(InChi:ZSLZBFCDCINBPY-ZSJPKINUSA-N)(CHEBI:15351)(text:Acetyl coenzyme A.)(text:Acetyl CoA.)(text:AcetylCOA.)(text:Acetyl-Coenzyme A.)(text:Ace-CoA.)(text:AcetylCoA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00024"
@@ -27320,7 +27349,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:CHEBI:67040)(text:SAM)(text:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -27430,7 +27459,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:123-41-1)(CID:305)(kegg:C00114)(InChi:OEYIOHPDSNJKLS-UHFFFAOYSA-N)(CHEBI:CHEBI:15354)(text:Choline)"
+      text "(CAS:600-18-0.)(CID:305.)(kegg:C00114)(InChi:OEYIOHPDSNJKLS-UHFFFAOYSA-N)(CHEBI:15354)(text:Choline.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00114"
@@ -27493,7 +27522,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:103239-24-3)(CID:11215652)(kegg:C00127)(InChi:YPZRWBKMTBYPTK-BJDJZHNGSA-N)(CHEBI:CHEBI:17858)(text:Oxidized glutathione)(text:GSSG)"
+      text "(CAS:110-17-8.)(CAS:623158-97-4.)(CAS:909873-99-0.)(CAS:6915-18-0.)(CID:65359.)(kegg:C00127)(InChi:YPZRWBKMTBYPTK-BJDJZHNGSA-N)(CHEBI:17858)(text:Oxidized glutathione.)(text:GSSG.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00127"
@@ -27556,7 +27585,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:24346-00-7)(CID:34755)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:CHEBI:67040)(text:SAM)(text:S-Adenosylmethionine)"
+      text "(CAS:29908-03-0.)(CID:34755.)(kegg:C00019)(InChi:MEFKEPWMEQBLKI-AIRLBKTGSA-N)(CHEBI:15414)(text:SAM.)(text:S-Adenosylmethionine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00019"
@@ -27666,7 +27695,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:70-18-8)(CID:124886)(kegg:C00051)(InChi:RWSXRVCMGQZWBV-WDSKDSINSA-N)(CHEBI:CHEBI:16856)(text:Glutathione)(text:L-Cysteinylglycine)(text:Cys-Gly)"
+      text "(CAS:70-18-8.)(CAS:1109226-07-4.)(CAS:1655518-50-5.)(CID:124886.)(kegg:C00051)(InChi:RWSXRVCMGQZWBV-WDSKDSINSA-N)(CHEBI:16856)(text:Glutathione.)(text:L-Cysteinylglycine.)(text:Cys-Gly.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00051"
@@ -27729,7 +27758,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:53-59-8)(CID:5886)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:CHEBI:18009)(text:NADP)(text:Nicotinamide adenine dinucleotide phosphate)"
+      text "(CAS:53-59-8.)(CID:5886.)(kegg:C00006)(InChi:XJLXINKUBYWONI-NNYOXOHSSA-O)(CHEBI:18009)(text:NADP.)(text:Nicotinamide adenine dinucleotide phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00006"
@@ -27792,7 +27821,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1327-41-9)(CID:187)(kegg:C01996)(InChi:OIPILFWXSMYKGL-UHFFFAOYSA-N)(CHEBI:CHEBI:15355)(text:Acetylcholine)"
+      text "(CAS:51-84-3.)(CID:187.)(kegg:C01996)(InChi:OIPILFWXSMYKGL-UHFFFAOYSA-N)(CHEBI:15355)(text:Acetylcholine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01996"
@@ -27855,7 +27884,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:87-89-8)(CID:892)(kegg:C00137)(InChi:CDAISMWEOUEBRE-GPIVLXJGSA-N)(CHEBI:CHEBI:17268)(text:Inositol)"
+      text "(CAS:1927-31-7.)(CAS:67460-17-7.)(CID:892.)(kegg:C00137)(InChi:CDAISMWEOUEBRE-UHFFFAOYSA-N)(CHEBI:17268)(text:Inositol.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00137"
@@ -27918,7 +27947,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:15421-51-9)(CID:107737)(kegg:C01177)(InChi:INAPMGSXUVUWAF-UOTPTPDRSA-N)(CHEBI:CHEBI:18297)(text:Inositol phosphate)"
+      text "(CAS:15421-51-9.)(CID:107737.)(kegg:C01177)(InChi:INAPMGSXUVUWAF-UOTPTPDRSA-N)(CHEBI:18297)(text:Inositol phosphate.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01177"
@@ -27981,7 +28010,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:1946-82-3)(CID:92907)(kegg:C12989)(InChi:VEYYWZRYIYDQJM-ZETCQYMHSA-N)(CHEBI:CHEBI:35704)(text:N-Acetyl-Lysine)(text:N2-Acetyl- L-lysine)(text:N-Acetyl-Lys)"
+      text "(CAS:1946-82-3.)(CID:92907.)(kegg:C12989)(InChi:VEYYWZRYIYDQJM-ZETCQYMHSA-N)(CHEBI:35704)(text:N-Acetyl-Lysine.)(text:N2-Acetyl- L-lysine.)(text:N-Acetyl-Lys.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C12989"
@@ -28044,7 +28073,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:0692-04-06)(CID:92832)(kegg:C02727)(InChi:DTERQYGMUDWYAZ-ZETCQYMHSA-N)(CHEBI:CHEBI:17752)(text:N6-Acetyllysine)"
+      text "(CAS:0692-04-06.)(CID:92832.)(kegg:C02727)(InChi:DTERQYGMUDWYAZ-ZETCQYMHSA-N)(CHEBI:17752)(text:N6-Acetyllysine.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C02727"
@@ -29282,7 +29311,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:328-42-7)(CID:970)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(text:Oxalacetic acid)(text:Oxaloacetate)(text:Oxaloacetic acid)(text:OAA)"
+      text "(CAS:328-42-7.)(CID:970.)(kegg:C00036)(InChi:KHPXUQMNIQBQEV-UHFFFAOYSA-N)(CHEBI:30744)(text:Oxalacetic acid.)(text:Oxaloacetate.)(text:OAA.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00036"
@@ -29345,7 +29374,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:56-85-9)(CID:6992086)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:CHEBI:18050)(text:Glutamine)(text:Gln)"
+      text "(CAS:56-85-9.)(CID:6992086.)(kegg:C00064)(InChi:ZDXPYRJPNDTMRX-VKHMYHEASA-N)(CHEBI:18050)(text:Glutamine.)(text:Gln.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C00064"
@@ -29408,7 +29437,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2641-81-8)(CID:4457)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:CHEBI:16938)(text:6-Phosphogluconolactone)(text:6-Phospho-D-glucono-1,5-lactone)"
+      text "(CAS:2641-81-8.)(CID:439452.)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:16938)(text:6-Phosphogluconolactone.)(text:6-Phospho-D-glucono-1,5-lactone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01236"
@@ -30798,7 +30827,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "(CAS:2641-81-8)(CID:4457)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:CHEBI:16938)(text:6-Phosphogluconolactone)(text:6-Phospho-D-glucono-1,5-lactone)"
+      text "(CAS:2641-81-8.)(CID:439452.)(kegg:C01236)(InChi:IJOJIVNDFQSGAB-SQOUGZDYSA-N)(CHEBI:16938)(text:6-Phosphogluconolactone.)(text:6-Phospho-D-glucono-1,5-lactone.)"
       type "text"
     ]
     url "https://www.genome.jp/dbget-bin/www_bget?C01236"
